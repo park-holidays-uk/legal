@@ -92,8 +92,11 @@ We are required to provide you with a copy of the Black Horse Data Privacy Notic
 | --- | --- | --- |
 | Harvey Longsons (controller),   Purple Bricks (controller),   Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
 | --- | --- | --- |
+---
 |*3. Debt Recovery*|
+---
 | --- | --- | --- |
+---
 | Shoosmiths LLP (Joint Controller)| To collect and manage debt recovery| Name, address, telephone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.|
 
 ---
