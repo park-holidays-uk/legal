@@ -75,19 +75,19 @@ Please see a list of controllers below:
 
 | Category| Purpose| Data Disclosed|
 | --- | --- | ---|
-| ==================== | ==================== | ==================== |
+| ========================= | ==================== | ==================== |
 | *1. Payment Processors*|
 | Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller)| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Zebra Finance Ltd.| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Santander Consumer (UK) Plc| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Black Horse Ltd| To process Park Holidays data subjects' application for credit.
 We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| ==================== | ==================== | ==================== |
+| ========================= | ==================== | ==================== |
 |*2. Service Operator(s)*|
 | My Holiday Caravan (joint controller)| Prospect marketing and enquiry generation.| Name, address, telephone number, email address.|
 | GFM (controller),   Hoseasons (controller),   Booking.com (controller),   Breakfree (controller),   Airbnb (controller),   Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
 | Harvey Longsons (controller),   Purple Bricks (controller),   Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
-| ==================== | ==================== | ==================== |
+| ========================= | ==================== | ==================== |
 | *3. Debt Recovery*|
 | Shoosmiths LLP (Joint Controller)| To collect and manage debt recovery| Name, address, telephone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.|
 
@@ -139,7 +139,7 @@ We are required to provide you with a copy of the Black Horse Data Privacy Notic
 ---
 | Cookie Source| Type| Description|
 | --- | --- | ---|
-| ============ | ======= | ==================== |
+| ============ | ========== | ==================== |
 | Google Analytics| 1st Party| Google Analytics is a free service offered by Google that generates detailed statistics about visitors to a Web site for marketers. Google Analytics makes it possible to track users across search engines, email campaigns and display advertising giving advertisers the opportunity to optimize campaigns on multiple platforms.|
 | Facebook| 1st Party| We use cookies if you have a Facebook account, use the Facebook Products, including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.|
 | Twitter| 1st Party| We (along with third parties) use these technologies on our websites, applications, and services and on other websites, applications, and services that have integrated our services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from our websites or applications, view or interact with third-party content from within our services or visit third-party websites that incorporate our advertising technology.|
