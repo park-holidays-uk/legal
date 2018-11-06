@@ -83,12 +83,7 @@ Please see a list of controllers below:
 We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 |*2. Service Operator(s)*|
 | My Holiday Caravan (joint controller)| Prospect marketing and enquiry generation.| Name, address, telephone number, email address.|
-| GFM (controller)
-Hoseasons (controller)
-Booking.com (controller)
-Breakfree (controller)
-Airbnb (controller)
-Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
+| GFM (controller), Hoseasons (controller), Booking.com (controller), Breakfree (controller), Airbnb (controller), Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
 | Harvey Longsons (controller)
 Purple Bricks (controller)
 Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
