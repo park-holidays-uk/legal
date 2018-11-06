@@ -76,25 +76,18 @@ Please see a list of controllers below:
 | Category| Purpose| Data Disclosed|
 | --- | --- | ---|
 | *1. Payment Processors*|
-
 | Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller)| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-
 | Zebra Finance Ltd.| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-
 | Santander Consumer (UK) Plc| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-
 | Black Horse Ltd| To process Park Holidays data subjects' application for credit.
 We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | --- | --- | --- |
 |*2. Service Operator(s)*|
-
 | My Holiday Caravan (joint controller)| Prospect marketing and enquiry generation.| Name, address, telephone number, email address.|
 | GFM (controller),   Hoseasons (controller),   Booking.com (controller),   Breakfree (controller),   Airbnb (controller),   Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
-
 | Harvey Longsons (controller),   Purple Bricks (controller),   Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
 | --- | --- | ---|
 | *3. Debt Recovery*|
-
 | Shoosmiths LLP (Joint Controller)| To collect and manage debt recovery| Name, address, telephone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.|
 
 ---
