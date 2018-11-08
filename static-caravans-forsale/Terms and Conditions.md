@@ -18,6 +18,8 @@ Nothing in these terms shall limit our liability for fraudulent misrepresentatio
 
 You acknowledge and agree that by placing an advert with us, you will provide us with and we will collect from you certain personal data relating to you (e.g. name, address and contact details). This personal data will be processed in accordance with our Privacy Policy and may be used for a number of purposes (as further detailed in our Privacy Policy) and which may include the prevention and detection of fraud, assisting with police investigations and/or enquiries and/or complying with statutory and regulatory obligations. 
 
+Any content or images used to create an advert on [staticCaravans] must be a true reflection of the holiday home in its current condition. Content and images should only be used if you own the rights to use them. Using images from other websites or sources without explicit permission to use them for the purpose of advertising your holiday home on this site is not permitted.
+
 We cannot guarantee that by placing an advert on [staticCaravans], you will sell the holiday home in question and we do not commit to finding a buyer for you. Our role is solely to provide a platform on which you can advertise your holiday home for sale.
 
 If, as a result of placing an advert, you are successful in selling your holiday home, [staticCaravans] will not be connected in any way to that sale and will not be liable or responsible under any contract for the sale of your vehicle which you might enter into with a third party.
