@@ -1,5 +1,3 @@
-# Terms and Conditions
-
 You accept these Terms of Use which are designed to make sure that [staticCaravans] works for everyone by clicking the "Create Account" button when registering a [staticCaravans] account and by otherwise accessing or using the [staticCaravans] websites, services, applications and tools (Collectively referred to as "[staticCaravans]"), including posting an ad; or as otherwise indicated on a specific site, service, application or tool.
 
 **Disclaimer**
