@@ -1,5 +1,3 @@
-# Terms and Conditions
-
 **Ownership of Site; Agreement to Terms of Use**
 
 These Terms and Conditions of Use (the "Terms of Use") apply to the Park Holidays UK Limited (“ Park Holidays UK Limited”) (which is a subsidiary of Tiger Topco 1 Limited) web site located at www.parkholidays.com, and all associated sites linked to www.parkholidays.com by Park Holidays UK, its subsidiaries and affiliates (collectively, the "Site"). The Site is the property of Park Holidays UK Ltd. ("Park Holidays UK") and its licensors. By accessing this Site, you agree to be bound by the Terms. Before using this Site you should read these terms carefully as well as our Privacy Policy which includes our Cookies Policy. 
