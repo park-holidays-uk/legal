@@ -1,3 +1,4 @@
+
 Data protection is a particularly high priority for Park Holidays UK. When we process our data subjects or site visitor personal data, we ensure it will always be consistent with the EU General Data Protection Regulations (GDPR), and in accordance with the Data Protection Act 2018 in the UK. By means of this Privacy Policy and data protection declaration, Park Holidays UK would like to inform our data subject of the nature, scope, and purpose of the personal data we collect, use, process and share. Furthermore, our data subjects are informed, by means of this policy of the rights to which they are entitled.
 
 Park Holidays UK has implemented numerous technical and organisational measures to ensure the most complete protection of personal data processed through this website and other channels. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.
@@ -48,19 +49,13 @@ Park Holidays UK has implemented numerous technical and organisational measures 
   The Controller for the purposes of the EU General Data Protection Regulation (GDPR), is:
 
    Park Holidays UK Ltd
-
    Glovers House 
-
    Bexhill-On-Sea 
-
    TN39 5ES 
-
    United Kingdom 
 
    Phone: 01424234234 
-
    Email: [info@parkholidays.com](mailto:info@parkholidays.com)
-
    Website: [https://www.parkholidays.com](https://www.parkholidays.com)
 
 
@@ -73,20 +68,17 @@ Please see a list of controllers below:
 
 **Controllers & Joint Controllers**
 
-| Category| Purpose| Data Disclosed|
-| --- | --- | ---|
-| ========================= | ==================== | ==================== |
-| *1. Payment Processors*|
-| Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller)| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
+| Category | Purpose | Data Disclosed |
+| --- | --- | --- |
+| *1. Payment Processors* |
+| Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Zebra Finance Ltd.| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Santander Consumer (UK) Plc| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Black Horse Ltd| To process Park Holidays data subjects' application for credit. *We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf*| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| ========================= | ==================== | ==================== |
 |*2. Service Operator(s)*|
 | My Holiday Caravan (joint controller)| Prospect marketing and enquiry generation.| Name, address, telephone number, email address.|
 | GFM (controller),   Hoseasons (controller),   Booking.com (controller),   Breakfree (controller),   Airbnb (controller),   Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
 | Harvey Longsons (controller),   Purple Bricks (controller),   Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
-| ========================= | ==================== | ==================== |
 | *3. Debt Recovery*|
 | Shoosmiths LLP (Joint Controller)| To collect and manage debt recovery| Name, address, telephone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.|
 
@@ -96,19 +88,14 @@ Please see a list of controllers below:
 **3. Name and Address of the Data Protection Officer:**
 
    Data Protection Officer 
-
    Park Holidays UK Ltd 
-
    Glovers House 
-
    Bexhill-On-Sea 
-
    TN39 5ES 
 
    United Kingdom 
 
    Email: [dpo@parkholidays.com ](mailto:dpo@parkholidays.com )
-
    Website: [https://www.parkholidays.com](https://www.parkholidays.com)
 
 ---
@@ -138,7 +125,6 @@ Please see a list of controllers below:
 ---
 | Cookie Source| Type| Description|
 | --- | --- | ---|
-| ============ | ========== | ==================== |
 | Google Analytics| 1st Party| Google Analytics is a free service offered by Google that generates detailed statistics about visitors to a Web site for marketers. Google Analytics makes it possible to track users across search engines, email campaigns and display advertising giving advertisers the opportunity to optimize campaigns on multiple platforms.|
 | Facebook| 1st Party| We use cookies if you have a Facebook account, use the Facebook Products, including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.|
 | Twitter| 1st Party| We (along with third parties) use these technologies on our websites, applications, and services and on other websites, applications, and services that have integrated our services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from our websites or applications, view or interact with third-party content from within our services or visit third-party websites that incorporate our advertising technology.|
@@ -324,7 +310,3 @@ Park Holidays UK reserve the right to amend or modify this Privacy Policy at any
 ---
 
 *Last Updated: 26 June 2018*
-
-
-
-
