@@ -9,6 +9,7 @@
 | Live Chat| Live chat and lead generation.| Information provided by the data subject which may include Name, email address, chat transcripts, IP address, geographical location, website browsing history.|
 | Hootsuite| Social media software management and processing.| Information provided by data subject on social media websites.|
 | Upward Comms| Fullfilment and mailing house| Name, address, email address, telephone number.|
+| Trustpilot| Service review | Name, email address, Booking reference.|
 | *2. Insurance* |
 | Compass Ins| Caravan owners - 14 days free Insurance.| Name, address, email address, telephone number, any other information required (as appropriate).|
 | *3. Operational Services* |
