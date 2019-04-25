@@ -1,5 +1,5 @@
 | Category| Purpose| Data Disclosed|
-| ------------------ | --------------- | --------------- |
+| --- | --- | --- |
 | *1. Marketing* |
 | Active Campaign| To execute e-mail marketing & SMS/re-targeting campaigns.| Name, email address, telephone number, type of account, type, and nature of Park Holidays service offered or used and relevant transaction information. Website browsing behaviour.|
 | Pure360| To execute e-mail marketing & SMS/re-targeting campaigns.| Name, email address, telephone number, DOB, nature of Park Holidays service offered or used and relevant transaction information.|
