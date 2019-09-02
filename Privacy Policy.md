@@ -72,6 +72,7 @@ Please see a list of controllers below:
 | --- | --- | --- |
 | *1. Payment Processors* |
 | Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
+| Mobile Money Ltd (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Zebra Finance Ltd.| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Santander Consumer (UK) Plc| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
 | Black Horse Ltd| To process Park Holidays data subjects' application for credit. *We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf*| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
@@ -309,4 +310,4 @@ Park Holidays UK reserve the right to amend or modify this Privacy Policy at any
 
 ---
 
-*Last Updated: 26 June 2018*
+*Last Updated: 02 Sept 2019*
