@@ -61,31 +61,20 @@ Park Holidays UK has implemented numerous technical and organisational measures 
 
 **2.1 Processing by other controllers and joint controllers**
 
-If you make an application for credit funding in relation to holiday home ownership we may share your personal data with our finance partners (Controllers/Joint Controllers). They may use your data in their processing for your application of credit . They may also disclose your information to Credit Reference Agencies and Fraud Prevention Agencies to process your application. They or we may also make use of Debt Recovery Agencies to trace and recover debts.
-Please see a list of controllers below:
+If you make an application for credit funding in relation to holiday home ownership, we may share your personal data with our finance providers and associated intermediaries who may be Controllers/Joint Controllers in their own right. They may use your data in their processing for your application for credit. They may also disclose your information to Credit Reference Agencies and Fraud Prevention Agencies to process your application. They or we may also make use of Debt Recovery Agencies to trace and recover debts. 
+
+Your personal data that we may share with the above companies may comprise of the following data:
+
+Name, maiden name, gender, marital status, address (time at current address), previous address if less than 3 years (time at previous address), home telephone number, mobile number, email address, date of birth,  proof of identity (Passport or Photo Driving Licence or legal form), annual income (gross) employment status, employment sector, occupation (previous employment if less than 3 years), company name, company address, if proprietor length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate), time at current bank and relevant transaction information (if appropriate).
+
+If you apply for consumer credit with Black Horse, we are required to provide you with a copy of the Black Horse Data Privacy Notice before we apply for finance on your behalf.
+
+**2.2 Service Operators**
+Our service operators may either supply or process personal data for the purpose of making a booking, responding to an enquiry, analysing data for the purpose of developing marketing or business intelligence or to enhance customer communications.
+
+Your personal data that we may share with our service operators may comprise of the data identified in 2.1 above.
 
 ---
-
-**Controllers & Joint Controllers**
-
-| Category | Purpose | Data Disclosed |
-| --- | --- | --- |
-| *1. Payment Processors* |
-| Clydesdale Financial Services Limited t/a Barclays Partner Finance (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| Mobile Money Ltd (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| Billing Finance Ltd (Joint Controller) | To process Park Holidays data subjects' application for credit. | Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| Zebra Finance Ltd.| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| Santander Consumer (UK) Plc| To process Park Holidays data subjects' application for credit.| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-| Black Horse Ltd| To process Park Holidays data subjects' application for credit. *We are required to provide you with a copy of the Black Horse Data Privacy Notice before we submit an application for finance on your behalf*| Name, address, telephone number, email address, date of birth, length of time at address, proof of identity, legal form, length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate) and relevant transaction information (if appropriate).|
-|*2. Service Operator(s)*|
-| My Holiday Caravan (joint controller)| Prospect marketing and enquiry generation.| Name, address, telephone number, email address.|
-| GFM (controller),   Hoseasons (controller),   Booking.com (controller),   Breakfree (controller),   Airbnb (controller),   Pitchup.com (controller)| Marketing and business information for sales purposes, with data subject consent. Take holiday bookings on behalf of Park Holidays.| Name, address, telephone number, email address plus relevant financial transaction information.|
-| Harvey Longsons (controller),   Purple Bricks (controller),   Humphreys & Orr (controller)| Marketing and business information, acquire and enrich business information of new and existing clients.| Name, address, telephone number, email address.|
-| *3. Debt Recovery*|
-| Shoosmiths LLP (Joint Controller)| To collect and manage debt recovery| Name, address, telephone number, account number, date of birth, email address, account type, account status, last four digits of financial instruments account, sort code, account balance, details of account transactions and liabilities, name of funding source provider and copies of all correspondence, in each case relating to amounts you owe (or another person owes) to us.|
-
----
-
 
 **3. Name and Address of the Data Protection Officer:**
 
