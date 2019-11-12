@@ -70,6 +70,7 @@ Name, maiden name, gender, marital status, address (time at current address), pr
 If you apply for consumer credit with Black Horse, we are required to provide you with a copy of the Black Horse Data Privacy Notice before we apply for finance on your behalf.
 
 **2.2 Service Operators**
+
 Our service operators may either supply or process personal data for the purpose of making a booking, responding to an enquiry, analysing data for the purpose of developing marketing or business intelligence or to enhance customer communications.
 
 Your personal data that we may share with our service operators may comprise of the data identified in 2.1 above.
