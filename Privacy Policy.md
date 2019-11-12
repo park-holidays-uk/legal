@@ -300,4 +300,4 @@ Park Holidays UK reserve the right to amend or modify this Privacy Policy at any
 
 ---
 
-*Last Updated: 01 October 2019*
+*Last Updated: 12 November 2019*
