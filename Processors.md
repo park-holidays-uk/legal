@@ -22,3 +22,4 @@
 | The Works | Design, media buying, direct mail.| Name, address, email address, telephone number, any other information required (as appropriate). |
 | Ventrus| Services in connection with technology support.| Name, address, email address, telephone number, any other information required (as appropriate). |
 | Barclaycard / Savvy| Barclaycard Payment Solutions| All account information and transaction information (as appropriate). |
+| SparkPost | To send email communication to customers and vendors in relation to products and services purchased or supplied. | May include Name, Address, Email Address, Plot information. |
