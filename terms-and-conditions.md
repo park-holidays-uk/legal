@@ -70,7 +70,7 @@ This Company’s logo is a registered trademark of this Company in the United Ki
 
 We have several different e-mail addresses for different queries. These, & other contact information, can be found on our Contact Us link on our website or via Company literature or via the Company’s stated telephone, facsimile or mobile telephone numbers.
 
-This company is registered in England and Wales, Number 3352005, registered office Park Leisure 2000 Ltd, Tudor Court, York Business Park, York, YO26 6RS
+This company is registered in England and Wales, Number 3352005, registered office: Park Leisure 2000 Ltd, Tudor Court, York Business Park, York YO26 6RS
 
 ---
 
@@ -108,9 +108,9 @@ If you would prefer to write a complaint then you will need to send this to your
 
 If after contacting the park you are unhappy with the outcome, you can give us a call 9am to 5pm, Monday to Friday, on 0808 115 0545 and we will do our upmost to resolve your complaint
 
-If after contacting the park you are unhappy with the outcome you can contact us by email at customerrelations@parkleisure.co.uk or by post at:
+If after contacting the park you are unhappy with the outcome you can contact us by email at [customerrelations@parkleisure.co.uk](mailto:customerrelations@parkleisure.co.uk) or by post at:
 
-Customer Relations Department Park Leisure Unit 1 Tudor Court Nether Poppleton YORK YO26 6RS.
+Customer Relations Department, Park Leisure, Unit 1 Tudor Court, Nether Poppleton, YORK YO26 6RS.
 
 Please give us as much information about the complaint as possible (including details of your communication with the park,) and let us know the best way for us to contact you.
 
@@ -163,13 +163,13 @@ For FOS to look into your complaint, you must have tried to resolve it with us f
 
 **You can contact FOS:**
 
-By Phone: 0800 023 4 567 (calls to this number are free on mobile phones and landlines) or 0300 123 9 123 (calls to this number cost no more than calls to 01 or 02 numbers). By Email: complaint.info@financial-ombudsman.org.uk By Post: Financial Ombudsman Service, Exchange Tower, London, E14 9SR By Visiting Its Website: [www.financial-ombudsman](http://www.financial-ombudsman.).
+By Phone: 0800 023 4 567 (calls to this number are free on mobile phones and landlines) or 0300 123 9 123 (calls to this number cost no more than calls to 01 or 02 numbers). By Email: [complaint.info@financial-ombudsman.org.uk ](mailto:complaint.info@financial-ombudsman.org.uk) By Post: Financial Ombudsman Service, Exchange Tower, London, E14 9SR By Visiting Its Website: [www.financial-ombudsman](http://www.financial-ombudsman).
 
 ---
 
 **Confidentiality**
 
-We are registered under the Data Protection Act 1998 and as such, any information concerning the Client and their respective Client Records may be passed to third parties. However, Client records are regarded as confidential and therefore will not be divulged to any third party, other than [our manufacturer/supplier(s) and] if legally required to do so to the appropriate authorities. Clients have the right to request sight of, and copies of any and all Client Records we keep, on the proviso that we are given reasonable notice of such a request. Clients are requested to retain copies of any literature issued in relation to the provision of our services. Where appropriate, we shall issue Client’s with appropriate written information, handouts or copies of records as part of an agreed contract, for the benefit of both parties.
+We are registered under the Data Protection Act 1998 and as such, any information concerning the Client and their respective Client Records may be passed to third parties. However, Client records are regarded as confidential and therefore will not be divulged to any third party, other than our manufacturer/supplier(s) and if legally required to do so to the appropriate authorities. Clients have the right to request sight of, and copies of any and all Client Records we keep, on the proviso that we are given reasonable notice of such a request. Clients are requested to retain copies of any literature issued in relation to the provision of our services. Where appropriate, we shall issue Client’s with appropriate written information, handouts or copies of records as part of an agreed contract, for the benefit of both parties.
 
 We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products.
 
@@ -179,8 +179,8 @@ We will not sell, share, or rent your personal information to any third party or
 
 The information on this web site is provided on an "as is" basis. To the fullest extent permitted by law, this Company:
 
-excludes all representations and warranties relating to this website and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in this website and/or the Company’s literature; and
-excludes all liability for damages arising out of or in connection with your use of this website. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages.
+excludes all representations and warranties relating to this website and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in this website and/or the Company’s literature; and excludes all liability for damages arising out of or in connection with your use of this website. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages.
+
 This Company does not however exclude liability for death or personal injury caused by its negligence. The above exclusions and limitations apply only to the extent permitted by law. None of your statutory rights as a consumer are affected.
 
 ---
@@ -203,14 +203,14 @@ Within the owners' lounge Park Leisure owners are able to purchase extras and ad
 
 All major credit and debit cards are accepted:
 
--Visa
--Mastercard
--Maestro
--UBC
+- Visa
+- Mastercard
+- Maestro
+- UBC
 
-If you have any queries please contact us at accounts@parkleisure.co.uk or call us on 01904 786 100. Alternatively please write to us:
+If you have any queries please contact us at [accounts@parkleisure.co.uk](mailto:accounts@parkleisure.co.uk) or call us on 01904 786 100.
 
-F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
+Alternatively please write to us: F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
 
 ---
 
@@ -220,9 +220,9 @@ When purchasing items from the online store, within your owners' lounge, you are
 
 To notify us of your wish to cancel your purchase please email us at the email address below stating your World Pay transaction ID as your subject line. Once approved refunds will be made within 30 days of cancellation to the card you used to purchase your items.
 
-If you have any queries please contact us at [accounts@parkleisure.co.uk](mailto:accounts@parkleisure.co.uk) or call us on 01904 786 100. Alternatively please write to us:
+If you have any queries please contact us at [accounts@parkleisure.co.uk](mailto:accounts@parkleisure.co.uk) or call us on 01904 786 100.
 
-F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
+Alternatively please write to us: F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
 
 ---
 
@@ -258,9 +258,13 @@ Finance options are available, terms and conditions apply. For more information,
 
 **2022 Holiday Bookings**
 
-Your holiday booking guarantees you a great holiday in a caravan of the specification you have booked. Your health and safety, and the health and safety of our other customers and our team, are our number one priority. If we are not able to provide your holiday because we have had to close for health and safety reasons, then you may choose to re-book at no additional cost or to receive a refund from us. For more information visit [www.parkleisureholidays.co.uk/terms-and-conditions](http://www.parkleisureholidays.co.uk/terms-and-conditions)
+Your holiday booking guarantees you a great holiday in a caravan of the specification you have booked. Your health and safety, and the health and safety of our other customers and our team, are our number one priority. If we are not able to provide your holiday because we have had to close for health and safety reasons, then you may choose to re-book at no additional cost or to receive a refund from us.
 
-We also hope that during your holiday you will be able to enjoy as many of our other facilities as possible. The price you pay us is for the holiday accommodation only, any facilities on park are provided to you as a complimentary service. Unfortunately, for health and safety reasons we do not promise they will be open. We will open them only if both the law and our own health and safety risk assessments tell us we can open them safely. We may need to close them at short notice. As you will still be receiving the holiday you have booked with us, and we have not promised these complimentary facilities will be open, you will not be entitled to cancel or to receive any compensation if they are closed. For more information on which facilities will be available during your holiday visit [www.parkleisureholidays.co.uk/faqs](http://www.parkleisureholidays.co.uk/faqs)
+For more information visit [www.parkleisureholidays.co.uk/terms-and-conditions](http://www.parkleisureholidays.co.uk/terms-and-conditions)
+
+We also hope that during your holiday you will be able to enjoy as many of our other facilities as possible. The price you pay us is for the holiday accommodation only, any facilities on park are provided to you as a complimentary service. Unfortunately, for health and safety reasons we do not promise they will be open. We will open them only if both the law and our own health and safety risk assessments tell us we can open them safely. We may need to close them at short notice. As you will still be receiving the holiday you have booked with us, and we have not promised these complimentary facilities will be open, you will not be entitled to cancel or to receive any compensation if they are closed.
+
+For more information on which facilities will be available during your holiday visit [www.parkleisureholidays.co.uk/faqs](http://www.parkleisureholidays.co.uk/faqs)
 
 ---
 
