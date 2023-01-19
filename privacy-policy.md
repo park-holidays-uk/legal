@@ -1,5 +1,3 @@
-**Privacy Policy**
----
 **INTRODUCTION**
 
 Park Leisure Group Ltd is owned by Sun Communities Inc. Park Holidays UK Ltd is also owned by Sun Communities Inc.
@@ -21,36 +19,47 @@ Park Leisure Group Ltd has implemented numerous technical and organisational mea
 In this Privacy Policy, we use the following terms:
 
 *1. Consent*
+
 Consent by the data subject is freely given, specific, informed and an unambiguous indication of their wishes by which they, by a statement or by a clear affirmative action, signifies agreement to the processing of their personal data.
 
 *2. Controller responsible for the processing*
+
 The Controller responsible for the processing is Park Holidays UK, which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are governed by UK law.
 
 *3. Data subject*
+
 A data subject is any identified or identifiable natural person, whose personal data is processed by Park Holidays UK.
 
 *4. Personal data*
+
 Personal data means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
 *5. Processing*
+
 Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
 
 *6. Processor*
+
 A Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller. Park Holidays UK use partners and third party providers to act as processors on our behalf.
 
 *7. Profiling*
+
 Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
 
 *8. Anonymisation*
+
 Anonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately in a secure database.
 
 *9. Recipient*
+
 A recipient is a natural or legal person, public authority, agency or another body, to which the personal data is disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with UK law shall not be regarded as recipients; the processing of such data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.
 
 *10. Restriction of processing*
+
 Restriction of processing is the highlighting of stored personal data so that no further processing of that data by Park Holidays UK or data processors is undertaken in the future.
 
 *11. Third party*
+
 A third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
 
 ---
@@ -59,7 +68,7 @@ A third party is a natural or legal person, public authority, agency or body oth
 
 The Controller for the purposes of the UK General Data Protection Regulation (UK GDPR), is:
 
-Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom Phone: 01424234234 Email:[info@parkholidays.com](mailto:info@parkholidays.com)
+Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom, Phone: 01424234234, Email:[info@parkholidays.com](mailto:info@parkholidays.com)
 
 **2.1 Processing by other controllers and joint controllers**
 
@@ -83,7 +92,7 @@ Your personal data that we may share with our service operators may comprise of 
 
 For any enquiries relating to Park Leisure Group Ltd, please contact
 
-Data Protection Officer Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom Email: [dpo@parkholidays.com](mailto:dpo@parkholidays.com)
+Data Protection Officer Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom, Email: [dpo@parkholidays.com](mailto:dpo@parkholidays.com)
 
 A data subject may, at any time, contact our Data Protection Officer directly via email with questions concerning the protection of their data.
 
@@ -325,7 +334,7 @@ If the decision (1) is necessary for entering into, or the performance of, a con
 
 Each data subject shall have the right to withdraw his or her consent to processing of his or her personal data at any time.
 
-To make enquiries, exercise any of your rights set out in this Privacy Policy and/or make a complaint, please contact our Data Protection Officer at [ dpo@parkholidays.com ](mailto:dpo@parkholidays.com)
+To make enquiries, exercise any of your rights set out in this Privacy Policy and/or make a complaint, please contact our Data Protection Officer at [dpo@parkholidays.com](mailto:dpo@parkholidays.com)
 
 **13. Legal basis for the processing**
 
@@ -347,7 +356,7 @@ Our financial third-party data processors do operate automatic decision-making o
 
 **17. If you wish to contact the Information Commissioners Office, you can do so here:**
 
-[ https://ico.org.uk ] Telephone: 0303 123 1113
+[https://ico.org.uk](https://ico.org.uk) , Telephone: 0303 123 1113
 
 **18. Description of the personally identifiable information that we may collect:**
 
