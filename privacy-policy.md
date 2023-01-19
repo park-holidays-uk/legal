@@ -126,31 +126,31 @@ Type
 
 Description
 
-Google Analytics
+**Google Analytics**
 
 1st Party
 
 Google Analytics is a free service offered by Google that generates detailed statistics about visitors to a Web site for marketers. Google Analytics makes it possible to track users across search engines, email campaigns and display advertising giving advertisers the opportunity to optimize campaigns on multiple platforms.
 
-Facebook
+**Facebook**
 
 1st Party
 
 We use cookies if you have a Facebook account, use the Facebook Products, including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-Twitter
+**Twitter**
 
 1st Party
 
 We (along with third parties) use these technologies on our websites, applications, and services and on other websites, applications, and services that have integrated our services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from our websites or applications, view or interact with third-party content from within our services or visit third-party websites that incorporate our advertising technology.
 
-Google Adwords
+**Google Adwords**
 
 3rd Party
 
 AdWords is Google’s main advertising product. AdWords offers pay-per-click (PPC) advertising, cost-per-thousand (CPM) advertising, and site-targeted advertising for text, banner, and rich-media ads. The AdWords program includes local, national, and international distribution. Google’s text advertisements are short, consisting of one headline and two additional text lines. Image ads can be one of several different Interactive Advertising Bureau (IAB) standard sizes.
 
-Microsoft
+**Microsoft**
 
 1st Party
 
