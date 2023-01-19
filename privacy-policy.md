@@ -59,7 +59,7 @@ A third party is a natural or legal person, public authority, agency or body oth
 
 The Controller for the purposes of the UK General Data Protection Regulation (UK GDPR), is:
 
-Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom Phone: 01424234234 Email: info@parkholidays.com
+Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom Phone: 01424234234 Email:[info@parkholidays.com](mailto:info@parkholidays.com)
 
 **2.1 Processing by other controllers and joint controllers**
 
@@ -103,7 +103,7 @@ Our data subject may, at any time, prevent the setting of cookies through our we
 
 If a data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be usable.
 
-If you require any further information on cookies including how to see what cookies have been set and how to manage, delete and turn them off visit [www.aboutcookies.org] or [www.allaboutcookies.org]. Please note these are external websites and Park Leisure Group Ltd is not responsible for the accuracy of the information on these sites.
+If you require any further information on cookies including how to see what cookies have been set and how to manage, delete and turn them off visit [www.aboutcookies.org](http://www.aboutcookies.org) or [www.allaboutcookies.org](http://www.allaboutcookies.org) . Please note these are external websites and Park Leisure Group Ltd is not responsible for the accuracy of the information on these sites.
 
 Park Leisure Group Ltd Ltd make use of both first party cookies and cookies from carefully selected third- parties, primarily for analytical, tracking and remarketing purposes. All our cookies are anonymous, containing no personally identifiable information. Please see the table below for a detailed breakdown of the cookies used by Park Leisure Group Ltd.
 
