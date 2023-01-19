@@ -1,8 +1,10 @@
 **Terms and Conditions**
 
-In using this website you are deemed to have read and agreed to the following terms and conditions:
+*In using this website you are deemed to have read and agreed to the following terms and conditions:*
 
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. "The Company", “Ourselves”, “We” and "Us", refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing English Law. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. "The Company", “Ourselves”, “We” and "Us", refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing English Law.
+
+Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ---
 
@@ -16,13 +18,14 @@ Registered in England & Wales No. 3352005
 
 01904 786100
 
-accounts@parkleisure.co.uk
+[accounts@parkleisure.co.uk](mailto:accounts@parkleisure.co.uk)
 
 Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279
 
 The Park Leisure companies are part of Park Holidays UK Limited, who are registered in England (Reg. No. 02434151) are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 669336 & 717823.
 
 Registered Office: Park Leisure 2000 Ltd, Tudor Court, York Business Park, York, YO26 6RS
+
 © Park Leisure 2000 Ltd 2003 All Rights Reserved
 
 ---
@@ -51,7 +54,7 @@ We do not monitor or review the content of other party’s websites which are li
 
 Like most interactive web sites this Company’s website [or ISP] uses cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate partners may also use cookies.
 
-For more information please visit theCookie Policy.
+For more information please visit the [Cookie Policy](https://www.parkleisure.co.uk/cookie-policy).
 
 ---
 
@@ -85,7 +88,8 @@ The Company reserves the right to change these conditions from time to time as i
 
 **Customer Complaints Policies**
 
-Complaints concerning ownership
+*Complaints concerning ownership*
+
 This policy outlines your rights in the unlikely event that you require to make a complaint with regards to your ownership with Park Leisure.
 
 ---
@@ -131,7 +135,7 @@ This policy outlines your rights in the unlikely event that you require to make 
 
 The easiest way to complain is to give us a call 9am to 5pm, Monday to Friday on 0808 115 0545 we will do our upmost to resolve your complaint and we will do our upmost to resolve your complaint immediately.
 
-Alternatively, you can contact us by email at customerrelations@parkleisure.co.uk or by post at: Complaints Department Park Leisure Unit 1 Tudor Court Nether Poppleton YORK YO26 6RS
+Alternatively, you can contact us by email at [customerrelations@parkleisure.co.uk](mailto:customerrelations@parkleisure.co.uk)or by post at: Complaints Department, Park Leisure, Unit 1 Tudor Court, Nether Poppleton, YORK YO26 6RS
 
 Please give us as much information about the complaint as possible (including your application number if you have it available) and let us know the best way for us to contact you.
 
@@ -146,6 +150,7 @@ If we require more information, we will get in touch with you via your preferred
 ---
 
 **3. Our commitment to you**
+
 We are fully committed to providing a great service and this absolutely includes when you’re making a complaint. We are committed to treating you fairly and transparently, and to dealing with your concerns as quickly as we can. If you want to speak to someone about our complaints procedures or the way we have handled a complaint, please give us a call on 0808 115 0545.
 
 ---
@@ -158,7 +163,7 @@ For FOS to look into your complaint, you must have tried to resolve it with us f
 
 **You can contact FOS:**
 
-By Phone: 0800 023 4 567 (calls to this number are free on mobile phones and landlines) or 0300 123 9 123 (calls to this number cost no more than calls to 01 or 02 numbers). By Email: complaint.info@financial-ombudsman.org.uk By Post: Financial Ombudsman Service, Exchange Tower, London, E14 9SR By Visiting Its Website: http://www.financial-ombudsman.
+By Phone: 0800 023 4 567 (calls to this number are free on mobile phones and landlines) or 0300 123 9 123 (calls to this number cost no more than calls to 01 or 02 numbers). By Email: complaint.info@financial-ombudsman.org.uk By Post: Financial Ombudsman Service, Exchange Tower, London, E14 9SR By Visiting Its Website: [www.financial-ombudsman](http://www.financial-ombudsman.).
 
 ---
 
@@ -205,7 +210,7 @@ All major credit and debit cards are accepted:
 
 If you have any queries please contact us at accounts@parkleisure.co.uk or call us on 01904 786 100. Alternatively please write to us:
 
-F.A.O Accounts Park Leisure 2000 Ltd 1 Tudor Court York Business Park Nether Poppleton YO26 6RS .
+F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
 
 ---
 
@@ -215,9 +220,9 @@ When purchasing items from the online store, within your owners' lounge, you are
 
 To notify us of your wish to cancel your purchase please email us at the email address below stating your World Pay transaction ID as your subject line. Once approved refunds will be made within 30 days of cancellation to the card you used to purchase your items.
 
-If you have any queries please contact us at accounts@parkleisure.co.uk or call us on 01904 786 100. Alternatively please write to us:
+If you have any queries please contact us at [accounts@parkleisure.co.uk](mailto:accounts@parkleisure.co.uk) or call us on 01904 786 100. Alternatively please write to us:
 
-F.A.O Accounts Park Leisure 2000 Ltd 1 Tudor Court York Business Park Nether Poppleton YO26 6RS.
+F.A.O Accounts, Park Leisure 2000 Ltd, 1 Tudor Court York Business Park, Nether Poppleton, YO26 6RS.
 
 ---
 
@@ -253,7 +258,7 @@ Finance options are available, terms and conditions apply. For more information,
 
 **2022 Holiday Bookings**
 
-Your holiday booking guarantees you a great holiday in a caravan of the specification you have booked. Your health and safety, and the health and safety of our other customers and our team, are our number one priority. If we are not able to provide your holiday because we have had to close for health and safety reasons, then you may choose to re-book at no additional cost or to receive a refund from us. For more information visit www.parkleisureholidays.co.uk/terms-and-conditions
+Your holiday booking guarantees you a great holiday in a caravan of the specification you have booked. Your health and safety, and the health and safety of our other customers and our team, are our number one priority. If we are not able to provide your holiday because we have had to close for health and safety reasons, then you may choose to re-book at no additional cost or to receive a refund from us. For more information visit [www.parkleisureholidays.co.uk/terms-and-conditions](http://www.parkleisureholidays.co.uk/terms-and-conditions)
 
 We also hope that during your holiday you will be able to enjoy as many of our other facilities as possible. The price you pay us is for the holiday accommodation only, any facilities on park are provided to you as a complimentary service. Unfortunately, for health and safety reasons we do not promise they will be open. We will open them only if both the law and our own health and safety risk assessments tell us we can open them safely. We may need to close them at short notice. As you will still be receiving the holiday you have booked with us, and we have not promised these complimentary facilities will be open, you will not be entitled to cancel or to receive any compensation if they are closed. For more information on which facilities will be available during your holiday visit [www.parkleisureholidays.co.uk/faqs](http://www.parkleisureholidays.co.uk/faqs)
 
@@ -280,24 +285,24 @@ Where possible, we will move customers into their holiday home within 10 days, s
 ---
 
 25% off Park Leisure Holidays for holiday home owners
-Offer is available to all Park Leisure holiday home owners and is valid for 2022 holiday bookings made between 4th January 2022 until 31st December 2022, and can be redeemed against a 2022 or 2023 holiday. Holidays must be booked online at www.parkleisureholidays.co.uk, entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 25% off discount cannot be used in conjunction with any other offer and can be withdrawn by Park Leisure at any time.
+Offer is available to all Park Leisure holiday home owners and is valid for 2022 holiday bookings made between 4th January 2022 until 31st December 2022, and can be redeemed against a 2022 or 2023 holiday. Holidays must be booked online at [www.parkleisureholidays.co.uk](http://www.parkleisureholidays.co.uk), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 25% off discount cannot be used in conjunction with any other offer and can be withdrawn by Park Leisure at any time.
 
 ---
 
 **Added value services**
 All off-park services, including the list below are added value services, that are not included in your site fee, and can be changed or withdrawn at any time without notice
 
--Owners' Social Events Programme
--The Coniston Hotel & Spa
--The Wensleydale Heifer
--The Marine Club
--The Conway Centre
--Pili Palas World
--Greenwood Family Park
--Gypsy Wood
--Hangloose Adventure
--Freewave Surf Academy
--Alnwick Golf Club
+- Owners' Social Events Programme
+- The Coniston Hotel & Spa
+- The Wensleydale Heifer
+- The Marine Club
+- The Conway Centre
+- Pili Palas World
+- Greenwood Family Park
+- Gypsy Wood
+- Hangloose Adventure
+- Freewave Surf Academy
+- Alnwick Golf Club
 
 ---
 
@@ -307,12 +312,14 @@ To qualify for the ‘Try Buy’ stay offer - the customer must book a Caravan S
 
 ---
 
-Move in within 3 weeks
+**Move in within 3 weeks**
+
 Where possible, we will move customers into their holiday home within 3 weeks, subject to park and team availability. These offers are subject to prospective owners moving within 3 weeks of payment in full.
 
 ---
 
-Free 2022 & 2023 Pitch Fees
+**Free 2022 & 2023 Pitch Fees**
+
 *Free pitch fees for the rest of 2022 and 2023 season only. 2024 pitch fees will be invoiced in September 2023 at the published rate for the forthcoming season. A pitch reservation fee is payable in October 2023 - this forms part of your 2024 pitch fees. No cash alternative. Offer available on selected models, minimum purchase price applies. Models and pitches subject to availability, price will vary by park. Offer cannot be used in conjunction with any other offer, discount or promotion. Park Leisure reserves the right to withdraw this offer at any time without notice.
 
 ---
@@ -335,5 +342,6 @@ Free 2022 & 2023 Pitch Fees
 
 ^An extra 5 years licence period. Upgrade to any 2018 year model or newer and you will benefit from an additional 5 years on your renewed pitch licence. That’s 25 years for a caravan and 35 years for a lodge! You must have owned your current holiday home for 3 months or more to be eligible for this offer.
 
-**£500 credit will be placed on owner account. *Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279 We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. Obtaining funding is subject to status, terms and deposit criteria. Written details are available on request.
+*£500 credit will be placed on owner account. *Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279 We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. Obtaining funding is subject to status, terms and deposit criteria. Written details are available on request.
+
 ---
