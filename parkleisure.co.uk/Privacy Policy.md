@@ -1,39 +1,5 @@
 **INTRODUCTION**
 
----
-
-**1. Definitions**
-
-In this Privacy Policy, we use the following terms:
-
-*1. Consent*
-
-**Functional Cookies**
-
-First Party Cookies
-
-- adiCookieCheck
-- _ga
-- adiErr
-- _ga
-- nr-data.net
-- JSESSIONID
-- vimeo.com
-- vuid
-- __cf_bm
-- woobox.com
-- 4dqxtf_pastviews
-- ci_session
-- 4dqxtf_visit
-- 9v6d2r_visit
-- 9v6d2r_pastviews
-- visitor_id
-
----
-
-
-**INTRODUCTION**
-
 Park Leisure Group Ltd is owned by Sun Communities Inc. Park Holidays UK Ltd is also owned by Sun Communities Inc.
 
 Park Holidays UK Ltd acts as the data controller for both Park Leisure Group Ltd and sister brand Park Holidays UK Ltd. Park Holidays UK Ltd is registered with the Information Commissioner’s Office (the ICO) with registration number Z7420595.
@@ -103,12 +69,17 @@ A third party is a natural or legal person, public authority, agency or body oth
 The Controller for the purposes of the UK General Data Protection Regulation (UK GDPR), is:
 
 Park Holidays UK Ltd
+
 Glovers House
+
 Bexhill-On-Sea
+
 TN39 5ES
+
 United Kingdom
 
 Phone: 01424234234
+
 Email: info@parkholidays.com
 
 **2.1 Processing by other controllers and joint controllers**
@@ -134,9 +105,13 @@ Your personal data that we may share with our service operators may comprise of 
 For any enquiries relating to Park Leisure Group Ltd, please contact:
 
 Data Protection Officer
+
 Park Holidays UK Ltd
+
 Glovers House Bexhill-On-Sea
+
 TN39 5ES
+
 United Kingdom
 
 Email: dpo@parkholidays.com
@@ -427,7 +402,9 @@ There is an obligation on the data subject to provide us with personal data when
 Our financial third-party data processors do operate automatic decision-making or profiling practises.
 
 **17. If you wish to contact the Information Commissioners Office, you can do so here:**
+
 [https://ico.org.uk](https://ico.org.uk)
+
 Telephone: 0303 123 1113 
 
 **18. Description of the personally identifiable information that we may collect:**
