@@ -392,7 +392,7 @@ Where possible, we will move customers into their holiday home within 3 weeks, s
 
 ---
 
-**20% off Park Leisure and Park Holidays Holidays for holiday home owners**
+**20% off Park Leisure and Park Holidays holidays for holiday home owners**
 
 Offer is available to all Park Leisure holiday home owners and can be redeemed against a 2022 or 2023 Park Leisure or Park Holidays holiday. Subject to minimum price £129.
 
