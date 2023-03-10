@@ -309,13 +309,6 @@ TN39 5E
 
 ---
 
-**Local Partnerships Referrals**
-
-Offer applies to new customer referrals only. To be eligible for our £1,000 Local Partnership referral promotion you must be signed up to our Park Leisure Local Partnership programme. Your referred customer must present your business name to the Park Leisure Sales Advisor upon making a Holiday Home Sales appointment with a Park Leisure Holiday Park, and ensure the referral details are provided in full before the holiday home sale is completed.
-
-Your Park Leisure reward will be paid to your business once your referred customer has completed the holiday home sale process and has paid in full for their holiday home. Park Leisure Local Partnership referral payments will be made to a business within 60 days of a sale completion. Park Leisure reserves the right to modify or discontinue the offer, temporarily or permanently, at any time and without prior notice. Offers ends 30th November 2023.
-
----
 
 **Holiday Home Caravan & Lodge Prices**
 
@@ -399,11 +392,11 @@ Where possible, we will move customers into their holiday home within 3 weeks, s
 
 ---
 
-**20% off Park Leisure Holidays for holiday home owners**
+**20% off Park Leisure and Park Holidays Holidays for holiday home owners**
 
-Offer is available to all Park Leisure holiday home owners and is valid for 2022 holiday bookings made between 4th January 2022 until 31st December 2022, and can be redeemed against a 2022 or 2023 holiday.
+Offer is available to all Park Leisure holiday home owners and can be redeemed against a 2022 or 2023 Park Leisure or Park Holidays holiday. Subject to minimum price £129.
 
-Holidays must be booked online at [www.parkleisure.co.uk](www.parkleisure.co.uk), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
+Holidays must be booked online at [www.parkleisure.co.uk](www.parkleisure.co.uk) or [www.parkholidays.com](www.parkholidays.com), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
 
 ---
 
