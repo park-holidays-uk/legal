@@ -480,8 +480,17 @@ One entry per email address. Subsequent entries will not be counted. Entrants mu
 *Closing date for entries is 30/06/2023.*
 
 ---
----
 
+**Owner Referral**
+
+Minimum purchase price applies, only available on selected models. For every referral that results in the purchase of a holiday home you will receive Loyalty Card or Owner Account Credit of £1,000 for a Caravan Model or £2,000 for a Lodge model.
+
+Please make sure your friend or family notify the Sales Office that they have been referred by you before they complete their purchase. Reward will not be payable if purchaser is already known to Park Leisure from other sources.
+
+Referral payment will only be paid on full completion of sale. Offer runs until 31st March 2023. Ask at your park Sales Office for further details.
+
+---
+---
 
 **Holidays Terms & Conditions**
 
