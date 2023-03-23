@@ -394,7 +394,7 @@ Where possible, we will move customers into their holiday home within 3 weeks, s
 
 **20% off Park Leisure and Park Holidays holidays for holiday home owners**
 
-Offer is available to all Park Leisure holiday home owners and can be redeemed against a 2022 or 2023 Park Leisure or Park Holidays holiday. Subject to minimum price £129.
+Offer is available to all Park Leisure holiday home owners and can be redeemed against any 2023 Park Leisure or Park Holidays UK holiday. Subject to minimum price £129.
 
 Holidays must be booked online at [www.parkleisure.co.uk](www.parkleisure.co.uk) or [www.parkholidays.com](www.parkholidays.com), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
 
@@ -409,13 +409,6 @@ Customers must pay in full for their ‘Try Buy’ stay prior to attending their
 If a customer does not purchase a holiday home with Park Leisure, the full value of the ‘Try Buy’ booking will be chargeable and retained by Park Leisure. If a customer purchases a holiday home with Park Leisure, and pays in full within 21 days of their ‘try buy’ booking arrival date, the value of the ‘try buy’ stay will be deducted from the price of the holiday home purchase price. ‘Try Buy’ stays are not transferrable.
 
 The ‘Try Buy’ offer cannot be used in conjunction with any other offer and can be withdrawn by Park Leisure at any time. Only one ‘Try Buy’ stay is available to a household, no subsequent stays can be made with a ‘Try Buy’ offer.
-
----
-
-**Free 2022 & 2023 Pitch Fees**
-
-∗Free pitch fees for the rest of 2022 and 2023 season only.
-2024 pitch fees will be invoiced in September 2023 at the published rate for the forthcoming season. A pitch reservation fee is payable in October 2023 - this forms part of your 2024 pitch fees. No cash alternative. Offer available on selected models, minimum purchase price applies. Models and pitches subject to availability, price will vary by park. Offer cannot be used in conjunction with any other offer, discount or promotion. Park Leisure reserves the right to withdraw this offer at any time without notice.
 
 ---
 
