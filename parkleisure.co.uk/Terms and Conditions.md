@@ -422,7 +422,7 @@ The ‘Try Buy’ offer cannot be used in conjunction with any other offer and c
 
 ^ £500 credit will be placed on owner account.
 
-#Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279 We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. Obtaining funding is subject to status, terms and deposit criteria. Written details are available on request.
+§ Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279 We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. Obtaining funding is subject to status, terms and deposit criteria. Written details are available on request.
 
 ---
 
