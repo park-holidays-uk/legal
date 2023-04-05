@@ -45,7 +45,7 @@ We are committed to protecting your privacy. Authorised employees within the com
 
 Parliament has created specific offences for unauthorised actions against computer systems and data. We will investigate any such actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsible.
 
-For more information please visit [www.parkleisure.co.uk/privacy-policy](www.parkleisure.co.uk/privacy-policy)
+For more information please visit [www.parkleisure.co.uk/privacy-policy](https://www.parkleisure.co.uk/privacy-policy)
 
 **Log Files**
 
@@ -64,7 +64,7 @@ You should evaluate the security and trustworthiness of any other site connected
 **Cookies**
 
 Like most interactive web sites this Company’s website (or ISP) uses cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate partners may also use cookies.
-For more information please visit the [www.parkleisure.co.uk/cookie-policy](www.parkleisure.co.uk/cookie-policy)
+For more information please visit the [www.parkleisure.co.uk/cookie-policy](https://www.parkleisure.co.uk/cookie-policy)
 
 **Copyright Notice**
 
@@ -210,7 +210,7 @@ London
 
 E14 9SR
 
-Website: [https://www.financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk)
+Website: [www.financial-ombudsman.org.uk](https://www.financial-ombudsman.org.uk)
 
 ---
 
@@ -338,11 +338,11 @@ Finance options are available, terms and conditions apply. For more information,
 
 Your holiday booking guarantees you a great holiday in a caravan of the specification you have booked. Your health and safety, and the health and safety of our other customers and our team, are our number one priority. If we are not able to provide your holiday because we have had to close for health and safety reasons, then you may choose to re-book at no additional cost or to receive a refund from us.
 
-For more information visit [www.parkleisure.co.uk/terms-and-conditions](www.parkleisure.co.uk/terms-and-conditions)
+For more information visit [www.parkleisure.co.uk/terms-and-conditions](https://www.parkleisure.co.uk/terms-and-conditions)
 
 We also hope that during your holiday you will be able to enjoy as many of our other facilities as possible. The price you pay us is for the holiday accommodation only, any facilities on park are provided to you as a complimentary service. Unfortunately, for health and safety reasons we do not promise they will be open. We will open them only if both the law and our own health and safety risk assessments tell us we can open them safely. We may need to close them at short notice. As you will still be receiving the holiday you have booked with us, and we have not promised these complimentary facilities will be open, you will not be entitled to cancel or to receive any compensation if they are closed.
 
-For more information on which facilities will be available during your holiday visit [www.parkleisure.co.uk/holidays/frequently-asked-questions](www.parkleisure.co.uk/holidays/frequently-asked-questions)
+For more information on which facilities will be available during your holiday visit [www.parkleisure.co.uk/holidays/frequently-asked-questions](https://www.parkleisure.co.uk/holidays/frequently-asked-questions)
 
 ---
 
@@ -396,7 +396,7 @@ Where possible, we will move customers into their holiday home within 3 weeks, s
 
 Offer is available to all Park Leisure holiday home owners and can be redeemed against any 2023 Park Leisure or Park Holidays UK holiday. Subject to minimum price £129.
 
-Holidays must be booked online at [www.parkleisure.co.uk](www.parkleisure.co.uk) or [www.parkholidays.com](www.parkholidays.com), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
+Holidays must be booked online at [www.parkleisure.co.uk](https://www.parkleisure.co.uk/) or [www.parkholidays.com](https://www.parkholidays.com/), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
 
 ---
 
@@ -483,6 +483,7 @@ Please make sure your friend or family notify the Sales Office that they have be
 Referral payment will only be paid on full completion of sale. Offer runs until 30th of April 2023. Ask at your park Sales Office for further details.
 
 ---
+
 ---
 
 **Holidays Terms & Conditions**
@@ -572,7 +573,7 @@ All prices are current at the time of publishing and we guarantee that the price
 **9. Special offers and discounts**
 
 Discounts and special offers may be made in conjunction with our published prices. The cost per holiday, after any discounts, will vary by grade and must be a minimum of £209 per week and £129 per short break. The cost per holiday of a Lodge, after any discounts, must be a minimum of £399 per week and £229 per short break. All discounts and special offers are subject to availability and may be withdrawn without prior notice.
-Details of Special offers can be found here: [www.parkleisure.co.uk/holidays/offers](www.parkleisure.co.uk/holidays/offers)
+Details of Special offers can be found here: [www.parkleisure.co.uk/holidays/offers](https://www.parkleisure.co.uk/holidays/offers)
 
 Special offers cannot be combined with any other discount or promotion and will only be honoured if mentioned at the time of booking. The price confirmed at the time of booking is the price you will pay, discounts cannot be applied retrospectively. Only one offer per booking.
 
@@ -709,7 +710,7 @@ East Sussex
 TN39 5ES
 
 Further details relating to our privacy policy can be found on our website:
-www.parkleisure.co.uk/privacy-policy
+[www.parkleisure.co.uk/privacy-policy](https://www.parkleisure.co.uk/privacy-policy)
 
 
 **30. Gambling Restrictions**
@@ -746,7 +747,7 @@ You may be required to supply official documentary evidence to our reasonable sa
 
 **If you cancel without a qualifying reason**
 
-The Cancellation Protection Plan will not cover you in the event that you need to cancel for reasons other than one of the qualifying reasons shown above. For cancellation in such event, you should refer to clause 5 of our Terms and Conditions: [www.parkleisure.co.uk/terms-and-conditions](www.parkleisure.co.uk/terms-and-conditions)
+The Cancellation Protection Plan will not cover you in the event that you need to cancel for reasons other than one of the qualifying reasons shown above. For cancellation in such event, you should refer to clause 5 of our Terms and Conditions: [www.parkleisure.co.uk/terms-and-conditions](https://www.parkleisure.co.uk/terms-and-conditions)
 
 **How to cancel**
 
@@ -758,7 +759,7 @@ If you need to contact us about your holiday or in connection with these terms a
 
 0343 178 7070 (standard rate call)
 
-email us at holidaysupport@parkleisure.co.uk
+email us at: holidaysupport@parkleisure.co.uk
 
 or write to:
 
