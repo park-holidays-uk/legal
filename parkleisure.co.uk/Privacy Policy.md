@@ -132,7 +132,7 @@ Our data subject may, at any time, prevent the setting of cookies through our we
 
 If a data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be usable.
 
-If you require any further information on cookies including how to see what cookies have been set and how to manage, delete and turn them off visit [www.aboutcookies.org](www.aboutcookies.org) or [www.allaboutcookies.org](www.allaboutcookies.org)
+If you require any further information on cookies including how to see what cookies have been set and how to manage, delete and turn them off visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](https://allaboutcookies.org/)
 
 Please note these are external websites and Park Leisure Group Ltd is not responsible for the accuracy of the information on these sites.
 
