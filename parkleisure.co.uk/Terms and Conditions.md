@@ -430,7 +430,9 @@ The ‘Try Buy’ offer cannot be used in conjunction with any other offer and c
 
 † Free pitch fees valid for the 2023 season only. 2024 pitch fees will be invoiced in September 2023 at the published rate for the forthcoming season. A pitch reservation fee is payable in October 2023 - this forms part of your 2024 pitch fees. Valid on selected models, minimum purchase price applies. If you’ve already paid all or part of your 2023 pitch fee this will be refunded to you.
 
-^ An extra 5 years licence period. Upgrade to any 2018 year model or newer and you will benefit from an additional 5 years on your renewed pitch licence. That’s 25 years for a caravan and 35 years for a lodge! You must have owned your current holiday home for 3 months or more to be eligible for this offer.
+^ For a limited time (up to 30th April) there is an extra 5 years licence period on a standard caravan model. Upgrade to any 2018 year or newer standard caravan model and you will benefit from an additional 5 years on your renewed pitch licence up to 25 years. Please note that from 1st May 2023 we will only offer 20 years on all new standard sized caravans.
+From 17th April 2023 we now offer 30 years for all new villas and large caravans and 40 years for all new lodges respectively. Some Park exceptions may apply. Please check with your park for full details.
+You must have owned your current holiday home for 3 months or more to be eligible for these offers.
 
 ** £500 credit will be placed on owner account. 
 
