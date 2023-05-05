@@ -294,6 +294,12 @@ Your personal data that we may share with our service operators may comprise of 
   **Sharing data**
 
   We may share your data with our third-party service providers and partners (processors) to enable them to contact you with products or services that relate directly to the product or service that you have purchased from us. Link to a full list of our processors: [/privacy-policy/processors](/privacy-policy/processors)
+  
+  **Data Capture from Sub-Brands**
+  
+  Effective Friday, 5th May 2023, Park Holidays UK, in our ongoing efforts to improve our services and provide tailored offers to our customers, will begin capturing contact information and enquiry data from our subsidiary brands.
+  
+  As part of this update, personal information provided through bookings, contact forms and enquiries made to our subsidiary brands, including but not limited to contact information and service preferences, may be shared with and used by Park Holidays UK.
 
 *Changes to this Privacy Policy*
 
