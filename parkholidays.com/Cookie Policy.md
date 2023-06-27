@@ -27,5 +27,54 @@
 | Facebook| 1st Party| We use cookies if you have a Facebook account, use the Facebook Products, including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.|
 | Twitter| 1st Party| We (along with third parties) use these technologies on our websites, applications, and services and on other websites, applications, and services that have integrated our services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from our websites or applications, view or interact with third-party content from within our services or visit third-party websites that incorporate our advertising technology.|
 | Google Adwords| 3rd Party| AdWords is Google’s main advertising product. AdWords offers pay-per-click (PPC) advertising, cost-per-thousand (CPM) advertising, and site-targeted advertising for text, banner, and rich-media ads. The AdWords program includes local, national, and international distribution. Google’s text advertisements are short, consisting of one headline and two additional text lines. Image ads can be one of several different Interactive Advertising Bureau (IAB) standard sizes.|
-| Bing| 1st Party| Microsoft uses cookies (small text files placed on your device) and similar technologies to provide our websites and online services and to help collect data. Cookies allow us, among other things, to store your preferences and settings; enable you to sign-in; provide interest-based advertising; combat fraud; and analyse how our websites and online services are performing. Microsoft apps use other identifiers, such as the advertising ID in Windows described in the Windows section of this statement, for similar purposes. We also use web beacons to help deliver cookies and gather usage and performance data. Our websites may include web beacons and cookies from third-party service providers.|
+| Microsoft| 1st Party| Microsoft uses cookies (small text files placed on your device) and similar technologies to provide our websites and online services and to help collect data. Cookies allow us, among other things, to store your preferences and settings; enable you to sign-in; provide interest-based advertising; combat fraud; and analyse how our websites and online services are performing. Microsoft apps use other identifiers, such as the advertising ID in Windows described in the Windows section of this statement, for similar purposes. We also use web beacons to help deliver cookies and gather usage and performance data. Our websites may include web beacons and cookies from third-party service providers.|
+
 ---
+
+**STRICTLY NECESSARY COOKIES**
+
+First Party Cookies
+
+- PLSesh
+- OptanonAlertBoxClosed
+- CRAFT_CSRF_TOKEN
+- OptanonConsent
+- consent.cookiebot.com
+- CookieConsent
+
+---
+
+**FUNCTIONAL COOKIES**
+
+First Party Cookies
+
+- adiCookieCheck
+- _ga
+- adiErr
+- _ga
+- nr-data.net
+- JSESSIONID
+- vimeo.com
+- vuid
+- __cf_bm
+- woobox.com
+- dqxtf_pastviews
+- ci_session
+- 4dqxtf_visit
+- 9v6d2r_visit
+- 9v6d2r_pastviews
+- visitor_id
+
+---
+
+**ADVERTISING COOKIES**
+
+First Party Cookies
+
+- awxxxx
+- youtube.com
+- CONSENT
+- static-ssl.responsetap.com
+- __adiCookieCheck
+- metrics.responsetap.com
+- JSESSIONID
