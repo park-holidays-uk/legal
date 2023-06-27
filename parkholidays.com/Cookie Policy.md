@@ -1,4 +1,4 @@
-**Cookies**
+## Cookies
 
   Park Holidays UK websites use cookies. Cookies are text files that are stored on a computer system via an internet browser.
 
