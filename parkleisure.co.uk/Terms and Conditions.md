@@ -426,22 +426,6 @@ The ‘Try Buy’ offer cannot be used in conjunction with any other offer and c
 
 ---
 
-**The Complete Upgrade Package**
-
-† Free pitch fees valid for the 2023 season only. 2024 pitch fees will be invoiced in September 2023 at the published rate for the forthcoming season. A pitch reservation fee is payable in October 2023 - this forms part of your 2024 pitch fees. Valid on selected models, minimum purchase price applies. If you’ve already paid all or part of your 2023 pitch fee this will be refunded to you.
-
-^ For a limited time (up to 31st May) there is an extra 5 years licence period on a standard caravan model. Upgrade to any 2018 year or newer standard caravan model and you will benefit from an additional 5 years on your renewed pitch licence up to 25 years. Please note that from 1st May 2023 we will only offer 20 years on all new standard sized caravans.
-From 17th April 2023 we now offer 30 years for all new villas and large caravans and 40 years for all new lodges respectively. Some Park exceptions may apply. Please check with your park for full details.
-You must have owned your current holiday home for 3 months or more to be eligible for these offers.
-
-** £500 credit will be placed on owner account. 
-
-∗Park Leisure 2000 Limited, Park Leisure 2000 (Cornwall) Limited and Park Leisure 2000 (Northumberland) Limited who are all registered in England (Reg. No’s 03352005,05262097 & 04268282) and are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 668081, 660778, 660777, 413870, 472809 & 414279
-
-We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. Obtaining funding is subject to status, terms and deposit criteria. Written details are available on request.
-
----
-
 **Win a year's ownership experience**
 
 No purchase necessary.
@@ -478,11 +462,11 @@ One entry per email address. Subsequent entries will not be counted. Entrants mu
 
 **Owner Referral**
 
-Minimum purchase price applies, only available on selected models. For every referral that results in the purchase of a holiday home you will receive Loyalty Card or Owner Account Credit of £1,000 for a Caravan Model or £2,000 for a Lodge model.
+Minimum purchase price applies, only available on selected models. For every referral that results in the purchase of a holiday home you will receive Loyalty Card or Owner Account Credit to the advertised amount. The rewards can vary throughout the season and are subject to change.
 
 Please make sure your friend or family notify the Sales Office that they have been referred by you before they complete their purchase. Reward will not be payable if purchaser is already known to Park Leisure from other sources.
 
-Referral payment will only be paid on full completion of sale. Offer runs until 30th June 2023. Ask at your park Sales Office for further details.
+Referral payment will only be paid on full completion of sale. Ask at your park Sales Office for further details.
 
 ---
 
