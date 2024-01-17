@@ -394,9 +394,7 @@ Where possible, we will move customers into their holiday home within 3 weeks, s
 
 **20% off Park Leisure and Park Holidays holidays for holiday home owners**
 
-Offer is available to all Park Leisure holiday home owners and can be redeemed against any 2023 Park Leisure or Park Holidays UK holiday. Subject to minimum price £129.
-
-Holidays must be booked online at [www.parkleisure.co.uk](https://www.parkleisure.co.uk/) or [www.parkholidays.com](https://www.parkholidays.com/), entering the promo code given in the ‘promotional code’ box in the payment stage of your online checkout. Please note that the discount cannot be applied after your booking has already checked out online. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time. 
+All discounted holidays must be purchased over the phone on 0343 178 7070 (Lines are open daily from 9am - 5pm) at least 24 hours before your visit. This offer is not available online. Minimum price points apply. Discount is based on accommodation only. For full details please see full [Park Holidays UK](https://www.parkholidays.com/terms-and-conditions) and [Park Leisure](https://www.parkleisure.co.uk/terms-and-conditions) holiday booking Terms and Conditions. The 20% off discount cannot be used in conjunction with any other offer and Park Leisure reserve the right to withdraw or amend this offer at any time.
 
 ---
 
