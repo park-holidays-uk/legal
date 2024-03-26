@@ -30,12 +30,86 @@ NOTE: If you do not wish to accept Cookies, you may be able to adjust your brows
 
 **WE USE COOKIES FOR THE FOLLOWING PURPOSES**
 
-| Cookie Categories | Examples of how we use each category of cookie |
-| ----------------- | ---------------------------------------------- |
-| **Strictly Necessary Cookies** | - Directing a user to the correct site <br> - Booking persistence <br> - User identification, session ID, Log in detail to facilitate flow of data between browser and server <br> - To differentiate between user device and set layout and display of pages <br> - Redirecting users to new pages from old ones <br> - Booking tracking <br> - Retaining persistence of information in forms or online chats <br> - Facilitating payments <br> - Managing consents such as for the deployment of cookies or for direct marketing <br> - User authentication <br> - BOT attack prevention <br> - Visitor prioritization <br> - Performance optimization <br> - Phased release for page updates <br> - Security detection and session replay software |
-| **Functional Cookies** | - Displaying recently viewed searches or holidays <br> - Retaining previous bookings <br> - Allowing non-essential widgets or videos to operate <br> - Allowing non-essential services such as park locators to work <br> - Webchat service provider(s) <br> - Online application and widget provider(s) <br> - Feedback and survey tool providers |
-| **Analytics and Personalization Cookies** | - Visitor identification <br> - Targeted content based on location or preferences <br> - To ensure consistent experience on the websites or apps <br> - To personalize display banners <br> - Visitor page views or movements around the sites <br> - Customer likes and preferences <br> - Online and offline purchases <br> - Analytical platform providers <br> - Analytic tagging service providers <br> - User performance and feedback providers |
-| **Advertising and Marketing Cookies** | - Gather information from you on your device to display advertisements <br> - Measure performance of advertisements <br> - Coordinate marketing campaigns across a user’s devices <br> - Share information gathered with other advertisers <br> - Build user profiles <br> - To support ad targeting on other sites <br> Third Party Advertisers and Affiliate Marketing Partners <br> - Social Media Advertising Platforms (e.g. Facebook, Instagram and TikTok) <br> - Search Engines (including Google) <br> - Customer Data Platforms which combine online and offline data for use by third-party marketing partners |
+<table border="1" style="border-collapse: collapse; background-color: #f2f9ff; width: 100%;">
+    <thead>
+        <tr style="background-color: #c7e0f4;">
+          <th style="padding: 8px; width: 30%;">Cookie Categories</th>
+          <th style="padding: 8px;">Examples of how we use each category of cookie</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Strictly Necessary Cookies.</strong> These cookies are essential to the basic functioning of our website and cannot be switched off.​</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Directing a user to the correct site</li>
+              <li>Booking persistence</li>
+              <li>User identification, session ID, Log in detail to facilitate flow of data between browser and server</li>
+              <li>To differentiate between user device and set layout and display of pages</li>
+              <li>Redirecting users to new pages from old ones</li>
+              <li>Booking tracking</li>
+              <li>Retaining persistence of information in forms or online chats</li>
+              <li>Facilitating payments</li>
+              <li>Managing consents such as for the deployment of cookies or for direct marketing</li>
+              <li>User authentication</li>
+              <li>BOT attack prevention</li>
+              <li>Visitor prioritisation</li>
+              <li>Performance optimisation</li>
+              <li>Phased release for page updates</li>
+              <li>Security detection and session replay software</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Functional Cookies.</strong> These cookies make using our website easier. They enable useful functions such as recent searches or recently viewed products. Our website will not function properly without them.​</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Displaying recently viewed searches or holidays</li>
+              <li>Retaining previous bookings</li>
+              <li>Allowing non-essential widgets or videos to operate</li>
+              <li>Allowing non-essential services such as park locators to work</li>
+              <li>Webchat service provider(s)</li>
+              <li>Online application and widget provider(s)</li>
+              <li>Feedback and survey tool providers</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Analytics and Personalization Cookies.</strong> These cookies help us understand what you are interested in so we can better service your needs and allows us to personalize your web journey and marketing content. Note, if you accept marketing cookies but not personalization cookies, you will only receive generic non-tailored marketing.</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Visitor identification</li>
+              <li>Targeted content based on location or preferences</li>
+              <li>To ensure consistent experience on the websites or apps</li>
+              <li>To personalize display banners</li>
+              <li>Visitor page views or movements around the sites</li>
+              <li>Customer likes and preferences</li>
+              <li>Online and offline purchases</li>
+              <li>Analytical platform providers</li>
+              <li>Analytic tagging service providers</li>
+              <li>User performance and feedback providers</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Advertising and Marketing Cookies.</strong> These cookies are used to determine whether you will be shown relevant adverts on other platforms such as Facebook or Twitter for example. Switching them off will mean you will only see generic advertising</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Gather information from you on your device to display advertisements</li>
+              <li>Measure performance of advertisements</li>
+              <li>Coordinate marketing campaigns across a user’s devices</li>
+              <li>Share information gathered with other advertisers</li>
+              <li>Build user profiles</li>
+              <li>To support ad targeting on other sites</li>
+              <li>Third Party Advertisers and Affiliate Marketing Partners</li>
+              <li>Social Media Advertising Platforms (e.g. Facebook, Instagram and TikTok)</li>
+              <li>Search Engines (including Google)</li>
+              <li>Customer Data Platforms which combine online and offline data for use by third-party marketing partners</li>
+            </ul>
+          </td>
+        </tr>
+    </tbody>
+</table>
 
 
 

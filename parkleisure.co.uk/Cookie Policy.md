@@ -30,12 +30,88 @@ NOTE: If you do not wish to accept Cookies, you may be able to adjust your brows
 
 **WE USE COOKIES FOR THE FOLLOWING PURPOSES**
 
-| Cookie Categories | Examples of how we use each category of cookie |
-| --- | --- |
-| Strictly Necessary Cookies. These cookies are essential to the basic functioning of our website and cannot be switched off.​ | \- Directing a user to the correct site<br><br>\- Booking persistence<br><br>\- User identification, session ID, Log in detail to facilitate flow of data between browser and server<br><br>\- To differentiate between user device and set layout and display of pages<br><br>\- Redirecting users to new pages from old ones<br><br>\- Booking tracking<br><br>\- Retaining persistence of information in forms or online chats<br><br>\- Facilitating payments<br><br>\- Managing consents such as for the deployment of cookies or for direct marketing<br><br>\- User authentication<br><br>\- BOT attack prevention,<br><br>\- Visitor prioritisation,<br><br>\- Performance optimisation,<br><br>\- Phased release for page updates<br><br>\- Security detection and session replay software |
-| Functional Cookies. These cookies make using our website easier. They enable useful functions such as recent searches or recently viewed products. Our website will not function properly without them. ​ | \- Displaying recently viewed searches or holidays,<br><br>\- Retaining previous bookings,<br><br>\- Allowing non-essential widgets or videos to operate,<br><br>\- Allowing non-essential services such as park locators to work.<br><br>\- Webchat service provider(s)<br><br>\- Online application and widget provider(s)<br><br>\- Feedback and survey tool providers |
-| Analytics and Personalisation Cookies. These cookies help us understand what you are interested in so we can better service your needs and allows us to personalise your web journey and marketing content. Note, if you accept marketing cookies but not personalisation cookies, you will only receive generic non tailored marketing. | \- Visitor identification,<br><br>\- Targeted content based on location or preferences,<br><br>\- To ensure consistent experience on the websites or apps,<br><br>\- To personalise display banners,<br><br>\- Visitor page views or movements around the sites<br><br>\- Customer likes and preferences<br><br>\- Online and offline purchases<br><br>\- Analytical platform providers<br><br>\- Analytic tagging service providers<br><br>\- User performance and feedback providers |
-| Advertising and Marketing Cookies. These cookies are used to determine whether you will be shown relevant adverts on other platforms such as Facebook or Twitter for example. Switching them off will mean you will only see generic advertising | \- Gather information from you on your device to display advertisements<br><br>\- Measure performance of advertisements<br><br>\- Coordinate marketing campaigns across a user’s devices<br><br>\- Share information gathered with other advertisers<br><br>\- Build user profiles<br><br>\- To support ad targeting on other sites<br><br>Third Party Advertisers and Affiliate Marketing Partners<br><br>\- Social Media Advertising Platforms (e.g. Facebook, Instagram and TikTok)<br><br>\- Search Engines (including Google)<br><br>\- Customer Data Platforms which combine online and offline data for use by third-party marketing partners |
+<table border="1" style="border-collapse: collapse; background-color: #f2f9ff; width: 100%;">
+    <thead>
+        <tr style="background-color: #c7e0f4;">
+          <th style="padding: 8px; width: 30%;">Cookie Categories</th>
+          <th style="padding: 8px;">Examples of how we use each category of cookie</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Strictly Necessary Cookies.</strong> These cookies are essential to the basic functioning of our website and cannot be switched off.​</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Directing a user to the correct site</li>
+              <li>Booking persistence</li>
+              <li>User identification, session ID, Log in detail to facilitate flow of data between browser and server</li>
+              <li>To differentiate between user device and set layout and display of pages</li>
+              <li>Redirecting users to new pages from old ones</li>
+              <li>Booking tracking</li>
+              <li>Retaining persistence of information in forms or online chats</li>
+              <li>Facilitating payments</li>
+              <li>Managing consents such as for the deployment of cookies or for direct marketing</li>
+              <li>User authentication</li>
+              <li>BOT attack prevention</li>
+              <li>Visitor prioritisation</li>
+              <li>Performance optimisation</li>
+              <li>Phased release for page updates</li>
+              <li>Security detection and session replay software</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Functional Cookies.</strong> These cookies make using our website easier. They enable useful functions such as recent searches or recently viewed products. Our website will not function properly without them.​</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Displaying recently viewed searches or holidays</li>
+              <li>Retaining previous bookings</li>
+              <li>Allowing non-essential widgets or videos to operate</li>
+              <li>Allowing non-essential services such as park locators to work</li>
+              <li>Webchat service provider(s)</li>
+              <li>Online application and widget provider(s)</li>
+              <li>Feedback and survey tool providers</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Analytics and Personalization Cookies.</strong> These cookies help us understand what you are interested in so we can better service your needs and allows us to personalize your web journey and marketing content. Note, if you accept marketing cookies but not personalization cookies, you will only receive generic non-tailored marketing.</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Visitor identification</li>
+              <li>Targeted content based on location or preferences</li>
+              <li>To ensure consistent experience on the websites or apps</li>
+              <li>To personalize display banners</li>
+              <li>Visitor page views or movements around the sites</li>
+              <li>Customer likes and preferences</li>
+              <li>Online and offline purchases</li>
+              <li>Analytical platform providers</li>
+              <li>Analytic tagging service providers</li>
+              <li>User performance and feedback providers</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; width: 30%;"><strong>Advertising and Marketing Cookies.</strong> These cookies are used to determine whether you will be shown relevant adverts on other platforms such as Facebook or Twitter for example. Switching them off will mean you will only see generic advertising</td>
+          <td style="padding: 8px;">
+            <ul style="margin: 0;">
+              <li>Gather information from you on your device to display advertisements</li>
+              <li>Measure performance of advertisements</li>
+              <li>Coordinate marketing campaigns across a user’s devices</li>
+              <li>Share information gathered with other advertisers</li>
+              <li>Build user profiles</li>
+              <li>To support ad targeting on other sites</li>
+              <li>Third Party Advertisers and Affiliate Marketing Partners</li>
+              <li>Social Media Advertising Platforms (e.g. Facebook, Instagram and TikTok)</li>
+              <li>Search Engines (including Google)</li>
+              <li>Customer Data Platforms which combine online and offline data for use by third-party marketing partners</li>
+            </ul>
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 **RETENTION**
 
@@ -45,9 +121,8 @@ NOTE: If you do not wish to accept Cookies, you may be able to adjust your brows
 
 **FURTHER INFORMATION AND GUIDANCE ON COOKIES**
 
-For further information on Cookies generally, including how to control and manage them, visit the [guidance on Cookies](https://ico.org.uk/for-the-public/online/cookies/) published by the UK Information Commissioner’s Office, <www.aboutCookies.org> or <www.allaboutCookies.org>.
+For further information on Cookies generally, including how to control and manage them, visit the [guidance on Cookies](https://ico.org.uk/for-the-public/online/cookies/) published by the UK Information Commissioner’s Office, [https://www.aboutcookies.org](https://www.aboutcookies.org) or [https://www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 **CONTACT US**
 
 Please contact us at **<dpo@parkholidays.com>** if you have any questions about this Cookie Notice or the information, we hold about you.
-
