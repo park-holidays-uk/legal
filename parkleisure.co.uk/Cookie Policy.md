@@ -1,14 +1,53 @@
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer/device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer or device.   
+**COOKIE NOTICE**
 
----
+This Cookie Notice forms part of our [Privacy Notice](https://www.parkholidays.com/privacy-policy).
 
-Cookies are small files saved to the user's computer’s hard drive that track, save and store information about the users’ interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
+**SCOPE**
 
-Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
+This Notice applies to all websites and apps owned and operated by Park Holidays UK Ltd (a trading subsidiary of Sun Communities, Intermediate Capital Group.)
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computer's hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information: [http://www.google.com/privacy.html](http://www.google.com/privacy.html)
+**WHAT ARE COOKIES?**
 
-Other cookies may be stored to your computer's hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer.
+Cookies and similar technologies **“Cookies”** are small data files which are placed on your smart phone, tablet, laptop, or other device when you use websites and/or apps. They are used to remember when a device returns to a site, to track a user, or to identify where someone has come from another site. Some Cookies are used just for the duration of your visit (“**Session Cookies**”) and others for an extended period (“**Persistent Cookies**”).
 
-No personal information is stored, saved or collected.
+Our websites and apps use other technologies, similar to Cookies, which also store or provide access to information stored in your devices including, but not limited to web beacons, pixels, plug ins, APIs, fingerprinting technologies, and object storage. For the purposes of this Notice, we use the term “Cookies” to include all technology that stores or accesses information on a user’s device, all of which are governed by the same legal rules.
+
+**FIRST AND THIRD-PARTY COOKIES**
+
+**F**irst-party cookies on our websites are those set by our web servers, or any JavaScript loaded on our websites. In the case of apps, the Software Development Kits (**“SDKS”**) utilised by us. A third-party cookie can be set by a third-party server, such as an AdTech vendor, or via code loaded on our website by another organisation or individual. In addition to the first-party cookies we set ourselves, we make use of Cookies from carefully selected third- parties; primarily for analytical, tracking, and digital marketing purposes. Data may be transferred to those third-parties as part of the deployment of cookies by them.
+
+**CONSENT TO THE USE OF COOKIES**
+
+With just two exemptions, Cookies cannot lawfully be deployed on a person’s device without their consent. Consent is not required only for the purposes of transferring an electronic communication (such as email or SMS), or where it is **strictly necessary** to provide a service over the internet that has been requested by the user (such as a purchasing experience on a website or app).
+
+When you first visit any of our websites or apps, we will ask for your consent to place Cookies or other similar technologies on your device in all cases where they are not **strictly necessary** to provide you with a service that you have requested (e.g., to enable you request a brochure, book a holiday or arrange a park visit etc.).
+
+**WITHDRAWING CONSENT TO USE COOKIES**
+
+You can withdraw your consent or manage cookie preferences by clicking on the **Cookie Settings** **link** at the bottom of any page on our website or whereby users can look for the cookie banner and access the cookie settings. This should take you to a page where you can see the types of cookies the website users and make changes to preferences.
+
+NOTE: If you do not wish to accept Cookies, you may be able to adjust your browser settings. If you do this, please be aware that you may lose some website functionality.
+
+**WE USE COOKIES FOR THE FOLLOWING PURPOSES**
+
+| Cookie Categories | Examples of how we use each category of cookie |
+| --- | --- |
+| Strictly Necessary Cookies. These cookies are essential to the basic functioning of our website and cannot be switched off.​ | \- Directing a user to the correct site<br><br>\- Booking persistence<br><br>\- User identification, session ID, Log in detail to facilitate flow of data between browser and server<br><br>\- To differentiate between user device and set layout and display of pages<br><br>\- Redirecting users to new pages from old ones<br><br>\- Booking tracking<br><br>\- Retaining persistence of information in forms or online chats<br><br>\- Facilitating payments<br><br>\- Managing consents such as for the deployment of cookies or for direct marketing<br><br>\- User authentication<br><br>\- BOT attack prevention,<br><br>\- Visitor prioritisation,<br><br>\- Performance optimisation,<br><br>\- Phased release for page updates<br><br>\- Security detection and session replay software |
+| Functional Cookies. These cookies make using our website easier. They enable useful functions such as recent searches or recently viewed products. Our website will not function properly without them. ​ | \- Displaying recently viewed searches or holidays,<br><br>\- Retaining previous bookings,<br><br>\- Allowing non-essential widgets or videos to operate,<br><br>\- Allowing non-essential services such as park locators to work.<br><br>\- Webchat service provider(s)<br><br>\- Online application and widget provider(s)<br><br>\- Feedback and survey tool providers |
+| Analytics and Personalisation Cookies. These cookies help us understand what you are interested in so we can better service your needs and allows us to personalise your web journey and marketing content. Note, if you accept marketing cookies but not personalisation cookies, you will only receive generic non tailored marketing. | \- Visitor identification,<br><br>\- Targeted content based on location or preferences,<br><br>\- To ensure consistent experience on the websites or apps,<br><br>\- To personalise display banners,<br><br>\- Visitor page views or movements around the sites<br><br>\- Customer likes and preferences<br><br>\- Online and offline purchases<br><br>\- Analytical platform providers<br><br>\- Analytic tagging service providers<br><br>\- User performance and feedback providers |
+| Advertising and Marketing Cookies. These cookies are used to determine whether you will be shown relevant adverts on other platforms such as Facebook or Twitter for example. Switching them off will mean you will only see generic advertising | \- Gather information from you on your device to display advertisements<br><br>\- Measure performance of advertisements<br><br>\- Coordinate marketing campaigns across a user’s devices<br><br>\- Share information gathered with other advertisers<br><br>\- Build user profiles<br><br>\- To support ad targeting on other sites<br><br>Third Party Advertisers and Affiliate Marketing Partners<br><br>\- Social Media Advertising Platforms (e.g. Facebook, Instagram and TikTok)<br><br>\- Search Engines (including Google)<br><br>\- Customer Data Platforms which combine online and offline data for use by third-party marketing partners |
+
+**RETENTION**
+
+**Session cookies**: this type of cookie automatically expires at the end of a web session.
+
+**Persistent cookies**: these are set to persist on a user’s device for periods of time determined by the company/individual deploying the cookie. Time periods can vary significantly from hours or days to tens or hundreds of years. We value our user’s privacy and take steps to ensure persistent cookies are set to expire when we no longer need them. Some cookies are needed for longer than others to optimise your experience, but there are no cookies on our website which are set to persist for longer than a year.
+
+**FURTHER INFORMATION AND GUIDANCE ON COOKIES**
+
+For further information on Cookies generally, including how to control and manage them, visit the [guidance on Cookies](https://ico.org.uk/for-the-public/online/cookies/) published by the UK Information Commissioner’s Office, <www.aboutCookies.org> or <www.allaboutCookies.org>.
+
+**CONTACT US**
+
+Please contact us at **<dpo@parkholidays.com>** if you have any questions about this Cookie Notice or the information, we hold about you.
 
