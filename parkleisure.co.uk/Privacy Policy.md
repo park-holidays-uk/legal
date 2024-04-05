@@ -1,427 +1,397 @@
+**PRIVACY NOTICE**
+
+**WHO WE ARE** 
+Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.
+<br>  
+<a href="#WHO-WE-ARE"> More ></a>  
+
+**INFORMATION WE COLLECT ABOUT YOU** 
+We collect personal information you give us such as your name, address, phone number, date of birth, gender, e-mail address, password, account settings and preferences.
+<br>
+<a href="#INFORMATION-WE-COLLECT-ABOUT-YOU"> More ></a>  
+
+**HOW WE COLLECT YOUR INFORMATION**
+We collect your personal information when you set up a user account, buy our products and when you subscribe to email updates, newsletters or other subscriptions. 
+<br>
+<a href="#HOW-WE-COLLECT-YOUR-INFORMATION"> More ></a>  
+
+**HOW WE USE YOUR INFORMATION** 
+We use your personal information to fulfil your order, to allow access to our website/mobile app, keep you up to date with latest offers and to ultimately offer you a better purchasing experience. 
+<br>
+<a href="#HOW-WE-USE-YOUR-INFORMATION"> More ></a>  
+
+**WHO WE SHARE YOUR INFORMATION WITH**
+We share your information with third parties where we need to, to fulfil our commitments to you or to meet other legal or contractual requirements. We take steps to ensure our suppliers treat your information with the same respect and security that we do. 
+<br>
+<a href="#WHO-WE-SHARE-YOUR-INFORMATION-WITH"> More ></a>  
+
+**HOW WE PROTECT YOUR INFORMATION** 
+We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. 
+<br>
+<a href="#HOW-WE-PROTECT-YOUR-INFORMATION"> More ></a>  
+
+**YOUR RIGHTS** 
+Under certain circumstances, you have rights under data protection laws in relation to your personal information. If you wish to exercise any of the rights set out above, please contact us. 
+<br>
+<a href="#YOUR-RIGHTS"> More ></a>  
+
+**HOW TO CONTACT US OR MAKE A COMPLAINT**
+If you have any questions about this Privacy Notice or our privacy practices, please contact our Data Protection Officer. Alternatively, you have the right to make a complaint at any time to the Information Commissioner's Office. 
+<br>
+<a href="#HOW-TO-CONTACT-US-OR-MAKE-A-COMPLAINT"> More ></a>  
+
+<br>
 **INTRODUCTION**
 
-Park Leisure Group Ltd is owned by Sun Communities Inc. Park Holidays UK Ltd is also owned by Sun Communities Inc.
+Park Holidays UK Ltd. (“we, “our” or “us”) and our parent company (SUN Communities) are committed to protecting the privacy and security of your personal information. We take care to protect the privacy of our customers and anyone that communicates (online or offline) with us either in person, over the phone or through our mobile applications, websites, and social media platforms. We will handle your personal information fairly and legally and are dedicated to being transparent about the information we collect about you and how we use it.
 
-Park Holidays UK Ltd acts as the data controller for both Park Leisure Group Ltd and sister brand Park Holidays UK Ltd. Park Holidays UK Ltd is registered with the Information Commissioner’s Office (the ICO) with registration number Z7420595.
+The purpose of this Privacy Notice is to inform you of the information we collect, what we do with it, what we do to keep it secure as well as the rights and choices you have over your personal information.
 
-We are committed to protecting the privacy and security of our customers and users of our products that communicate (online or offline) with us, at our sites, events, over the phone and through our websites and social media platforms.
+Applicable data protection legislation includes the Data Protection Act 2018 (DPA2018), United Kingdom General Data Protection Regulation (UK GDPR), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and any legislation implemented in connection with the aforementioned legislation. Where information is processed by a controller or processor established in the European Union or comprises the information of people in the European Union, it also includes the EU General Data Protection Regulation (EU GDPR) and any replacement legislation coming into effect from time to time.
 
-We have therefore developed this privacy policy to inform you of the data we collect, what we do with your information, what we do to keep it secure as well as the rights and choices you have over your personal information.
+We are the data controller for the personal information we process, unless otherwise stated.
 
-Throughout this document we refer to Data Protection Legislation which means the Data Protection Act 2018 (DPA2018), United Kingdom General Data Protection Regulation (UK GDPR), the Privacy and Electronic Communications Regulations (EC Directive) 2003 and any legislation implemented in connection with the aforementioned legislation.
+ **1. WHO WE ARE**
 
-Where data is processed by a controller or processor established in the European Union or comprises the data of people in the European Union, it also includes the EU General Data Protection Regulation (EU GDPR). This includes any replacement legislation coming into effect from time to time.
+<p id="WHO-WE-ARE">Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
 
-Park Leisure Group Ltd has implemented numerous technical and organisational measures to ensure the most complete protection of personal data processed through this website and other channels. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.
+Park Holidays UK Ltd. can be contacted by post, phone or email, as follows:
 
----
+**Park Holidays UK Ltd** 
+**Glovers House**  
+**Bexhill-On-Sea**  
+**TN39 5ES**  
+**United Kingdom**  
+**Phone: 01424 234234**  
+**Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)
+**Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
 
-**1. Definitions**
+**2. INFORMATION WE COLLECT ABOUT YOU**
 
-In this Privacy Policy, we use the following terms:
+<p id="INFORMATION-WE-COLLECT-ABOUT-YOU">Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).</p>
 
-*1.1 Consent*
+We may collect, use, store and transfer various kinds of personal information about you including but not limited to:
 
-Consent by the data subject is freely given, specific, informed and an unambiguous indication of their wishes by which they, by a statement or by a clear affirmative action, signifies agreement to the processing of their personal data.
+- **Identity Data** includes first name, last name, maiden name, gender, marital status, date of birth, username, customer number, title, proof of identity (passport, driving licence etc.), proof of address (inc. previous address if less than 3 years),
+- **Contact Data** includes billing address, delivery address, email address and telephone numbers.
+- **Financial Data** includes bank account details, proof of income, employment status, employment sector, occupation, company name, company address, if proprietor length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate), time at current bank and relevant transaction information (if appropriate).
+- **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
+- **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access our websites.
+- **Usage Data** includes information about how you use our website, products, and services.
+- **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties, your communications and correspondence with us. Your interests, feedback and survey responses.
+- **Publicly available Data** includes personal information which you have shared via a public platform (for example on X or a public Facebook page).
+- **Security Data** includes CCTV, ANPR and other images.
 
-*1.2 Controller responsible for the processing*
+This list is not exhaustive and other personal information may be processed for reasonable business purposes related to the running and managing of our Parks. We keep our Privacy Notice under regular review.
 
-The Controller responsible for the processing is Park Holidays UK, which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are governed by UK law.
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your information changes during your relationship with us.
 
-*1.3 Data subject*
+**Special categories of data**
 
-A data subject is any identified or identifiable natural person, whose personal data is processed by Park Holidays UK.
+Special categories of data are types of personal information that might be seen as more sensitive or private and relates to information about health, disability, race, ethnicity, political opinions, biometrics, or religion.
 
-*1.4 Personal data*
+We will usually only process health or disability special category data and only in the following circumstances:
 
-Personal data means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+- It is necessary to enter into or perform our contract with you; or
+- It is in your vital interests to do so; or
+- It is necessary to comply with our legal obligations
 
-*1.5 Processing*
+**And one of these further conditions of processing applies:**
 
-Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+- We have your explicit consent; or
+- It is in your vital interest; or for
+- Health or social care purposes
 
-*1.6 Processor*
+**Criminal offence data**
 
-A Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller. Park Holidays UK use partners and third party providers to act as processors on our behalf.
+The UK GDPR gives extra protection to the personal information of offenders or suspected offenders in the context of criminal activity, allegations, investigations, and proceedings.
 
-*1.7 Profiling*
+Criminal offence data includes information about criminal allegations, criminal offences, criminal proceedings and criminal convictions. We do not keep a comprehensive register of criminal convictions, however, owing to the nature of our business we often generate, or receive from third parties, data about criminal allegations, offences, proceedings and convictions.
 
-Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
+- Where we process criminal offence data, we will only do where it is necessary to comply with our legal obligations
 
-*1.8 Anonymisation*
+**And one of these further conditions of processing applies:**
 
-Anonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately in a secure database.
+- We have your explicit consent; or
+- Is necessary for the purposes of the prevention or detection of an unlawful act
 
-*1.9 Recipient*
+**Children**
 
-A recipient is a natural or legal person, public authority, agency or another body, to which the personal data is disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with UK law shall not be regarded as recipients; the processing of such data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing.
+While our website is designed for a general audience, we will not knowingly collect any data from children under the age of 13 . If you are under the age of 18, you are not permitted to register an account, use or submit your data to the website.
 
-*1.10 Restriction of processing*
+If we discover that we have collected any personal information from a child under the age of 18, we will suspend the associated account and remove that information from our database.
 
-Restriction of processing is the highlighting of stored personal data so that no further processing of that data by Park Holidays UK or data processors is undertaken in the future.
+If you believe we might have any personal information from or about a person under the age of 18, please email us at [**dpo@parkholidays.com**](mailto:dpo@parkholidays.com).
 
-*1.11 Third party*
+**Aggregated data**
+
+We also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated Data could be derived from your personal information but is not considered personal information in law as this data will not directly or indirectly reveal your identity.
 
-A third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.
+For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal information so that it can directly or indirectly identify you, we treat the combined data as personal information which will be used in accordance with this Privacy Notice.
 
-**2. Name and Address of the controller**
+**If you fail to provide personal information**
 
-The Controller for the purposes of the UK General Data Protection Regulation (UK GDPR), is:
+Where we need to collect personal information by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a purchase or service you have with us, but we will notify you if this is the case at the time.
 
-Park Holidays UK Ltd
+**3. HOW WE COLLECT YOUR INFORMATION**
 
-Glovers House
+<p id="HOW-WE-COLLECT-YOUR-INFORMATION">We use different methods to collect information from and about you including through:</p>
 
-Bexhill-On-Sea
+- **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal information you provide when you:
+  - purchase our products or services
+  - request marketing to be sent to you
+  - request support
+  - give us feedback, respond to surveys or contact us
+- **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our [**Cookies Notice**](https://www.parkleisure.co.uk/cookie-policy)
+
+**4. HOW WE USE YOUR PERSONAL INFORMATION**
+
+<p id="HOW-WE-USE-YOUR-INFORMATION">We will only use your personal information when the law allows us to. Most commonly, we will use it in the following circumstances:</p>
+
+- Performance of a contract we have or are about to enter into with you.
+- Where it is necessary for our business legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+- Where we need to comply with a legal obligation.
+
+**Purposes for which we will use your personal information**
+
+We have set out below a description of all the ways we plan to use your data and which of the lawful bases we rely on to do so. We have also identified what our legitimate interests are, where appropriate.
+
+Note that we may process your personal information against more than one lawful basis depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific lawful basis, we are relying on to process your personal information, where more than one basis has been set out in the table below.
+
+<style>
+    td {
+        padding: 8px;
+    }
+</style>
+
+<table border="1" style="border-collapse: collapse; background-color: #f2f9ff; width: 100%;">
+    <thead>
+        <tr style="background-color: #c7e0f4;">
+            <th style="padding: 8px; width: 33%;">Purpose/Activity</th>
+            <th style="padding: 8px; width: 33%;">Type of Data</th>
+            <th style="padding: 8px; width: 34%;">Lawful Basis for Processing including Basis of Legitimate Interest</th>
+        </tr>
+    </thead>
+    <tbody style="vertical-align: top;">
+        <tr>
+            <td >To register you as a new customer:<br><br>(a) Create an account for you<br>(b) Provide our products and services<br>(c) Manage our systems<br>(d) Verify your identity<br>(e) Prevent fraud<br>(f) Send you marketing communications<br>(g) Share this information with third parties if you have provided your consent to this</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to operate, manage, and grow our business)<br>(d) Consent</td>
+        </tr>
+        <tr>
+            <td >To understand the way you use our products:<br><br>(a) Identify products/services that may be of interest to you<br>(b) Monitor usage of website and app<br>(c) Provide location-based functions<br>(d) Upload your photos and videos<br>(e) Send notifications<br>(f) Personalise our service<br>(g) Statistical analysis and research<br>(h) Improve our services<br>(i) Develop new products and services</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+        </tr>
+        <tr>
+            <td >To process transactions, including:<br><br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us<br>(c) Foreign money exchange</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Financial</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to recover debts due to us)</td>
+        </tr>
+        <tr>
+            <td >Information when you communicate with us:<br><br>(a) Answer any of your issues or concerns<br>(b) Monitor customer communications for quality and training purposes<br>(c) Develop new services<br>(d) Improve our services based on the feedback you provide</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary for our legitimate interests (to provide a better service)</td>
+        </tr>
+        <tr>
+            <td >To manage our relationship with you:<br><br>(a) Notifying you about changes to our terms or Privacy Notice<br>(b) Resolving technical issues<br>(c) Asking you to provide feedback on our service</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+        </tr>
+        <tr>
+            <td >To administer and protect our business and this website:</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td >(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br>(b) Necessary to comply with a legal obligation</td>
+        </tr>
+        <tr>
+            <td >To deliver relevant website content</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Usage<br>(d) Marketing and Communications<br>(e) Information about your interactions with us on our website and apps</td>
+            <td >Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)</td>
+        </tr>
+        <tr>
+            <td >To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</td>
+            <td >(a) Information about your interactions with us in person and on our website and apps<br>(b) Usage</td>
+            <td >Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)</td>
+        </tr>
+        <tr>
+            <td >To make suggestions and recommendations to you about services that may be of interest to you</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Usage<br>(e) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+        </tr>
+        <tr>
+            <td >Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:<br><br>(a) Maintain market awareness<br>(b) Build and maintain social media branding</td>
+            <td >(a) Usage<br>(b) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+        </tr>
+    </tbody>
+</table>
 
-TN39 5ES
 
-United Kingdom
+**Change of purpose** - we will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
 
-Phone: 01424234234
+If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the lawful basis which allows us to do so.
 
-Email: info@parkholidays.com
+- We rely on the Legitimate Interest lawful basis for the following types of processing:
+- selling and supplying goods and services to our customers
+- sending promotional marketing communications which are tailored and relevant to our customers
+- understanding our customers’ preferences and behaviours
+- handling customer queries, complaints and disputes
+- fulfilling our duties to our employees, customers and other stakeholders
+- protecting our customers, employees and other individuals to maintain their safety, health and welfare
+- protecting Park Holidays UK Ltd., its employees and customers by taking legal action against third parties against third parties who have committed criminal acts or are in breach of their legal obligations to Park Holidays UK Ltd.
+- improving our products and services and developing new products and services
+- complying with legal and regulatory requirements
+- managing legal and insurance claims
+- handling legal or regulatory enforcement actions taken against Park Holidays UK Ltd.
+- managing corporate matters, including selling or transferring part or all of our business to third parties, acquisitions and mergers, or any other corporate restructuring activity
+- prevention, investigation and detection of crime, fraud and antisocial behaviour and the prosecution of offenders, in conjunction with law enforcement agencies
 
-**2.1 Processing by other controllers and joint controllers**
+**Marketing**
 
-If you make an application for credit funding in relation to holiday home ownership, we may share your personal data with our finance providers and associated intermediaries who may be Controllers/Joint Controllers in their own right. 
+We use your personal information to provide you with promotional messages via email, text, and other electronic means, based on your consent. strive to provide you with choices regarding certain personal information uses, particularly around marketing and advertising.
 
-They may use your data in their processing for your application for credit. They may also disclose your information to Credit Reference Agencies and Fraud Prevention Agencies to process your application. They or we may also make use of Debt Recovery Agencies to trace and recover debts.
+**Opting out -** you can ask us to stop sending you marketing messages at any time, by following the opt-out link we provide in all our marketing messages or contacting us at **<dpo@parkholidays.com>**.
 
-Your personal data that we may share with the above companies may comprise of the following data:
+**Online advertising** – If you visit our websites, you may be presented with personalised advertisements for our products and services whilst using other websites and social media platforms. The advertisements will relate to products you have previously viewed on our websites on your computer or other devices that we believe will be of interest to you. The advertisements are presented to you by us via specialist providers using cookies and other similar technologies placed on your device. You can disable or remove cookies at any time – see below for details.
 
-Name, maiden name, gender, marital status, address (time at current address), previous address if less than 3 years (time at previous address), home telephone number, mobile number, email address, date of birth, proof of identity (Passport or Photo Driving Licence or legal form), annual income (gross) employment status, employment sector, occupation (previous employment if less than 3 years), company name, company address, if proprietor length of time in business, company registration number, VAT number, funding instrument including bank account and credit/debit card details (if appropriate), time at current bank and relevant transaction information (if appropriate).
+**Cookies**
 
-If you intend to purchase using consumer credit, we are required to provide you with a copy of the finance provider’s Privacy Notice before we apply for finance on your behalf.
+For more information about the cookies we use, please see [here](https://www.parkleisure.co.uk/cookie-policy).
 
-**2.2 Service Operators**
+**How long will we hold your personal information for**
 
-Our service operators may either supply or process personal data for the purpose of making a booking, responding to an enquiry, analysing data for the purpose of developing marketing or business intelligence or to enhance customer communications.
+We will only retain your personal information for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal information for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
 
-Your personal data that we may share with our service operators may comprise of the data identified in 2.1 above.
+To determine the appropriate retention period for personal information, we consider the amount, nature and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-**3. Name and Address of the Data Protection Officer:**
+Sometimes we will anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
 
-For any enquiries relating to Park Leisure Group Ltd, please contact:
+In all other cases we will archive or delete your personal data in accordance with the rules set out in our Retention Policy and Schedule
 
-Data Protection Officer
+**5. WHO WE SHARE YOUR INFORMATION WITH**
 
-Park Holidays UK Ltd
+<p id="WHO-WE-SHARE-YOUR-INFORMATION-WITH">We share your information with certain suppliers or service providers to help us deliver our products and services to you. We will do this either when we receive your consent or because it is necessary for them to see your information in order for us to provide our products or services to you. These suppliers and service providers may process your personal information as data processors or as a data controller in their own right.</p>
 
-Glovers House Bexhill-On-Sea
+We only share your personal information with suppliers and service providers where they have confirmed they apply appropriate data protection and security controls. The information we provide to third party data processors, will be limited to only that required to complete the processing for which they have been engaged. They will not be permitted to use your information for any purposes other than those outlined in this Privacy Notice.
 
-TN39 5ES
+- If we are not able to share your information with these third parties, we may not be able to provide our products and services to you.
 
-United Kingdom
+There are certain circumstances where we transfer your personal information to other parties. For example, we will:
 
-Email: dpo@parkholidays.com
+- share information with advertising networks and social networks that require the data to select and serve relevant adverts to you and others. make use of the personal information we have collected from you to present you with advertisements that are more likely to be relevant to you
+- share your personal information with and access information from analytics and search engine providers that assist us in the improvement and optimisation of the website and app and for better personalisation of content and advertising
 
-A data subject may, at any time, contact our Data Protection Officer directly via email with questions concerning the protection of their data.
+Your personal information may also be transferred to other third-party organisations in certain scenarios, for example:
 
-**4. Cookies**
+- if we discuss selling or transferring part or all of our business – the information may be transferred to prospective purchasers under suitable terms as to confidentiality
+- if we are reorganised or sold, information may be transferred to a buyer who can continue to provide services to you
+- if we're required to by law, or under any regulatory code or practice we follow, or if we are asked by any public or regulatory authority. For example, the police, regulators, local authorities, governmental bodies etc., to comply with our legal obligations and for the prevention, detection or investigation of crime
+- if we are defending a legal claim your information may be transferred as required in connection with defending such claim
+- if there is an emergency which requires us to share your data to protect the health and safety of our website users or the general public
 
-Park Leisure Group Ltd websites use cookies. Cookies are text files that are stored on a computer system via an internet browser.
+**Social Media Platforms and Search Engines**
 
-Many internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which internet pages and servers can be assigned to the specific internet browser in which the cookie was stored. This allows visited internet sites and servers to differentiate the individual browser of the data subject from other internet browsers that contain other cookies. A specific internet browser can be recognized and identified using the unique cookie ID.
+When you accept cookies on our websites and you also use search engines like Google or have accounts on a Meta platform (e.g., Facebook or Instagram) or TikTok, your purchasing and browsing data will be shared with them. ‘Meta’ means Meta Platforms Inc. (a US company) and other Meta Group companies. ‘TikTok’ means TikTok Information Technologies UK Ltd. in the UK and TikTok Technology Ltd. in Ireland. ‘Google’ means Google LLC (a US company) and Google Ireland Ltd. This enables social media companies and search engines to present you with personalised advertisements relating to our products and services when you use them.
 
-Through the use of cookies, Park Leisure Group Ltd can provide the users of this website with more user-friendly services that would not be possible without the use of cookies.
+You can find out more about how these organisations use your personal information and how you can exercise your data subject rights in the links below:
 
-By means of a cookie, the information and offers on our website can be optimized with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website. A website user that uses cookies does not have to enter access data each time the website is accessed, because this is taken over by the website, and the cookie is thus stored on the user's computer system. Another example is the cookie of a shopping cart in an online shop. The online store remembers the articles that a data subject has placed in the virtual shopping cart via a cookie.
+- [Meta - Privacy Centre - Manage your privacy on Facebook, Instagram and Messenger - Facebook Privacy](https://www.facebook.com/privacy/center/)
+- [TikTok Privacy Policy](https://www.tiktok.com/legal/page/eea/privacy-policy/en)
+- [How Google uses information from sites or apps that use our services – Privacy and Terms - Google](https://policies.google.com/technologies/partner-sites)
 
-Our data subject may, at any time, prevent the setting of cookies through our website by means of a corresponding setting of their Internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers.
+As required under data protection legislation, Park Holidays UK Ltd. has agreements in place with social media platforms which detail each party’s responsibilities and obligations. We are responsible for providing you with the information above and relevant social media platforms are responsible for enabling your rights under the UK GDPR, for the data they process.
 
-If a data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be usable.
+Our relationships with social media platforms may not be limited to those explicitly referenced in this Notice nd may change from time to time.
 
-If you require any further information on cookies including how to see what cookies have been set and how to manage, delete and turn them off visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](https://allaboutcookies.org/)
+**Third Party Links**
 
-Please note these are external websites and Park Leisure Group Ltd is not responsible for the accuracy of the information on these sites.
+This website may include links to trusted third-party websites, plug-ins, and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their processing of your personal information. When you leave our website, we encourage you to read the Privacy Notice of every website you visit.
 
-Park Leisure Group Ltd Ltd make use of both first party cookies and cookies from carefully selected third- parties, primarily for analytical, tracking and remarketing purposes. All our cookies are anonymous, containing no personally identifiable information. Please see the table below for a detailed breakdown of the cookies used by Park Leisure Group Ltd.
+**Mergers and Acquisitions**
 
-If you decide to share our content using social media sharing tools on our Sites, you may be presented with cookies from third party sites such as Facebook, Twitter or Google+. Park Leisure Group Ltd does not control how these sites use cookies, therefore you should refer to the appropriate site's own privacy and cookie policy to understand how they use cookies.
+In the event that our business is acquired, either wholly or partly, by another business (e.g. a merger or sale) we may need to disclose your personal information to that company in order for them to continue providing services to you. Should this occur, your data will only be used by that company for the purposes set out in this Privacy Notice.
 
-All cookies have an owner which tells you who the cookie belongs to. The owner is the domain specified in the cookie. In “third-party cookie”, the word “party” refers to the domain as specified in the cookie; the website that is placing the cookie. So, for example, if you visit widgets.com and the domain of the cookie placed on your computer is widgets.com, then this is a first-party cookie. If, however, you visit widgets.com and the cookie placed on your computer says stats-for-free.com, then this is a third-party cookie.
+Your personal information may also be shared with another company, during preliminary discussions around a merger or acquisition of our business, prior to entering a contract. In this event, the data will be shared securely and kept confidential and deleted if the merger or acquisition does not complete.
 
----
- 
-Cookie Source, Type, Description:
+**International data transfers**
 
-**Google Analytics**
-1st Party
+In order to deliver our services and products to you, we sometimes need to transfer your information outside of the UK or European Economic Area (EEA) to countries which have different data protection rules.
 
-Google Analytics is a free service offered by Google that generates detailed statistics about visitors to a Web site for marketers. Google Analytics makes it possible to track users across search engines, email campaigns and display advertising giving advertisers the opportunity to optimize campaigns on multiple platforms.
+Where this is necessary, we ensure the transfer is secure and will be compliant with prevailing laws and regulation. Our standard practice is to use standard contract clauses (SCC’s) which have been approved by the European Commission and the relevant UK authorities. These clauses can be viewed [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
-**Facebook**
-1st Party
+Where we share data with our US-based parent company, we rely on our Inter Group Agreement, which incorporates the UK Addendum to the EU Standard Contractual Clauses.
 
-We use cookies if you have a Facebook account, use the Facebook Products, including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
+**6. HOW WE PROTECT YOUR INFORMATION**
 
-**Twitter**
-1st Party
+<p id="HOW-WE-PROTECT-YOUR-INFORMATION">We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used, or accessed in an unauthorised way, altered, or disclosed. In addition, we limit access to your personal information to only those employees, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions, and they are subject to a duty of confidentiality.</p>
 
-We (along with third parties) use these technologies on our websites, applications, and services and on other websites, applications, and services that have integrated our services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from our websites or applications, view or interact with third-party content from within our services or visit third-party websites that incorporate our advertising technology.
+We have put in place procedures to deal with any suspected personal information breach and will notify you and any applicable regulator of a breach, where we are legally required to do so.
 
-**Google Adwords**
-3rd Party
+Examples of the measures we take to protect your data include:
 
-AdWords is Google’s main advertising product. AdWords offers pay-per-click (PPC) advertising, cost-per-thousand (CPM) advertising, and site-targeted advertising for text, banner, and rich-media ads. The AdWords program includes local, national, and international distribution. Google’s text advertisements are short, consisting of one headline and two additional text lines. Image ads can be one of several different Interactive Advertising Bureau (IAB) standard sizes.
+- Encryption of data
+- Security measures that protect and monitor our IT systems to protect from external attack and unauthorised access
+- Regular penetration testing of our systems
+- Information security assessments of third parties we share your data with
+- Internal policies and regular staff training relating to data protection
 
-**Microsoft**
-1st Party
+**Measures you can take to protect your data**
 
-Microsoft uses cookies (small text files placed on your device) and similar technologies to provide our websites and online services and to help collect data. Cookies allow us, among other things, to store your preferences and settings; enable you to sign-in; provide interest-based advertising; combat fraud; and analyse how our websites and online services are performing. Microsoft apps use other identifiers, such as the advertising ID in Windows described in the Windows section of this statement, for similar purposes. We also use web beacons to help deliver cookies and gather usage and performance data. Our websites may include web beacons and cookies from third-party service providers.
+We will never ask you to confirm your bank or credit card details via email or text. If you receive such a request, please ignore it, and do not respond.
 
-**Strictly Necessary Cookies**
+When accessing your account in a public location, we recommend you log out and close your browser when you have finished.
 
-*First Party Cookies*
+We recommend that you keep your account and password details private and do not share them. It is also recommended that when setting passwords, you use at least 8 characters and a mixture of letters and numbers. You should make your password hard to guess, not use the same password for different online accounts and consider changing it regularly.
 
--	OptanonAlertBoxClosed
--	_dc_gtm_UA-xxxxxxxx
--	sessionId
--	OptanonConsent
--	CRAFT_CSRF_TOKEN
--	consent.cookiebot.com
--	NameCookieConsent
--	PLSesh
--	CookieConsent
+**7. YOUR RIGHTS**
 
-**Functional Cookies**
+<p id="YOUR-RIGHTS">You have the following rights under data protection laws in relation to your personal information:</p>
 
-*First Party Cookies*
+**Right to be informed** in a clear and concise way about how we process your personal information. This is referred to as privacy information and we rely on this Privacy Notice to meet this requirement.
 
--	_hjSessionUser_xxxxxx
--	_hjIncludedInSessionSample
--	_hjSession_xxxxxx
--	_hjFirstSeen
--	_gat_UA-nnnnnnn-nn
--	_hjTLDTest
--	_gclxxxx
--	_gid
--	_hjIncludedInPageviewSample
--	_uetvid
--	_hjAbsoluteSessionInProgress
--	_ga
--	_uetvid
--	http://script.hotjar.com
--	_hjIncludedInPageviewSample
--	_hjIncludedInSessionSample
--	adiCookieCheck
--	adiErr
--	nr-data.net
--	JSESSIONID
--	vimeo.com
--	vuid
--	__cf_bm
--	woobox.com
--	4dqxtf_pastviews
--	ci_session
--	4dqxtf_visit
--	9v6d2r_visit
--	9v6d2r_pastviews
--	visitor_id
+**Right of access** to your personal information (commonly known as a "Data Subject Access Request", “DSAR” or “SAR”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
 
-**Advertising Cookies**
+We are committed to providing the information you request as part of your Data Subject Access Request and have procedures in place to ensure this occurs in a timely fashion.
 
-*First Party Cookies*
+**Right to rectification** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 
--	_uetsid
--	_fbp
--	http://bing.com
--	MUID
--	http://doubleclick.net
--	IDE
--	test_cookie
--	awxxxx
--	youtube.com
--	CONSENT
--	static-ssl.responsetap.com
--	__adiCookieCheck
--	metrics.responsetap.com
--	JSESSIONID
+**Right to erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal information to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
 
-**5. Collection of general data and information**
+**Right to restrict processing** of your personal information. This enables you to ask us to suspend the processing of your personal information in the following scenarios:
 
-Park Leisure Group Ltd website collects a series of general data and information when a data subject or automated system accesses the website. This general data and information is stored in the server log files. General data collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+- If you want us to establish the data's accuracy.
+- Where our use of the data is unlawful, but you do not want us to erase it.
+- Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims.
+- You have objected to our use of your data, but we need to verify whether we have overriding legitimate grounds to use it.
 
-When using such general data and information, Park Holidays UK does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack.
+**Right to data portability** of your personal information to you or to a third party. We will provide to you, or a third party you have chosen, your personal information in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
 
-Therefore, Park Holidays UK analyses anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our company, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+**Right to object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal information for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate reasons to process your information which override your rights and freedoms.
 
-**6. Registration on our website**
+**Right related to automated decision making and profiling** based on the personal information we hold about you. Where we do this, you have the right to be informed of the processing and to request human intervention. Where we rely on this type of processing, we will carry out regular checks to ensure our systems are working as intended.
 
-Our data subjects can register on our website and submit data which is collected and stored and may be shared with one or more processors (e.g. a brochure fulfilment service) that also uses the data subject’s personal data for an internal purpose which is attributable to the controller.
+**Right to withdraw consent** at any time where we are relying on consent to process your personal information. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-When you visit our website, our web server logs your IP address. This gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes and to prevent the misuse of our services, and, if necessary, to make it possible to investigate committed offences internally or if we are required by law to do so.
+Please note we do not have agreements in place with any third-party platforms that offer “Data Subject Rights Requests as a Service.” As a responsible controller of your personal information, we recognise doing so would present significant risks. The rights afforded to you do not obligate us to interact with third parties. We will however endeavour to action requests received from third parties. Following receipt of a request we will continue our interactions with the you (or the requestor themselves) directly.
 
-The registration of the data subject, with the voluntary submission of personal data, is intended to enable Park Leisure Group Ltd to offer the data subject content or services that may only be offered to registered users due to the nature of the matter in question.
+If you wish to exercise any of the rights set out above, please contact us at **<dpo@parkholidays.com>**.
 
-Data subjects that complete enquiry forms, competition entries or other forms on the Park Leisure website will receive a minimum of 1 communication either by telephone, e-mail, SMS or post to acknowledge the data subject’s request and/or competition entry. At this time, the data subject will be asked to confirm their marketing preferences. If the data subject chooses not to opt-in to marketing communications, they will not receive general marketing communications from Park Leisure but will continue to receive responses to specific enquiries.
+**Time limit to respond**
 
-Registered data subjects are free to change the personal data specified during the registration at any time, or to exercise their right to be forgotten and request their personal data be completely deleted through the right of erasure.
+We endeavour to respond to all legitimate requests within the required one calendar month timeframe. If your request is particularly complex or you have made a number of requests, we may need to extend the response window by up to a further two calendar months. In this case, we will notify you and keep you updated.
 
-Our website may contain links to other websites. Once you have clicked on these links please note that we do not have any control over the websites at which you will arrive. We cannot be held responsible for the protection and privacy of any information that you provide whilst visiting such sites. You should review the privacy statement applicable to the website upon arrival.
+**No fee usually required**
 
-**7. Direct marketing**
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive, or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-Park Leisure Group Ltd operate a marketing communications strategy in which carefully selected data subjects are presented with tailored offers for goods or services which we believe may be of interest. Marketing communications may be sent via ordinary postal mail, SMS text messages, email or live chat on our websites. Data subjects are requested to specify and subscribe to this activity if they so wish.
+**What we may need from you**
 
-**8. Subscription to electronic communications**
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-Park Leisure website users are given the opportunity to subscribe to electronic communications. Park Leisure Group Ltd informs its data subject regularly by means of an electronic communication about news and events that may be of interest to data subjects. The electronic communication may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the electronic communication. The personal data collected as part of a registration for the electronic communication will only be used to send our electronic communications. The subscription to our electronic communications may be terminated by the data subject at any time by using the ‘unsubscribe’ link on the electronic communication or via the Park Leisure website or communicate this to Park Leisure via alternative means, e.g. by telephone.
+**8. HOW TO CONTACT US OR MAKE A COMPLAINT**
 
-**9. Electronic communication-Tracking**
+<p id="HOW-TO-CONTACT-US-OR-MAKE-A-COMPLAINT">Our Data Protection Officer helps ensure we protect the personal information we process and that we comply with data protection legislation.</p>
 
-The electronic communications of Park Leisure contain so-called tracking pixels. A tracking pixel is a miniature graphic embedded in such communications, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, Park Leisure may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up by the data subject.
+If you have any questions about this Privacy Notice or our privacy practices, please contact our Data Protection Officer at **<dpo@parkholidays.com>**.
 
-Such personal data collected in the tracking pixels contained in the electronic communications are stored and analysed by Park Leisure to optimize the sending of the electronic communication, as well as to tailor the content of future electronic communications even better to the interests of the data subject. After a deletion request is received, this personal data will be deleted by Park Holidays UK. Park Holidays UK automatically regards a withdrawal from the receipt of the electronic communications as a revocation of consent.
-
-**10. Data subject contact via the website**
-
-Park Leisure website contains information that enables direct communication with us and includes our email address. If a data subject contacts Park Leisure by e-mail or via a contact form, their personal data is automatically stored for processing or contacting the data subject. There is no transfer of this personal data to third parties, without the data subjects consent.
-
-**11. Routine erasure of personal data**
-
-Park Holidays UK shall process and store the personal data of the data subject only for the period necessary to fulfil the purpose for which it was gathered.
-
-**12. Rights of the data subject**
-
-*1. Right of access*
-
-Each data subject shall have the right to obtain from Park Holidays UK details about his or her personal data stored at any time and a copy of this information. 
-
-Furthermore, the data subject has the right to know the following information:
-
-§ the purposes of the processing;
-
-§ the categories of personal data concerned;
-
-§ the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
-
-§ where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
-
-§ the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing;
-
-§ the existence of the right to lodge a complaint with the Information Commissioner’s Office which is the UK’s data protection regulator.
-
-§ where the personal data are not collected from the data subject, any available information as to their source;
-
-§ the existence of automated decision-making, including profiling, referred to in 
-
-Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject.
-
-Furthermore, the data subject shall have a right to obtain information as to whether their personal data has been transferred outside the UK or European Union to a third country or to an international organisation. Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer. If a data subject wishes to avail themselves of this right of access they may, at any time, contact our Data Protection Officer via email.
-
-**2. Right to rectification**
-
-Each data subject shall have the right to obtain from Park Holidays UK without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
-
-If a data subject wishes to exercise this right to rectification, they may, at any time, contact our Data Protection Officer via email.
-
-**3. Right to erasure (Right to be forgotten)**
-
-Each data subject shall have the right to request Park Holidays UK erase all personal data concerning him or her without undue delay where one of the following grounds applies, if the processing is not necessary:
-
-§ The personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed.
-
-§ The data subject withdraws consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing.
-
-§ The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR.
-
-§ The personal data has been unlawfully processed.
-
-§ The personal data must be erased for compliance with a legal obligation in UK law to which the controller is subject.
-
-§ The personal data has been collected in relation to the offer of information society services directly to a child, referred to in Article 8(1) of the GDPR.
-
-If one of the above reasons applies, and a data subject wishes to request the erasure of personal data stored by Park Holidays UK, they may, at any time, contact our Data Protection Officer via email.
-
-Where Park Holidays UK has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, Park Holidays UK shall, taking account of available technology and the cost of implementation, take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. The Data Protection Officer of Park Holidays UK will arrange the necessary measures in individual cases.
-
-**4. Right of restriction of processing**
-
-Each data subject shall have the right to obtain from Park Holidays UK restriction of processing where one of the following applies:
-
-§ The accuracy of the personal data is contested by the data subject, for a period enabling Park Holidays UK to verify the accuracy of the personal data.
-
-§ The processing is unlawful, and the data subject opposes the erasure of the personal data and requests instead the restriction of their use instead.
-
-§ Park Holidays UK no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.
-
-§ The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of Park Holidays UK override those of the data subject.
-
-**5. Right to data portability**
-
-Each data subject shall have the right to receive the personal data concerning themselves, which was provided to Park Holidays UK, in a structured, commonly used and machine-readable format.
-
-The data subject shall have the right to transmit such data to another controller without hindrance from Park Holidays UK to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
-
-Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
-
-**6. Right to object**
-
-Each data subject shall have the right to object, on grounds relating to his or her situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the UK GDPR. This also applies to profiling based on these provisions.
-
-Park Holidays UK shall no longer process the personal data in the event of an objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
-
-If Park Holidays UK processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to Park Holidays UK processing the data for direct marketing purposes, Park Holidays UK will no longer process the personal data for these purposes.
-
-In addition, the data subject has the right, on grounds relating to his or her situation, to object to processing of personal data concerning him or her by Park Holidays UK for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
-
-**7. Automated individual decision-making, including profiling**
-
-Each data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by UK law to which the controller is subject and which also lays down suitable measures to safeguard the data subjects rights and freedoms and legitimate interests, or (3) is not based on the data subjects explicit consent.
-
-If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and Park Holidays UK, or (2) it is based on the data subjects explicit consent, Park Holidays UK shall implement suitable measures to safeguard the data subject rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of Park Holidays, to express his or her point of view and contest the decision.
-
-**8. Right to withdraw data protection consent**
-
-Each data subject shall have the right to withdraw his or her consent to processing of his or her personal data at any time.
-To make enquiries, exercise any of your rights set out in this Privacy Policy and/or make a complaint, please contact our Data Protection Officer at dpo@parkholidays.com
-
-**13. Legal basis for the processing**
-
-Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR.
-
-The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. If our company is subject to a legal obligation by which processing of personal data is required, such as for the fulfilment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.
-
-In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and their name, age, health data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR. 
-
-Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the above mentioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data.
-
-**14. Period for which the personal data will be stored**
-
-Park Holidays UK will only retain personal data for the duration of the processing required and thereafter this personal data is routinely deleted. Park Holidays UK has a Retention Policy and Schedule to ensure this is done consistently.
-
-**15. Provision of personal data as a statutory or a contractual requirement;**
-
-When Park Holidays UK need to process someone’s personal data because we need to fulfil our contractual obligations to them or because they have asked us to do something before entering into a contract (e.g. pay for goods or services).
-There is an obligation on the data subject to provide us with personal data when we sign a contract with them however if the data subject elects to withhold their personal data then the contract would not be concluded.
-
-**16. Existence of automated decision-making**
-
-Our financial third-party data processors do operate automatic decision-making or profiling practises.
-
-**17. If you wish to contact the Information Commissioners Office, you can do so here:**
-
-[https://ico.org.uk](https://ico.org.uk)
-
-Telephone: 0303 123 1113 
-
-**18. Description of the personally identifiable information that we may collect:**
-
-We may collect some or all of the information listed below to enable us to offer you tailored offers for goods or services dependant on your circumstances and interests:
-
-Name; Age/date of birth; Gender; Marital status; Address details; Employment history; Emergency contacts and details of any dependants; Nationality; Financial information (because we may need to carry out financial background checks); IP address; frequency including dates and times that you access or purchase our services; Copy of your passport, social security number/driving licence/identity card; CCTV footage if you visit any of our Parks.
-
-**19. Description of the special category data that we may collect:**
-
-Race; ethnic origin; politics; religion; trade union membership; genetics; biometrics (where used for ID purposes); health; sex life; or sexual orientation.
-
-**Sharing data**
-
-We may share your data with our third-party service providers and partners (processors) to enable them to contact you with products or services that relate directly to the product or service that you have purchased from us.
-
-**Changes to this Privacy Policy**
-
-Park Holidays UK reserve the right to amend or modify this Privacy Policy at any time and any changes will be published on our website. The date of the most recent revision will appear on this web page. If we make significant changes to this policy, we may also notify you by other means such as sending an email. Where required by law we will obtain your consent to make these changes. If you do not agree with any changes, please do not continue to use our website and let us know that you wish to have your personal data deleted.
-
+You also have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK regulator for data protection issues ([www.ico.org.uk](http://www.ico.org.uk)). We would, however, appreciate the opportunity to deal with your concerns before you approach the ICO, so please contact us in the first instance.
