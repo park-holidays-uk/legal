@@ -256,7 +256,7 @@ We use your personal information to provide you with promotional messages via em
 
 **Cookies**
 
-For more information about the cookies we use, please see here.
+For more information about the cookies we use, please see [here](https://www.parkleisure.co.uk/cookie-policy).
 
 **How long will we hold your personal information for**
 
