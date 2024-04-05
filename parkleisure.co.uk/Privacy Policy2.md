@@ -3,7 +3,7 @@
 **WHO WE ARE** 
 Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.
 <br>  
-<a href="#who-we-are"> More ></a>  
+<a href="#WHO-WE-ARE"> More ></a>  
 
 **INFORMATION WE COLLECT ABOUT YOU** 
 We collect personal information you give us such as your name, address, phone number, date of birth, gender, e-mail address, password, account settings and preferences.
@@ -54,18 +54,18 @@ We are the data controller for the personal information we process, unless other
 
  **1. WHO WE ARE**
 
-<p id="who-we-are">Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
+<p id="WHO-WE-ARE">Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
 
 Park Holidays UK Ltd. can be contacted by post, phone or email, as follows:
 
-    **Park Holidays UK Ltd** 
-    **Glovers House**  
-    **Bexhill-On-Sea**  
-    **TN39 5ES**  
-    **United Kingdom**  
-    **Phone: 01424 234234**  
-    **Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)
-    **Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
+**Park Holidays UK Ltd** 
+**Glovers House**  
+**Bexhill-On-Sea**  
+**TN39 5ES**  
+**United Kingdom**  
+**Phone: 01424 234234**  
+**Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)
+**Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
 
 **2. INFORMATION WE COLLECT ABOUT YOU**
 
@@ -143,7 +143,7 @@ Where we need to collect personal information by law, or under the terms of a co
   - request marketing to be sent to you
   - request support
   - give us feedback, respond to surveys or contact us
-- **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our <a href="www.parkleisure.co.uk/cookie-policy" target="_blank">**Cookies Notice**</a>
+- **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our <a href="https://www.parkleisure.co.uk/cookie-policy" target="_blank">**Cookies Notice**</a>
 
  **4. HOW WE USE YOUR PERSONAL INFORMATION**
 
@@ -159,81 +159,74 @@ We have set out below a description of all the ways we plan to use your data and
 
 Note that we may process your personal information against more than one lawful basis depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific lawful basis, we are relying on to process your personal information, where more than one basis has been set out in the table below.
 
+<style>
+    td {
+        padding: 8px;
+    }
+</style>
+
 <table border="1" style="border-collapse: collapse; background-color: #f2f9ff; width: 100%;">
     <thead>
         <tr style="background-color: #c7e0f4;">
-            <th style="padding: 8px; width: 25%;">Purpose/Activity</th>
-            <th style="padding: 8px; width: 25%;">Type of Data</th>
-            <th style="padding: 8px; width: 50%;">Lawful Basis for Processing including Basis of Legitimate Interest</th>
+            <th style="padding: 8px; width: 33%;">Purpose/Activity</th>
+            <th style="padding: 8px; width: 33%;">Type of Data</th>
+            <th style="padding: 8px; width: 34%;">Lawful Basis for Processing including Basis of Legitimate Interest</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="vertical-align: top;">
         <tr>
-            <td style="padding: 8px;"><strong>To register you as a new customer:</strong><br><br>(a) Create an account for you<br>(b) Provide our products and services<br>(c) Manage our systems<br>(d) Verify your identity<br>(e) Prevent fraud<br>(f) Send you marketing communications<br>(g) Share this information with third parties if you have provided your consent to this</td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
-            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to operate, manage, and grow our business)<br>(d) Consent</td>
+            <td >To register you as a new customer:<br><br>(a) Create an account for you<br>(b) Provide our products and services<br>(c) Manage our systems<br>(d) Verify your identity<br>(e) Prevent fraud<br>(f) Send you marketing communications<br>(g) Share this information with third parties if you have provided your consent to this</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to operate, manage, and grow our business)<br>(d) Consent</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To understand the way you use our products:</strong><br><br>(a) Identify products/services that may be of interest to you<br>(b) Monitor usage of website and app<br>(c) Provide location-based functions<br>(d) Upload your photos and videos<br>(e) Send notifications<br>(f) Personalise our service<br>(g) Statistical analysis and research<br>(h) Improve our services<br>(i) Develop new products and services</td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
-            <td style="padding: 8px;">Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+            <td >To understand the way you use our products:<br><br>(a) Identify products/services that may be of interest to you<br>(b) Monitor usage of website and app<br>(c) Provide location-based functions<br>(d) Upload your photos and videos<br>(e) Send notifications<br>(f) Personalise our service<br>(g) Statistical analysis and research<br>(h) Improve our services<br>(i) Develop new products and services</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To process transactions, including:</strong><br><br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us<br>(c) Foreign money exchange</td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Financial</td>
-            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to recover debts due to us)</td>
+            <td >To process transactions, including:<br><br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us<br>(c) Foreign money exchange</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Financial</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to recover debts due to us)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>Information when you communicate with us:</strong><br><br>(a) Answer any of your issues or concerns<br>(b) Monitor customer communications for quality and training purposes<br>(c) Develop new services<br>(d) Improve our services based on the feedback you provide</td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
-            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary for our legitimate interests (to provide a better service)</td>
+            <td >Information when you communicate with us:<br><br>(a) Answer any of your issues or concerns<br>(b) Monitor customer communications for quality and training purposes<br>(c) Develop new services<br>(d) Improve our services based on the feedback you provide</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary for our legitimate interests (to provide a better service)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To manage our relationship with you:</strong><br><br>(a) Notifying you about changes to our terms or Privacy Notice<br>(b) Resolving technical issues<br>(c) Asking you to provide feedback on our service</td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
-            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+            <td >To manage our relationship with you:<br><br>(a) Notifying you about changes to our terms or Privacy Notice<br>(b) Resolving technical issues<br>(c) Asking you to provide feedback on our service</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td >(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To administer and protect our business and this website:</strong></td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
-            <td style="padding: 8px;">(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br>(b) Necessary to comply with a legal obligation</td>
+            <td >To administer and protect our business and this website:</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td >(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br>(b) Necessary to comply with a legal obligation</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To deliver relevant website content</strong></td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Usage<br>(d) Marketing and Communications<br>(e) Information about your interactions with us on our website and apps</td>
-            <td style="padding: 8px;">Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)</td>
+            <td >To deliver relevant website content</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Usage<br>(d) Marketing and Communications<br>(e) Information about your interactions with us on our website and apps</td>
+            <td >Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</strong></td>
-            <td style="padding: 8px;">(a) Information about your interactions with us in person and on our website and apps<br>(b) Usage</td>
-            <td style="padding: 8px;">Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)</td>
+            <td >To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</td>
+            <td >(a) Information about your interactions with us in person and on our website and apps<br>(b) Usage</td>
+            <td >Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>To make suggestions and recommendations to you about services that may be of interest to you</strong></td>
-            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Usage<br>(e) Marketing and Communications</td>
-            <td style="padding: 8px;">Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+            <td >To make suggestions and recommendations to you about services that may be of interest to you</td>
+            <td >(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Usage<br>(e) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
         </tr>
         <tr>
-            <td style="padding: 8px;"><strong>Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:</strong><br><br>(a) Maintain market awareness<br>(b) Build and maintain social media branding</td>
-            <td style="padding: 8px;">(a) Usage<br>(b) Marketing and Communications</td>
-            <td style="padding: 8px;">Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+            <td >Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:<br><br>(a) Maintain market awareness<br>(b) Build and maintain social media branding</td>
+            <td >(a) Usage<br>(b) Marketing and Communications</td>
+            <td >Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
         </tr>
     </tbody>
 </table>
 
-
-| **Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest** |
-| --- | --- | --- |
-| To register you as a new customer:<br><br>(a) Create an account for you<br><br>(b) Provide our products and services<br><br>(c) Manage our systems<br><br>(d) Verify your identity<br><br>(e) Prevent fraud<br><br>(f) Send you marketing communications<br><br>(g) Share this information with third parties if you have provided your consent to this | (a) Identity<br><br>(b) Contact<br><br>(c) information about your interactions with us in person and on our website and apps | (a) Performance of a contract with you<br><br>(b) Necessary to comply with a legal obligation<br><br>(c) Necessary for our legitimate interests (to operate, manage and grow our business)<br><br>(d) Consent |
-| To understand the way you use our products:<br><br>(a) Identify products/services that may be of interest to you<br><br>(b) Monitor usage of website and app<br><br>(c) Provide location-based functions<br><br>(d) Upload your photos and videos<br><br>(e) Send notifications<br><br>(f) Personalise our service<br><br>(g) Statistical analysis and research<br><br>(h) Improve our services<br><br>(i) Develop new products and services | (a) Identity<br><br>(b) Contact<br><br>(c) information about your interactions with us in person and on our website and apps(d) Marketing and Communications | Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services) |
-| To process transactions, including:<br><br>(a) Manage payments, fees and charges<br><br>(b) Collect and recover money owed to us<br><br>(c) Foreign money exchange | (a) Identity<br><br>(b) Contact<br><br>(c) Financial | (a) Performance of a contract with you<br><br>(b) Necessary to comply with a legal obligation<br><br>(c) Necessary for our legitimate interests (to recover debts due to us) |
-| Information when you communicate with us whether in person, through our website or app, via email, over the phone, through social media or via any other medium. We use this to:<br><br>(a) Answer any of your issues or concerns<br><br>(b) Monitor customer communications for quality and training purposes<br><br>(c) Develop new services<br><br>(d) Improve our services based on the feedback you provide | (a) Identity<br><br>(b) Contact<br><br>(c)information about your interactions with us in person and on our website and apps<br><br>(d) Marketing and Communications | (a) Performance of a contract with you<br><br>(b) Necessary for our legitimate interests (to provide a better service) |
-| To manage our relationship with you which will include:<br><br>(a) Notifying you about changes to our terms or Privacy Notice<br><br>(b) Resolving technical issues<br><br>(c) Asking you to provide feedback on our service | (a) Identity<br><br>(b) Contact<br><br>(c) information about your interactions with us in person and on our website and apps<br><br>(d) Marketing and Communications | (a) Performance of a contract with you<br><br>(b) Necessary to comply with a legal obligation<br><br>(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services) |
-| To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting, hosting of data, and anti-money laundering checks). | (a) Identity<br><br>(b) Contact<br><br>(c) information about your interactions with us in person and on our website and apps | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br><br>(b) Necessary to comply with a legal obligation |
-| To deliver relevant website content | (a) Identity<br><br>(b) Contact<br><br>(c) Usage<br><br>(d) Marketing and Communications<br><br>(e) information about your interactions with us on our website and apps | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy) |
-| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) information about your interactions with us in person and on our website and apps<br><br>(b) Usage | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy) |
-| To make suggestions and recommendations to you about services that may be of interest to you | (a) Identity<br><br>(b) Contact<br><br>(c)information about your interactions with us in person and on our website and apps<br><br>(d) Usage<br><br>(e) Marketing and Communications | Necessary for our legitimate interests (to develop our products/services and grow our business) |
-| Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:<br><br>(a) Maintain market awareness<br><br>(b) Build and maintain social media branding | (a) Usage<br><br>(b) Marketing and Communications | Necessary for our legitimate interests (to develop our products/services and grow our business) |
 
 **Change of purpose - we will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
 
