@@ -1,6 +1,44 @@
 **PRIVACY NOTICE**
 
-| **WHO WE ARE** |     | **INFORMATION WE COLLECT ABOUT YOU** |     |
+**WHO WE ARE** 
+
+Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.  
+<a href=#who-we-are> More</a> 
+
+**INFORMATION WE COLLECT ABOUT YOU** 
+
+We collect personal information you give us such as your name, address, phone number, date of birth, gender, e-mail address, password, account settings and preferences. 
+More > 
+
+**HOW WE COLLECT YOUR INFORMATION**
+
+We collect your personal information when you set up a user account, buy our products and when you subscribe to email updates, newsletters or other subscriptions. 
+More >
+
+**HOW WE USE YOUR INFORMATION** 
+
+We use your personal information to fulfil your order, to allow access to our website/mobile app, keep you up to date with latest offers and to ultimately offer you a better purchasing experience. 
+More > 
+
+**WHO WE SHARE YOUR INFORMATION WITH**
+
+We share your information with third parties where we need to, to fulfil our commitments to you or to meet other legal or contractual requirements. We take steps to ensure our suppliers treat your information with the same respect and security that we do 
+More > 
+
+**HOW WE PROTECT YOUR INFORMATION** 
+
+We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. 
+More > 
+
+**YOUR RIGHTS** 
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal information. If you wish to exercise any of the rights set out above, please contact us. 
+More > 
+
+**HOW TO CONTACT US OR MAKE A COMPLAINT**
+
+If you have any questions about this Privacy Notice or our privacy practices, please contact our Data Protection Officer. Alternatively, you have the right to make a complaint at any time to the Information Commissioner's Office. 
+More > 
 
 
 **INTRODUCTION**
@@ -15,7 +53,7 @@ We are the data controller for the personal information we process, unless other
 
 1. **WHO WE ARE**
 
-Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**
+<p id='who-we-are'>Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
 
 Park Holidays UK Ltd. can be contacted by post, phone or email, as follows:
 
@@ -27,7 +65,7 @@ United Kingdom
 Phone: 01424 234234  
 Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)**Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
 
-1. **INFORMATION WE COLLECT ABOUT YOU**
+2. **INFORMATION WE COLLECT ABOUT YOU**
 
 Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
 
@@ -94,7 +132,7 @@ For example, we may aggregate your Usage Data to calculate the percentage of use
 
 Where we need to collect personal information by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a purchase or service you have with us, but we will notify you if this is the case at the time.
 
-1. **HOW WE COLLECT YOUR INFORMATION**
+3. **HOW WE COLLECT YOUR INFORMATION**
 
 We use different methods to collect information from and about you including through:
 
@@ -105,7 +143,7 @@ We use different methods to collect information from and about you including thr
   - give us feedback, respond to surveys or contact us
 - **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our **Cookies Notice**
 
-1. **HOW WE USE YOUR PERSONAL INFORMATION**
+4. **HOW WE USE YOUR PERSONAL INFORMATION**
 
 We will only use your personal information when the law allows us to. Most commonly, we will use it in the following circumstances:
 
@@ -173,7 +211,7 @@ Sometimes we will anonymise your personal information (so that it can no longer 
 
 In all other cases we will archive or delete your personal data in accordance with the rules set out in our Retention Policy and Schedule
 
-1. **WHO WE SHARE YOUR INFORMATION WITH**
+5. **WHO WE SHARE YOUR INFORMATION WITH**
 
 We share your information with certain suppliers or service providers to help us deliver our products and services to you. We will do this either when we receive your consent or because it is necessary for them to see your information in order for us to provide our products or services to you. These suppliers and service providers may process your personal information as data processors or as a data controller in their own right.
 
@@ -226,7 +264,7 @@ Where this is necessary, we ensure the transfer is secure and will be compliant 
 
 Where we share data with our US-based parent company, we rely on our Inter Group Agreement, which incorporates the UK Addendum to the EU Standard Contractual Clauses.
 
-1. **HOW WE PROTECT YOUR INFORMATION**
+6. **HOW WE PROTECT YOUR INFORMATION**
 
 We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used, or accessed in an unauthorised way, altered, or disclosed. In addition, we limit access to your personal information to only those employees, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions, and they are subject to a duty of confidentiality.
 
@@ -248,7 +286,7 @@ When accessing your account in a public location, we recommend you log out and c
 
 We recommend that you keep your account and password details private and do not share them. It is also recommended that when setting passwords, you use at least 8 characters and a mixture of letters and numbers. You should make your password hard to guess, not use the same password for different online accounts and consider changing it regularly.
 
-1. **YOUR RIGHTS**
+7. **YOUR RIGHTS**
 
 You have the following rights under data protection laws in relation to your personal information:
 
@@ -293,7 +331,7 @@ You will not have to pay a fee to access your personal information (or to exerci
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-1. **HOW TO CONTACT US OR MAKE A COMPLAINT**
+8. **HOW TO CONTACT US OR MAKE A COMPLAINT**
 
 Our Data Protection Officer helps ensure we protect the personal information we process and that we comply with data protection legislation.
 
