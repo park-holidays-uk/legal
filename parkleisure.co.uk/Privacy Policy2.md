@@ -1,44 +1,45 @@
 **PRIVACY NOTICE**
 
 **WHO WE ARE** 
-
-Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.  
-<a href="#who-we-are"> More</a> 
+Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.
+<br>  
+<a href="#who-we-are"> More ></a>  
 
 **INFORMATION WE COLLECT ABOUT YOU** 
-
-We collect personal information you give us such as your name, address, phone number, date of birth, gender, e-mail address, password, account settings and preferences. 
-More > 
+We collect personal information you give us such as your name, address, phone number, date of birth, gender, e-mail address, password, account settings and preferences.
+<br>
+<a href="#INFORMATION-WE-COLLECT-ABOUT-YOU"> More ></a>  
 
 **HOW WE COLLECT YOUR INFORMATION**
-
 We collect your personal information when you set up a user account, buy our products and when you subscribe to email updates, newsletters or other subscriptions. 
-More >
+<br>
+<a href="#HOW-WE-COLLECT-YOUR-INFORMATION"> More ></a>  
 
 **HOW WE USE YOUR INFORMATION** 
-
 We use your personal information to fulfil your order, to allow access to our website/mobile app, keep you up to date with latest offers and to ultimately offer you a better purchasing experience. 
-More > 
+<br>
+<a href="#HOW-WE-USE-YOUR-INFORMATION"> More ></a>  
 
 **WHO WE SHARE YOUR INFORMATION WITH**
-
-We share your information with third parties where we need to, to fulfil our commitments to you or to meet other legal or contractual requirements. We take steps to ensure our suppliers treat your information with the same respect and security that we do 
-More > 
+We share your information with third parties where we need to, to fulfil our commitments to you or to meet other legal or contractual requirements. We take steps to ensure our suppliers treat your information with the same respect and security that we do. 
+<br>
+<a href="#WHO-WE-SHARE-YOUR-INFORMATION-WITH"> More ></a>  
 
 **HOW WE PROTECT YOUR INFORMATION** 
-
 We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. 
-More > 
+<br>
+<a href="#HOW-WE-PROTECT-YOUR-INFORMATION"> More ></a>  
 
 **YOUR RIGHTS** 
-
 Under certain circumstances, you have rights under data protection laws in relation to your personal information. If you wish to exercise any of the rights set out above, please contact us. 
-More > 
+<br>
+<a href="#YOUR-RIGHTS"> More ></a>  
 
 **HOW TO CONTACT US OR MAKE A COMPLAINT**
-
 If you have any questions about this Privacy Notice or our privacy practices, please contact our Data Protection Officer. Alternatively, you have the right to make a complaint at any time to the Information Commissioner's Office. 
-More > 
+<br>
+<a href="#HOW-TO-CONTACT-US-OR-MAKE-A-COMPLAINT"> More ></a>  
+
 
 
 **INTRODUCTION**
@@ -51,23 +52,24 @@ Applicable data protection legislation includes the Data Protection Act 2018 (DP
 
 We are the data controller for the personal information we process, unless otherwise stated.
 
-1. **WHO WE ARE**
+ **1. WHO WE ARE**
 
-<p id='who-we-are'>Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
+<p id="who-we-are">Park Holidays UK Ltd. is registered in England under **Company Number 02434151** and registered with the Information Commissioner’s Office (the ICO) - **Registration Number Z7420595.**</p>
 
 Park Holidays UK Ltd. can be contacted by post, phone or email, as follows:
 
-**Park Holidays UK Ltd  
-Glovers House  
-Bexhill-On-Sea  
-TN39 5ES  
-United Kingdom  
-Phone: 01424 234234  
-Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)**Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
+    **Park Holidays UK Ltd** 
+    **Glovers House**  
+    **Bexhill-On-Sea**  
+    **TN39 5ES**  
+    **United Kingdom**  
+    **Phone: 01424 234234**  
+    **Email:** [**info@parkholidays.com**](mailto:info@parkholidays.com)
+    **Website:** [**www.parkholidays.com**](https://www.parkholidays.com/)
 
-2. **INFORMATION WE COLLECT ABOUT YOU**
+**2. INFORMATION WE COLLECT ABOUT YOU**
 
-Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+<p id="INFORMATION-WE-COLLECT-ABOUT-YOU">Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).</p>
 
 We may collect, use, store and transfer various kinds of personal information about you including but not limited to:
 
@@ -132,20 +134,20 @@ For example, we may aggregate your Usage Data to calculate the percentage of use
 
 Where we need to collect personal information by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a purchase or service you have with us, but we will notify you if this is the case at the time.
 
-3. **HOW WE COLLECT YOUR INFORMATION**
+**3. HOW WE COLLECT YOUR INFORMATION**
 
-We use different methods to collect information from and about you including through:
+<p id="HOW-WE-COLLECT-YOUR-INFORMATION">We use different methods to collect information from and about you including through:</p>
 
 - **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal information you provide when you:
   - purchase our products or services
   - request marketing to be sent to you
   - request support
   - give us feedback, respond to surveys or contact us
-- **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our **Cookies Notice**
+- **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our <a href="www.parkleisure.co.uk/cookie-policy" target="_blank">**Cookies Notice**</a>
 
-4. **HOW WE USE YOUR PERSONAL INFORMATION**
+ **4. HOW WE USE YOUR PERSONAL INFORMATION**
 
-We will only use your personal information when the law allows us to. Most commonly, we will use it in the following circumstances:
+<p id="HOW-WE-USE-YOUR-INFORMATION">We will only use your personal information when the law allows us to. Most commonly, we will use it in the following circumstances:</p>
 
 - Performance of a contract we have or are about to enter into with you.
 - Where it is necessary for our business legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
@@ -156,6 +158,69 @@ We will only use your personal information when the law allows us to. Most commo
 We have set out below a description of all the ways we plan to use your data and which of the lawful bases we rely on to do so. We have also identified what our legitimate interests are, where appropriate.
 
 Note that we may process your personal information against more than one lawful basis depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific lawful basis, we are relying on to process your personal information, where more than one basis has been set out in the table below.
+
+<table border="1" style="border-collapse: collapse; background-color: #f2f9ff; width: 100%;">
+    <thead>
+        <tr style="background-color: #c7e0f4;">
+            <th style="padding: 8px; width: 25%;">Purpose/Activity</th>
+            <th style="padding: 8px; width: 25%;">Type of Data</th>
+            <th style="padding: 8px; width: 50%;">Lawful Basis for Processing including Basis of Legitimate Interest</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 8px;"><strong>To register you as a new customer:</strong><br><br>(a) Create an account for you<br>(b) Provide our products and services<br>(c) Manage our systems<br>(d) Verify your identity<br>(e) Prevent fraud<br>(f) Send you marketing communications<br>(g) Share this information with third parties if you have provided your consent to this</td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to operate, manage, and grow our business)<br>(d) Consent</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To understand the way you use our products:</strong><br><br>(a) Identify products/services that may be of interest to you<br>(b) Monitor usage of website and app<br>(c) Provide location-based functions<br>(d) Upload your photos and videos<br>(e) Send notifications<br>(f) Personalise our service<br>(g) Statistical analysis and research<br>(h) Improve our services<br>(i) Develop new products and services</td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td style="padding: 8px;">Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To process transactions, including:</strong><br><br>(a) Manage payments, fees and charges<br>(b) Collect and recover money owed to us<br>(c) Foreign money exchange</td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Financial</td>
+            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to recover debts due to us)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>Information when you communicate with us:</strong><br><br>(a) Answer any of your issues or concerns<br>(b) Monitor customer communications for quality and training purposes<br>(c) Develop new services<br>(d) Improve our services based on the feedback you provide</td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary for our legitimate interests (to provide a better service)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To manage our relationship with you:</strong><br><br>(a) Notifying you about changes to our terms or Privacy Notice<br>(b) Resolving technical issues<br>(c) Asking you to provide feedback on our service</td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Marketing and Communications</td>
+            <td style="padding: 8px;">(a) Performance of a contract with you<br>(b) Necessary to comply with a legal obligation<br>(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To administer and protect our business and this website:</strong></td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps</td>
+            <td style="padding: 8px;">(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br>(b) Necessary to comply with a legal obligation</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To deliver relevant website content</strong></td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Usage<br>(d) Marketing and Communications<br>(e) Information about your interactions with us on our website and apps</td>
+            <td style="padding: 8px;">Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To use data analytics to improve our website, products/services, marketing, customer relationships and experiences</strong></td>
+            <td style="padding: 8px;">(a) Information about your interactions with us in person and on our website and apps<br>(b) Usage</td>
+            <td style="padding: 8px;">Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>To make suggestions and recommendations to you about services that may be of interest to you</strong></td>
+            <td style="padding: 8px;">(a) Identity<br>(b) Contact<br>(c) Information about your interactions with us in person and on our website and apps<br>(d) Usage<br>(e) Marketing and Communications</td>
+            <td style="padding: 8px;">Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px;"><strong>Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:</strong><br><br>(a) Maintain market awareness<br>(b) Build and maintain social media branding</td>
+            <td style="padding: 8px;">(a) Usage<br>(b) Marketing and Communications</td>
+            <td style="padding: 8px;">Necessary for our legitimate interests (to develop our products/services and grow our business)</td>
+        </tr>
+    </tbody>
+</table>
+
 
 | **Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest** |
 | --- | --- | --- |
@@ -170,7 +235,7 @@ Note that we may process your personal information against more than one lawful 
 | To make suggestions and recommendations to you about services that may be of interest to you | (a) Identity<br><br>(b) Contact<br><br>(c)information about your interactions with us in person and on our website and apps<br><br>(d) Usage<br><br>(e) Marketing and Communications | Necessary for our legitimate interests (to develop our products/services and grow our business) |
 | Information that we collect incidentally from other sources or public sources, including information presented on our social media or wider social media platforms including Facebook, Twitter and Instagram. We use this information, including to:<br><br>(a) Maintain market awareness<br><br>(b) Build and maintain social media branding | (a) Usage<br><br>(b) Marketing and Communications | Necessary for our legitimate interests (to develop our products/services and grow our business) |
 
-**Change of purpose - w**e will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
+**Change of purpose - we will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
 
 If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the lawful basis which allows us to do so.
 
@@ -211,9 +276,9 @@ Sometimes we will anonymise your personal information (so that it can no longer 
 
 In all other cases we will archive or delete your personal data in accordance with the rules set out in our Retention Policy and Schedule
 
-5. **WHO WE SHARE YOUR INFORMATION WITH**
+**5. WHO WE SHARE YOUR INFORMATION WITH**
 
-We share your information with certain suppliers or service providers to help us deliver our products and services to you. We will do this either when we receive your consent or because it is necessary for them to see your information in order for us to provide our products or services to you. These suppliers and service providers may process your personal information as data processors or as a data controller in their own right.
+<p id="WHO-WE-SHARE-YOUR-INFORMATION-WITH">We share your information with certain suppliers or service providers to help us deliver our products and services to you. We will do this either when we receive your consent or because it is necessary for them to see your information in order for us to provide our products or services to you. These suppliers and service providers may process your personal information as data processors or as a data controller in their own right.</p>
 
 We only share your personal information with suppliers and service providers where they have confirmed they apply appropriate data protection and security controls. The information we provide to third party data processors, will be limited to only that required to complete the processing for which they have been engaged. They will not be permitted to use your information for any purposes other than those outlined in this Privacy Notice.
 
@@ -264,9 +329,9 @@ Where this is necessary, we ensure the transfer is secure and will be compliant 
 
 Where we share data with our US-based parent company, we rely on our Inter Group Agreement, which incorporates the UK Addendum to the EU Standard Contractual Clauses.
 
-6. **HOW WE PROTECT YOUR INFORMATION**
+**6. HOW WE PROTECT YOUR INFORMATION**
 
-We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used, or accessed in an unauthorised way, altered, or disclosed. In addition, we limit access to your personal information to only those employees, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions, and they are subject to a duty of confidentiality.
+<p id="HOW-WE-PROTECT-YOUR-INFORMATION">We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used, or accessed in an unauthorised way, altered, or disclosed. In addition, we limit access to your personal information to only those employees, contractors and other third parties who have a business need to know. They will only process your personal information on our instructions, and they are subject to a duty of confidentiality.</p>
 
 We have put in place procedures to deal with any suspected personal information breach and will notify you and any applicable regulator of a breach, where we are legally required to do so.
 
@@ -286,9 +351,9 @@ When accessing your account in a public location, we recommend you log out and c
 
 We recommend that you keep your account and password details private and do not share them. It is also recommended that when setting passwords, you use at least 8 characters and a mixture of letters and numbers. You should make your password hard to guess, not use the same password for different online accounts and consider changing it regularly.
 
-7. **YOUR RIGHTS**
+**7. YOUR RIGHTS**
 
-You have the following rights under data protection laws in relation to your personal information:
+<p id="YOUR-RIGHTS">You have the following rights under data protection laws in relation to your personal information:</p>
 
 **Right to be informed** in a clear and concise way about how we process your personal information. This is referred to as privacy information and we rely on this Privacy Notice to meet this requirement.
 
@@ -331,9 +396,9 @@ You will not have to pay a fee to access your personal information (or to exerci
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-8. **HOW TO CONTACT US OR MAKE A COMPLAINT**
+**8. HOW TO CONTACT US OR MAKE A COMPLAINT**
 
-Our Data Protection Officer helps ensure we protect the personal information we process and that we comply with data protection legislation.
+<p id="HOW-TO-CONTACT-US-OR-MAKE-A-COMPLAINT">Our Data Protection Officer helps ensure we protect the personal information we process and that we comply with data protection legislation.</p>
 
 If you have any questions about this Privacy Notice or our privacy practices, please contact our Data Protection Officer at **<dpo@parkholidays.com>**.
 
