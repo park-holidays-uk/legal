@@ -40,8 +40,7 @@ If you have any questions about this Privacy Notice or our privacy practices, pl
 <br>
 <a href="#HOW-TO-CONTACT-US-OR-MAKE-A-COMPLAINT"> More ></a>  
 
-
-
+<br>
 **INTRODUCTION**
 
 Park Holidays UK Ltd. (“we, “our” or “us”) and our parent company (SUN Communities) are committed to protecting the privacy and security of your personal information. We take care to protect the privacy of our customers and anyone that communicates (online or offline) with us either in person, over the phone or through our mobile applications, websites, and social media platforms. We will handle your personal information fairly and legally and are dedicated to being transparent about the information we collect about you and how we use it.
@@ -145,7 +144,7 @@ Where we need to collect personal information by law, or under the terms of a co
   - give us feedback, respond to surveys or contact us
 - **Automated technologies or interactions.** As you interact with our website, we will automatically collect information about your equipment, browsing actions and patterns. We collect this information by using cookies and other similar technologies. For more information on cookies please see our <a href="https://www.parkleisure.co.uk/cookie-policy" target="_blank">**Cookies Notice**</a>
 
- **4. HOW WE USE YOUR PERSONAL INFORMATION**
+**4. HOW WE USE YOUR PERSONAL INFORMATION**
 
 <p id="HOW-WE-USE-YOUR-INFORMATION">We will only use your personal information when the law allows us to. Most commonly, we will use it in the following circumstances:</p>
 
@@ -228,7 +227,7 @@ Note that we may process your personal information against more than one lawful 
 </table>
 
 
-**Change of purpose - we will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
+**Change of purpose** - we will only use your personal information for the purpose it was collected, unless we consider that we need to use it for another reason and that reason is compatible with the original purpose. If you would like an explanation with regard to the ways in which any new processing is compatible with the original purpose, please contact us.
 
 If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the lawful basis which allows us to do so.
 
