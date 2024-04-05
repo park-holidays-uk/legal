@@ -3,7 +3,7 @@
 **WHO WE ARE** 
 
 Your personal information is collected by Park Holidays UK Ltd. We respect your privacy and value the trust you place in us when you share your personal information.  
-<a href=#who-we-are> More</a> 
+<a href="#who-we-are"> More</a> 
 
 **INFORMATION WE COLLECT ABOUT YOU** 
 
