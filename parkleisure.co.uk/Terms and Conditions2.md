@@ -1,4 +1,4 @@
-**1. Who your agreement is with**
+1. **Who your agreement is with**
  The Park Leisure companies are part of Park Holidays UK Limited, which is the operating company of the holiday parks shown on our website. References to ‘the Company’, ‘we’, ‘us’ and ‘our’ in these terms and conditions are to this company. References to ‘you’ in these terms and conditions are to you, as the person making this booking and, where applicable, to every member of your party.
 
 2. **These terms and conditions**
