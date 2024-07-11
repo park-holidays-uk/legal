@@ -1,3 +1,5 @@
+**HOLIDAY BOOKERS**
+
 1. **Who your agreement is with**
  The Park Leisure companies are part of Park Holidays UK Limited, which is the operating company of the holiday parks shown on our website. References to ‘the Company’, ‘we’, ‘us’ and ‘our’ in these terms and conditions are to this company. References to ‘you’ in these terms and conditions are to you, as the person making this booking and, where applicable, to every member of your party.
 
@@ -174,3 +176,56 @@ Your cancellation is effective from the date that we receive your written confir
 _If you need to cut short your holiday after it has commenced, we regret that we are unable to refund any monies paid._
 
 Bookings made through 3<sup>rd</sup> parties or promotions are subject to the terms and conditions agreed at the time of booking.
+
+<hr>
+<hr>
+
+**OWNERSHIP**
+
+**Initial Disclosure Document**
+
+**What is an Initial Disclosure Document?**
+The Financial Conduct Authority (FCA) is the independent regulator of financial services. The FCA require us to provide you with a document called an 'Initial Disclosure Document'. This document provides information about us, the products we offer, the services we  will provide, what we charge for our services, who regulates us and what to do if you have a complaint.
+
+**Who regulates us?**
+Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151). They are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and effecting introductions to insurance providers  as an Introducer Appointed Representative under registration numbers 669336 & 717823. You can check this on the FCA’s register by visiting the FCA’s website http://www.fca.org.uk/register  or by contacting the FCA on 0800 111 6768. 
+
+**Delivering Good Customer Outcomes**
+Park Holidays UK limited is fully committed to treating our customers fairly and ensuring that the products and services we provide are suitable for their needs. We have regard to price and value of the financial products and services we offer and aim to provide good  consumer understanding and ongoing support to ensure we are and delivering good outcomes and ensuring that all our customer interactions are clear, fair and transparent and always having our customers best interests at the core of our business.
+
+**Which service will we provide you with?**
+The service we provide is on a non-advised basis, meaning we cannot give you advice or a recommendation. We will however, provide you with enough product information for you to make a decision on an informed choice basis. You will then need to make your own  choice about how to proceed. For finance products, you will receive the pre-contract credit information which will detail the Terms & Conditions of the product you have chosen, and it will also advise you about interest and charges relating to the product. 
+
+**What products do we offer?**
+Park Holidays UK Limited is a credit broker and not a lender and is also an Introducer Appointed Representative for insurance providers. We offer a limited number of finance products from a selected panel of lenders and can introduce you to a number of insurance  providers. We will only introduce you to these lenders or insurance providers. We do not offer independent financial advice. You are under no obligation to use the financial or insurance products that we offer, other providers may offer similar products that may  or may not meet your needs.
+
+**What will you have to pay us for our services?**
+We do not charge a fee for the introduction to finance providers or insurance providers.
+
+**Commission Disclosure**
+We may receive a commission payment from the finance provider or insurance provider if you decide to enter into an agreement or policy with them. The amount of commission can be made available to you upon request over the phone and/or in writing.  The commission received does not affect the amount you will pay under your finance or insurance agreement.
+
+**Suitability and Affordability**
+We aim to support and tailor our service appropriately to those customers who may be particularly vulnerable due to their current circumstances or recent life events. If you have a disability, physical or mental health condition, feel vulnerable due to a change in  personal circumstances, or just need extra support please let us know and we will do our best to help you. You should make sure you have sufficient time and support to assess the information given to you and ensure the funding option offered is suitable for you and  meets your requirements. If you are unsure, please don’t hesitate to ask us for further explanations, help and support.
+
+It is important that you only enter into an agreement if you can comfortably afford the repayments. You should assess the monthly payments you are required to make throughout the term of the agreement and ensure you can meet these and other current  obligations without suffering undue hardship. If you are aware of any changes in your life or your household circumstances, that may affect your ability to maintain your loan repayments, please make us aware. Your credit rating could be adversely affected if you do not  make payments when due which could make it harder or more expensive for you to access finance facilities in the future.
+
+**What to do if you have a complaint**
+The first step is for us to understand your complaint; you can contact us by:
+
+In writing:
+
+**Park Holidays UK Ltd, Glovers House, Glovers End, Bexhill On Sea, TN39 5ES**
+
+By phone: [**01424 234234**](tel:01424-234234) 
+
+By email: [**customercare@parkholidays.com**](mailto:customercare@parkholidays.com)
+
+We will promptly acknowledge your complaint in writing, investigate your complaint and endeavour to send you a final response within 8 weeks of receipt of the complaint. If we are unable to provide you with a final response within this time, we will send you an update.  If you are not happy with our response, and you are an eligible complainant, you can escalate your complaint to the Financial Ombudsman, you must do so within six months of the date of the final response letter. You can contact them:
+
+By phone: [**0800 023 4567**](tel:0800-023-4567)
+
+By post: **The Financial Ombudsman Service, Exchange Tower, London, E14 9SR**
+
+By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@financial-ombudsman.org.uk)
+
