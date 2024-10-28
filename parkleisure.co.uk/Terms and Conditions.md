@@ -229,3 +229,9 @@ By post: **The Financial Ombudsman Service, Exchange Tower, London, E14 9SR**
 
 By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@financial-ombudsman.org.uk)
 
+**Ownership – Special Offers**
+
+Bottle of Wine Offer:
+
+*Offer valid on pre-booked park appointments between 19/10/24 - 31/10/24. One bottle of wine per family/appointment. No purchase necessary, non-negotiable, non-transferable and non-refundable. Customers must be aged 18 or over. No cash alternative is available. Where a bottle of wine becomes unavailable for any reason, we reserve the right to substitute for a free gift of equal or higher value or end this promotion at any time. The voucher must be shown to a member of staff during your appointment. The bottle of wine cannot be consumed on site. Offer only valid at Park Leisure Holiday Parks.
+
