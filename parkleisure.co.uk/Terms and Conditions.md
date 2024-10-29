@@ -229,6 +229,8 @@ By post: **The Financial Ombudsman Service, Exchange Tower, London, E14 9SR**
 
 By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@financial-ombudsman.org.uk)
 
+<hr>
+
 **Ownership – Special Offers**
 
 Bottle of Wine Offer:
