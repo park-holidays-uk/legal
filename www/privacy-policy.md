@@ -6,7 +6,7 @@ last_updated: 12 November 2019
 
 # Privacy Policy
 
-Data protection is a particularly high priority for Park Holidays UK. When we
+Data protection is a particularly high priority for {{brand.name}}. When we
 process our data subjects or site visitor personal data, we ensure it will
 always be consistent with the EU General Data Protection Regulations (GDPR), and
 in accordance with the Data Protection Act 2018 in the UK. By means of this
@@ -22,7 +22,7 @@ principle have security gaps, so absolute protection may not be guaranteed. For
 this reason, every data subject is free to transfer personal data to us via
 alternative means, e.g. by telephone.
 
-**1. Definitions**
+## 1. Definitions
 
 The data protection declaration of Park Holidays UK is based on the terms used
 by the European legislator for the adoption of the General Data Protection
@@ -97,17 +97,20 @@ authorised to process personal data.
 
 ---
 
-**2. Name and Address of the controller**
+## 2. Name and Address of the controller
 
 The Controller for the purposes of the EU General Data Protection Regulation
 (GDPR), is:
 
-Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom
+{{organisation.gdprAddress}}
 
-Phone: 01424234234 Email: [info@parkholidays.com](mailto:info@parkholidays.com)
+<!-- Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39 5ES United Kingdom -->
+
+Phone: 01424234234 \
+Email: [info@parkholidays.com](mailto:info@parkholidays.com)\
 Website: [https://www.parkholidays.com](https://www.parkholidays.com)
 
-**2.1 Processing by other controllers and joint controllers**
+### 2.1 Processing by other controllers and joint controllers
 
 If you make an application for credit funding in relation to holiday home
 ownership, we may share your personal data with our finance providers and
@@ -134,7 +137,7 @@ If you apply for consumer credit with Black Horse, we are required to provide
 you with a copy of the Black Horse Data Privacy Notice before we apply for
 finance on your behalf.
 
-**2.2 Service Operators**
+### 2.2 Service Operators
 
 Our service operators may either supply or process personal data for the purpose
 of making a booking, responding to an enquiry, analysing data for the purpose of
@@ -146,19 +149,19 @@ the data identified in 2.1 above.
 
 ---
 
-**3. Name and Address of the Data Protection Officer:**
+## 3. Name and Address of the Data Protection Officer:
 
 Data Protection Officer Park Holidays UK Ltd Glovers House Bexhill-On-Sea TN39
 5ES
 
 United Kingdom
 
-Email: [dpo@parkholidays.com ](mailto:dpo@parkholidays.com) Website:
-[https://www.parkholidays.com](https://www.parkholidays.com)
+Email: [dpo@parkholidays.com ](mailto:dpo@parkholidays.com) \
+Website: [https://www.parkholidays.com](https://www.parkholidays.com)
 
 ---
 
-**4. Cookies**
+## 4. Cookies
 
 Park Holidays UK websites use cookies. Cookies are text files that are stored on
 a computer system via an internet browser.
@@ -233,7 +236,7 @@ stats-for-free.com, then this is a third-party cookie.
 
 ---
 
-**5. Collection of general data and information**
+## 5. Collection of general data and information
 
 Park Holidays UK website collects a series of general data and information when
 a data subject or automated system accesses the website. This general data and
@@ -261,7 +264,7 @@ subject.
 
 ---
 
-**6. Registration on our website**
+## 6. Registration on our website
 
 Our data subjects can register on our website and submit data which is collected
 and stored and may be shared with one or more processors (e.g. a brochure
@@ -300,7 +303,7 @@ privacy statement applicable to the website upon arrival.
 
 ---
 
-**7. Direct marketing**
+## 7. Direct marketing
 
 Park Holidays UK operate a marketing communications strategy in which carefully
 selected data subjects are presented with tailored offers for goods or services
@@ -311,7 +314,7 @@ wish.
 
 ---
 
-**8. Subscription to electronic communications**
+## 8. Subscription to electronic communications
 
 Park Holidays UK website users are given the opportunity to subscribe to
 electronic communications. Park Holidays UK informs its data subject regularly
@@ -328,7 +331,7 @@ means, e.g. by telephone.
 
 ---
 
-**9. Electronic communication-Tracking**
+## 9. Electronic communication-Tracking
 
 The electronic communications of Park Holidays UK contain so-called tracking
 pixels. A tracking pixel is a miniature graphic embedded in such communications,
@@ -348,7 +351,7 @@ from the receipt of the electronic communications as a revocation of consent .
 
 ---
 
-**10. Data subject contact via the website**
+## 10. Data subject contact via the website
 
 Park Holidays UK website contains information that enables direct communication
 with us and includes our email address. If a data subject contacts Park Holidays
@@ -358,7 +361,7 @@ personal data to third parties, without the data subjects consent.
 
 ---
 
-**11. Routine erasure of personal data**
+## 11. Routine erasure of personal data
 
 Park Holidays UK shall process and store the personal data of the data subject
 only for the period necessary, or as far as this is granted by the European
@@ -369,7 +372,7 @@ the personal data is routinely erased in accordance with legal requirements.
 
 ---
 
-**12. Rights of the data subject**
+## 12. Rights of the data subject
 
 **12.1. Right of access** Each data subject shall have the right granted by the
 European legislator to obtain from Park Holidays UK details about his or her
@@ -526,7 +529,7 @@ and/or make a complaint, please contact our Data Protection Officer at
 
 ---
 
-**13. Legal basis for the processing**
+## 13. Legal basis for the processing
 
 Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for
 which we obtain consent for a specific processing purpose. If the processing of
@@ -557,7 +560,7 @@ controller (Recital 47 Sentence 2 GDPR).
 
 ---
 
-**14. Period for which the personal data will be stored**
+## 14. Period for which the personal data will be stored
 
 There are no specific minimum or maximum periods for retaining personal data.
 Instead, Park Holidays UK only retain personal data for the duration of the
@@ -565,7 +568,7 @@ processing required thereafter this personal data is routinely deleted.
 
 ---
 
-**15. Provision of personal data as a statutory or a contractual requirement;**
+## 15. Provision of personal data as a statutory or a contractual requirement;
 
 When Park Holidays UK need to process someone’s personal data because we need to
 fulfil our contractual obligations to them or because they have asked us to do
@@ -577,22 +580,20 @@ their personal data then the contract would not be concluded.
 
 ---
 
-**16. Existence of automated decision-making**
+## 16. Existence of automated decision-making
 
 Our financial third-party data processors do operate automatic decision-making
 or profiling practises.
 
 ---
 
-**17. If you wish to contact the Information Commissioners Office, you can do so
-here:**
+## 17. If you wish to contact the Information Commissioners Office, you can do so here:
 
 [https://ico.org.uk](https://ico.org.uk) Telephone: 0303 123 1113
 
 ---
 
-**18. Description of the personally identifiable information that we may
-collect:**
+## 18. Description of the personally identifiable information that we may collect:
 
 We may collect some or all of the information listed below to enable us to offer
 you tailored offers for goods or services dependant on your circumstances and
@@ -605,13 +606,13 @@ checks); IP address; frequency including dates and times that you access or
 purchase our services; Copy of your passport, social security number/driving
 licence/identity card; CCTV footage if you visit any of our Parks.
 
-**Description of the special category data that we may collect:**
+### Description of the special category data that we may collect:
 
 Race; ethnic origin; politics; religion; trade union membership; genetics;
 biometrics (where used for ID purposes); health; sex life; or sexual
 orientation.
 
-**Sharing data**
+### Sharing data
 
 We may share your data with our third-party service providers and partners
 (processors) to enable them to contact you with products or services that relate
@@ -619,7 +620,7 @@ directly to the product or service that you have purchased from us. Link to a
 full list of our processors:
 [/privacy-policy/processors](/privacy-policy/processors)
 
-**Data Capture from Sub-Brands**
+### Data Capture from Sub-Brands
 
 Effective Friday, 5th May 2023, Park Holidays UK, in our ongoing efforts to
 improve our services and provide tailored offers to our customers, will begin
