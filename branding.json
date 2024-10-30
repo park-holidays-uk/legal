@@ -1,0 +1,13 @@
+{
+  "brands": {
+    "park_leisure": {
+      "name": "Park Leisure",
+      "legalName": "Park Leisure 2000 Ltd."
+    },
+    "park_holidays": {
+      "name": "Park Holidays UK",
+      "legalName": "Park Holidays UK Ltd."
+    }
+  },
+  "organisation": {}
+}
