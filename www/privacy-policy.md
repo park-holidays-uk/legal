@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Privacy Policy
 description: Privacy Policy for {{brand.website}}.
 last_updated: 12 November 2019
----
+--- -->
 
 # Privacy Policy
 
