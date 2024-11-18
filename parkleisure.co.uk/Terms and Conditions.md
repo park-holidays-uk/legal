@@ -241,5 +241,19 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 *Subject to availability from 8/11/2024 to 30/11/2024. Park tour is compulsory with every complimentary stay. Complimentary lunch maximum of 4 people, one main and one drink per person at participating parks with food and beverage facilities. No cash alternative is available. One night stay available at Chantry, Malvern View, Ribble Valley, Yorkshire Dales, Oyster Bay, Par Sands, Pentire, Amble Links and Brynteg. One night stay unavailable at Plas Coch. Facilities and opening times may vary per park.
 
+**Save up to 20% | Limited time only**
+
+Offer based on price reductions across selected holiday homes at Park Leisure parks. Black Friday offer relates to John Lewis voucher. Please see separate Terms.
+
+
+**£1,000 John Lewis voucher**
+
+Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited.
+
+
+**M&S Christmas Hamper**
+
+Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited.
+
 
 
