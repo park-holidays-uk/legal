@@ -281,5 +281,6 @@ Offer based on price reductions across selected holiday homes at Park Leisure pa
 Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited. Offer only valid at Park Leisure Holiday Parks.
 
 **M&S Christmas Hamper**
+
 Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited. Offer only valid at Park Leisure Holiday Parks.
 
