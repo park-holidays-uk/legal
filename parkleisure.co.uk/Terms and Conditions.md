@@ -89,7 +89,20 @@ As our parks are holiday parks we do not accept bookings if you want to stay for
 
 16. **Groups**
 
-Family and friends who live at the same address or know each other or who travel together will be considered as making a group booking even if they have made separate bookings. Group bookings (whether made by 1 person or a number of people) of 5 or more holiday homes or pitches must be made through our **Allocations Team by calling 0343 178 7080**. If this is not done, we will cancel any bookings that are part of a group booking. In this instance a full refund will be given. The lead booker for a group is responsible for the conduct of the other members of the group and for ensuring they comply with these terms and conditions. We may require the lead booker to provide a deposit as security in the event of any damage by any member of the group.
+Family and friends who live at the same address, know each other, or travel together will be considered as making a group booking even if they have made separate bookings. Group bookings (whether made by one person or a number of people) of five or more holiday homes or pitches must be made through our **Allocations Team by calling 0343 178 7080**. If this is not done, we reserve the right to cancel any bookings that are part of a group booking. In this instance, a full refund will be given. The lead booker for a group is responsible for the conduct of the other members of the group and for ensuring they comply with these terms and conditions. We may require the lead booker to provide a deposit as security in the event of any damage caused by any member of the group.
+
+
+ - Deposits for group bookings are higher than standard bookings and will be £50 per booking instead of the usual £30.
+
+
+ - The balance for group bookings is due 8 weeks prior to the arrival date, rather than the standard 6 weeks.
+
+
+ - A 5% group booking discount is available but excludes peak dates and bookings below the minimum price points.
+Platinum Country House bookings require a 20% deposit at the time of booking.
+
+
+ - We reserve the right to decline bookings at our discretion, particularly if we believe the booking will have an adverse impact on other guests or staff, or if the booking does not comply with our terms and conditions.
 
 
 17. **Guests with specific needs**
