@@ -277,25 +277,21 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 **Ownership – Special Offers**
 
-**Bottle of Wine Offer:**
 
-*Offer valid on pre-booked park appointments between 19/10/24 - 31/10/24. One bottle of wine per family/appointment. No purchase necessary, non-negotiable, non-transferable and non-refundable. Customers must be aged 18 or over. No cash alternative is available. Where a bottle of wine becomes unavailable for any reason, we reserve the right to substitute for a free gift of equal or higher value or end this promotion at any time. The voucher must be shown to a member of staff during your appointment. The bottle of wine cannot be consumed on site. Offer only valid at Park Leisure Holiday Parks.
+**Try Buy**
 
-**Exclusive Ownership Experience - Complimentary stay for a maximum of 4 people:**
+^This offer includes a complimentary 2-night stay in a two-bedroom holiday home at participating parks, subject to availability. The offer is limited to 10 spaces per park and must be booked by 31st March 2025, for arrivals before 4th April 2025. Guests must be over 25 years old and are required to participate in a VIP park tour and a viewing of the holiday homes available for sale as part of the stay. The type of holiday home will be assigned by the park manager, and accommodation is available for up to 2 adults and 2–3 children maximum, subject to availability. Pet-friendly options may be available upon request but cannot be guaranteed. This offer is exclusively for individuals seriously considering purchasing a holiday home and is not transferable or redeemable for cash. Accommodation includes access to the Owners’ Lounge, where some refreshments may be provided. Travel expenses, meals, and additional activities are not included. Park Holidays UK and associated Park Leisure parks reserve the right to amend or withdraw the offer at any time without prior notice. Standard park terms and conditions apply. Participating parks: Oyster Bay, Par Sands, Pentire, Waterside, Wood Farm, Ashbourne Heights, Ribble Valley, Amble Links.
 
-*Subject to availability from 8/11/2024 to 30/11/2024. Park tour is compulsory with every complimentary stay. Complimentary lunch maximum of 4 people, one main and one drink per person at participating parks with food and beverage facilities. No cash alternative is available. One night stay available at Chantry, Malvern View, Ribble Valley, Yorkshire Dales, Oyster Bay, Par Sands, Pentire, Amble Links and Brynteg. One night stay unavailable at Plas Coch. Facilities and opening times may vary per park.
 
-**Save up to 20% | Limited time only**
+**Tourer Offer:**
 
-Offer based on price reductions across selected holiday homes at Park Leisure parks. Black Friday offer relates to John Lewis voucher. Please see separate Terms.
+*An additional £1000 will be added to the current trade in value of your tourer. **Free pitch fees available on selected models. Free pitch fees will apply for the 2025 season only. 2026 pitch fees will be billed in September 2025 at the published rate for the forthcoming season. A pitch reservation fee is payable on applicable parks in October 2025 - this forms part of your 2026 pitch fee. No cash alternative is available. Can not be combined with any other offer. Offer ends 31 December 2025. General terms: Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. Park Holidays UK and associated Park Leisure parks reserves the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
 
-**£1,000 John Lewis voucher**
 
-Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited. Offer only valid at Park Leisure Holiday Parks.
+**Holiday Refund Offer:**
 
-**M&S Christmas Hamper**
+^Park Holidays UK and associated Park Leisure parks will refund the cost of your holiday up to the value of £1000 if you purchase a holiday home within 90 days from the date of your holiday. Customers can choose to offset the refund against the final purchase price of their holiday home or alternatively place the value as a credit to their owner account to offset future fees. Customers must notify the sales team of their intention to claim the refund by quoting their holiday booking reference. Offer cannot be used in conjunction with any other offer, discount or promotion. Check with your preferred park for details. Offer ends 31/12/2025.
 
-Offer applies to selected models only. Completion of holiday home purchase must take place before 31st December 2024. New customers only. No cash alternative is available. Please refer to John Lewis website for more details on gift card usage. Gift card issued in December 2024. Upon purchase, you will be entering into an agreement with Park Leisure Limited. Offer only valid at Park Leisure Holiday Parks.
 
 **Unlock your 2025**
 
