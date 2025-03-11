@@ -304,7 +304,7 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 ^Decking is included in the final package price for lodge holiday home models. For other holiday home models, decking is only included where specifically stated. Availability may vary, and terms are subject to change.
 
 
-#14-day handover service applies to new models we have in stock or one of our pre-owned holiday homes. Further terms apply to all other models.
+# 14-day handover service applies to new models we have in stock or one of our pre-owned holiday homes. Further terms apply to all other models.
 
 
 General terms: Offers ends 3 June 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence. 
