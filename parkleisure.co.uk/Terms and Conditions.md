@@ -295,14 +295,18 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 **Unlock your 2025**
 
-Generous discounts on selected models: Savings available on selected new and ex-display models.
+*Pitch fees are free for the 2025 and 2026 seasons on selected holiday homes only. Fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
 
-Free Pitch Fees until 2027: Pitch fees are free for the 2025 and 2026 seasons on selected holiday homes only. Fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
 
-Free Broadband Installation: Internet is provided by a third-party supplier. The included ‘Standard Superfast’ package refers to download speeds of up to 30Mbps and a download limit of 100GB per month. You can upgrade for an additional charge per month. The supplier’s ‘Park Max’ package includes download speeds of up to 50Mbps and unlimited data (subject to acceptable use terms). Installation charges have an RRP of £149 at the time of print.
+†Internet is provided by a third-party supplier. The included ‘Standard Superfast’ package refers to download speeds of up to 30Mbps and a download limit of 100GB per month. You can upgrade for an additional charge per month. The supplier’s ‘Park Max’ package includes download speeds of up to 50Mbps and unlimited data (subject to acceptable use terms). Installation charges have an RRP of £149.
 
-^£500 credit will be placed on owner’s Loyalty Card at parks with food and beverage facilities. £500 credit will be placed on owner’s account at parks without food and beverage facilities.
 
-General terms: Offers available to new customers from 26 December 2024 to 17 March 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence
+^Decking is included in the final package price for lodge holiday home models. For other holiday home models, decking is only included where specifically stated. Availability may vary, and terms are subject to change.
+
+
+#14-day handover service applies to new models we have in stock or one of our pre-owned holiday homes. Further terms apply to all other models.
+
+
+General terms: Offers ends 3 June 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence. 
 
 
