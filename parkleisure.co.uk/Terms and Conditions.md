@@ -293,7 +293,7 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 ^Park Holidays UK and associated Park Leisure parks will refund the cost of your holiday up to the value of £1000 if you purchase a holiday home within 90 days from the date of your holiday. Customers can choose to offset the refund against the final purchase price of their holiday home or alternatively place the value as a credit to their owner account to offset future fees. Customers must notify the sales team of their intention to claim the refund by quoting their holiday booking reference. Offer cannot be used in conjunction with any other offer, discount or promotion. Check with your preferred park for details. Offer ends 31/12/2025.
 
 
-**Unlock your 2025**
+**Spring Holiday Home Offers**
 
 *Pitch fees are free for the 2025 and 2026 seasons on selected holiday homes only. Fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
 
@@ -308,5 +308,4 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 
 General terms: Offers ends 3 June 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence. 
-
 
