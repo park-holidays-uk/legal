@@ -309,3 +309,8 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 General terms: Offers ends 3 June 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence. 
 
+**Open Day Terms & Conditions**
+
+All Open Day visits at Park Holidays UK, and Park Leisure, are by appointment only. Guests will be offered a guided park tour and the opportunity to view a selection of holiday homes available at the time of booking. Offers are subject to availability and may vary by park and season. Parks may offer complimentary refreshments or other extras as part of their individual Open Day experience – please check on park for what’s included.
+
+Open Day dates are available throughout the year - to enquire about Open Day availability and bookings, please contact our Telemarketing Team on **01904 235 640**
