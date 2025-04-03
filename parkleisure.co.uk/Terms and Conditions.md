@@ -314,3 +314,19 @@ General terms: Offers ends 3 June 2025. Subject to further terms and conditions 
 All Open Day visits at Park Holidays UK, and Park Leisure, are by appointment only. Guests will be offered a guided park tour and the opportunity to view a selection of holiday homes available at the time of booking. Offers are subject to availability and may vary by park and season. Parks may offer complimentary refreshments or other extras as part of their individual Open Day experience – please check on park for what’s included.
 
 Open Day dates are available throughout the year - to enquire about Open Day availability and bookings, please contact our Telemarketing Team on **01904 235 640**
+
+
+**8.9% APR Representative on selected New Stock Holiday Homes**
+
+8.9% APR representative is available for the purchasing of selected stock holiday homes available at all Park Holidays & Park Leisure Parks between 1st April 2025 until 30th June 2025 inclusive. This offer is available to new and existing customers.
+
+Qualifying New 2 & 3 Bedroom stock holiday homes from ABI, Atlas, Carnaby, Delta, Pemberton, Prestige, Regal, Sunseeker, Swift, Victory, Willerby.
+
+This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. Park Holidays UK Limited retain the right to withdraw or amend this promotion at any time. For more information on our T&C’s please click on link https://www.parkleisure.co.uk/terms-and-conditions
+
+Finance is provided by Paragon Bank PLC (Reg. No. 2248870). Registered Office: Registered office 51 Homer Road, Solihull, West Midlands B91 3QJ. Paragon Bank PLC  is authorised and regulated by the Financial Conduct Authority (FRN: 604551). Finance is subject to status and age restrictions, as well as terms and conditions and deposit criteria. Customers must have been referred to Paragon Bank PLC by Park Holidays UK Limited.
+
+
+Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336 . We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and we do not receive commission or other benefits for doing so.
+
+A holiday home cannot be used as your only or main residence.
