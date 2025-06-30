@@ -312,7 +312,7 @@ Open Day dates are available throughout the year - to enquire about Open Day ava
 
 **8.9% APR Representative on selected New Stock Holiday Homes**
 
-8.9% APR representative is available for the purchasing of selected stock holiday homes available at all Park Holidays & Park Leisure Parks between 1st April 2025 until 30th June 2025 inclusive. This offer is available to new and existing customers.
+8.9% APR representative is available for the purchasing of selected stock holiday homes available at all Park Holidays & Park Leisure Parks between 1st April 2025 until 1st September 2025 inclusive. This offer is available to new and existing customers.
 
 Qualifying New 2 & 3 Bedroom stock holiday homes from ABI, Atlas, Carnaby, Delta, Pemberton, Prestige, Regal, Sunseeker, Swift, Victory, Willerby.
 
