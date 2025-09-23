@@ -277,6 +277,18 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 **Ownership – Special Offers**
 
+**Brand New Caravans from £360 / month**
+
+Offer is applicable to new customer purchases at participating parks only from 22nd September until 31st October 2025. Finance is subject to status and availability. A holiday home cannot be used as your only or main residence.
+
+*Representative finance example*. Holiday home cash price £39,995, less deposit of £12,195, gives a loan amount of £27,800. 120 monthly payments of £359.31. Total charge for credit £15,317.20. Total amount payable £55,312.20 which includes the deposit amount. The interest rate is 5.51% fixed / 9.9% APR (representative).
+
+Park Holidays UK Limited and associated Park Leisure trading names are authorised and regulated by the Financial Conduct Authority for consumer credit broking and are not a lender. We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. A holiday home cannot be used as your only or main residence.
+
+*Offer available at the following holiday parks*: Ribble Valley Country and Leisure Park.
+
+Offer excludes part-exchanges or private sales. Price excludes running costs and add-ons requested at point of sale. Subject to status and availability.
+
 
 **Try Buy**
 
