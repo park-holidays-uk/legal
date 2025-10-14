@@ -279,7 +279,7 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 **Brand New Caravans from £360 / month**
 
-Offer is applicable to new customer purchases at participating parks only from 22nd September until 31st October 2025. Finance is subject to status and availability. A holiday home cannot be used as your only or main residence.
+Offer is applicable to new customer purchases at participating parks only from 22nd September until 24th November 2025. Finance is subject to status and availability. A holiday home cannot be used as your only or main residence.
 
 *Representative finance example*. Holiday home cash price £39,995, less deposit of £12,195, gives a loan amount of £27,800. 120 monthly payments of £359.31. Total charge for credit £15,317.20. Total amount payable £55,312.20 which includes the deposit amount. The interest rate is 5.51% fixed / 9.9% APR (representative).
 
@@ -288,11 +288,6 @@ Park Holidays UK Limited and associated Park Leisure trading names are authorise
 *Offer available at the following holiday parks*: Ribble Valley Country and Leisure Park.
 
 Offer excludes part-exchanges or private sales. Price excludes running costs and add-ons requested at point of sale. Subject to status and availability.
-
-
-**Try Buy**
-
-^This offer includes a complimentary 2-night stay in a two-bedroom holiday home at participating parks, subject to availability. The offer is limited to 10 spaces per park and must be booked by 31st March 2025, for arrivals before 4th April 2025. Guests must be over 25 years old and are required to participate in a VIP park tour and a viewing of the holiday homes available for sale as part of the stay. The type of holiday home will be assigned by the park manager, and accommodation is available for up to 2 adults and 2–3 children maximum, subject to availability. Pet-friendly options may be available upon request but cannot be guaranteed. This offer is exclusively for individuals seriously considering purchasing a holiday home and is not transferable or redeemable for cash. Accommodation includes access to the Owners’ Lounge, where some refreshments may be provided. Travel expenses, meals, and additional activities are not included. Park Holidays UK and associated Park Leisure parks reserve the right to amend or withdraw the offer at any time without prior notice. Standard park terms and conditions apply. Participating parks: Oyster Bay, Par Sands, Pentire, Waterside, Wood Farm, Ashbourne Heights, Ribble Valley, Amble Links.
 
 
 **Tourer Offer**
@@ -312,7 +307,7 @@ Offer excludes part-exchanges or private sales. Price excludes running costs and
 
 ^£500 credit will be placed on owner account.
 
-General terms: Offer ends Tuesday 30 September 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+General terms: Offer ends Monday 24 November 2025. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
 
 
 **Open Day Terms & Conditions**
@@ -321,18 +316,3 @@ All Open Day visits at Park Holidays UK, and Park Leisure, are by appointment on
 
 Open Day dates are available throughout the year - to enquire about Open Day availability and bookings, please contact our Telemarketing Team on **01904 235 640**
 
-
-**8.9% APR Representative on selected New Stock Holiday Homes**
-
-8.9% APR representative is available for the purchasing of selected stock holiday homes available at all Park Holidays & Park Leisure Parks between 1st April 2025 until 1st September 2025 inclusive. This offer is available to new and existing customers.
-
-Qualifying New 2 & 3 Bedroom stock holiday homes from ABI, Atlas, Carnaby, Delta, Pemberton, Prestige, Regal, Sunseeker, Swift, Victory, Willerby.
-
-This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. Park Holidays UK Limited retain the right to withdraw or amend this promotion at any time. For more information on our T&C’s please click on link https://www.parkleisure.co.uk/terms-and-conditions
-
-Finance is provided by Paragon Bank PLC (Reg. No. 2248870). Registered Office: Registered office 51 Homer Road, Solihull, West Midlands B91 3QJ. Paragon Bank PLC  is authorised and regulated by the Financial Conduct Authority (FRN: 604551). Finance is subject to status and age restrictions, as well as terms and conditions and deposit criteria. Customers must have been referred to Paragon Bank PLC by Park Holidays UK Limited.
-
-
-Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336 . We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and we do not receive commission or other benefits for doing so.
-
-A holiday home cannot be used as your only or main residence.
