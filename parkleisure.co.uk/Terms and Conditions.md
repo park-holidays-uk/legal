@@ -325,3 +325,21 @@ Pitch fees are free for the 2025 and 2026 seasons only, unless otherwise stated.
 **5 year pitch fee offer (fixed)**
 
 Pitch fees are free for the 2025 and 2026 season only, unless otherwise stated. 2027 to 2030 pitch fees are fixed at a discounted rate. 2027 pitch fees will be billed in September 2026 with a pitch reservation fee payable at applicable parks in October 2026 – this forms part of your 2027 pitch fee. 2028 pitch fees will be billed in September 2027, with a pitch reservation fee payable in October 2027 – this forms part of your 2028 pitch fee. 2029 pitch fees will be billed in September 2028, with a pitch reservation fee payable in October 2028 – this forms part of your 2029 pitch fee. 2030 pitch fees will be billed in September 2029, with a pitch reservation fee payable in October 2029 – this forms part of your 2030 pitch fee. Early payment discount will not be applicable for those seasons. Offer valid until 30th November 2025. Park Holidays UK reserves the right to amend or withdraw this offer at any time without notice. Available on selected models and pitches only at participating holiday parks operated by Park Holidays UK and associated Park Leisure parks. Minimum purchase price applies. Offer excludes running costs and any add-ons requested at the point of sale. Subject to status and availability. Offer cannot be used in conjunction with any other promotion. Offer available to new customers who complete the purchase of a holiday home at a participating parks within the offer period.
+
+**The Holiday Home Savings Showcase**
+
+Offer ends 14th January 2026. Subject to further terms and conditions available on request. Offers are valid on selected models only. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+
+**Save on Pitch Fees**
+Pitch fees are free for the 2026 season on selected holiday homes only. Pitch fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
+
+**£500 towards Gas and Electricity** 
+£500 credit will be placed on the owner’s account.
+
+**£3,000 Finance Deposit Contribution**
+£3000 deposit contribution available when purchasing outright and with finance. 
+Available on selected New Stock Holiday Homes & Lodges across all of our Park Holiday UK Limited parks and Park Leisure Resorts.
+
+Offer available to New and Existing Customers from 24th November  until 14 January 2026. The £3,000* Finance Deposit Contribution is in addition to our standard deposit criteria of a minimum 10% or £3,000 and is subject to a successful finance application and purchase with one of our chosen lenders or a £3,000 cash equivalent discount when funding the purchase yourself and cannot be combined, one contribution payment offer per purchase and customer. Park Holidays UK Limited reserve the right to deduct the deposit contribution from any refund in the event the sale is cancelled. Finance is subject to status. Full T&Cs on our website. We retain the right to remove or amend this promotion at any point. 
+Park Holidays UK Limited and associated Park Leisure trading names are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 669336 & 717823 and are not a lender. We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and we do not receive a commission or other benefits for doing so. Your holiday home cannot be used as your main residence.
+
