@@ -305,7 +305,7 @@ Pitch fees are free for the 2026 season only, unless otherwise stated. 2027 to 2
 
 Park Holidays UK reserves the right to amend or withdraw this offer at any time without notice. Available on selected models and pitches only at participating holiday parks operated by Park Holidays UK. 
 Minimum purchase price applies. Offer excludes running costs and any add-ons requested at the point of sale. Subject to status and availability. 
-Offer cannot be used in conjunction with any other promotion. Offer available to new customers who complete the purchase of a holiday home at a participating holiday parks within the offer period.
+Offer cannot be used in conjunction with any other promotion. Offer available to new customers who complete the purchase of a holiday home at participating holiday parks within the offer period.
 
 **The Holiday Home Savings Showcase**
 
