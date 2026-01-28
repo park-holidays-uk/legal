@@ -277,19 +277,6 @@ By Email: [**complaint.info@financial-ombudsman.org.uk**](mailto:complaint.info@
 
 **Ownership – Special Offers**
 
-**Brand New Caravans from £360 / month**
-
-Offer is applicable to new customer purchases at participating parks only from 22nd September until 24th November 2025. Finance is subject to status and availability. A holiday home cannot be used as your only or main residence.
-
-*Representative finance example*. Holiday home cash price £39,995, less deposit of £12,195, gives a loan amount of £27,800. 120 monthly payments of £359.31. Total charge for credit £15,317.20. Total amount payable £55,312.20 which includes the deposit amount. The interest rate is 5.51% fixed / 9.9% APR (representative).
-
-Park Holidays UK Limited and associated Park Leisure trading names are authorised and regulated by the Financial Conduct Authority for consumer credit broking and are not a lender. We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and may receive commission or other benefits for doing so. A holiday home cannot be used as your only or main residence.
-
-*Offer available at the following holiday parks*: Ribble Valley Country and Leisure Park.
-
-Offer excludes part-exchanges or private sales. Price excludes running costs and add-ons requested at point of sale. Subject to status and availability.
-
-
 **Tourer Offer**
 
 *An additional £1000 will be added to the current trade in value of your tourer. **Free pitch fees available on selected models. Free pitch fees will apply for the 2025 season only. 2026 pitch fees will be billed in September 2025 at the published rate for the forthcoming season. A pitch reservation fee is payable on applicable parks in October 2025 - this forms part of your 2026 pitch fee. No cash alternative is available. Can not be combined with any other offer. Offer ends 30 June 2026. General terms: Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. Park Holidays UK and associated Park Leisure parks reserves the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
@@ -297,7 +284,7 @@ Offer excludes part-exchanges or private sales. Price excludes running costs and
 
 **Holiday Refund Offer**
 
-^Park Holidays UK and associated Park Leisure parks will refund the cost of your holiday up to the value of £1000 if you purchase a holiday home within 90 days from the date of your holiday. Customers can choose to offset the refund against the final purchase price of their holiday home or alternatively place the value as a credit to their owner account to offset future fees. Customers must notify the sales team of their intention to claim the refund by quoting their holiday booking reference. Offer cannot be used in conjunction with any other offer, discount or promotion. Check with your preferred park for details. Offer ends 31/12/2025.
+^Park Holidays UK and associated Park Leisure parks will refund the cost of your holiday up to the value of £1000 if you purchase a holiday home within 90 days from the departure date of your holiday. Customers can choose to offset the refund against the final purchase price of their holiday home or alternatively place the value as a credit to their owner account to offset future fees. Customers must notify the sales team of their intention to claim the refund by quoting their holiday booking reference. Offer cannot be used in conjunction with any other offer, discount or promotion. Check with your preferred park for details. Offer ends 31/12/26.
 
 
 **Open Day Terms & Conditions**
