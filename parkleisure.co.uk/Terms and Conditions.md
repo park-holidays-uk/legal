@@ -311,16 +311,45 @@ Offer cannot be used in conjunction with any other promotion. Offer available to
 
 Offer ends 14th January 2026. Subject to further terms and conditions available on request. Offers are valid on selected models only. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
 
-**Save on Pitch Fees**
+Save on Pitch Fees
 Pitch fees are free for the 2026 season on selected holiday homes only. Pitch fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
 
-**£500 towards Gas and Electricity** 
+£500 towards Gas and Electricity
 £500 credit will be placed on the owner’s account.
 
-**£3,000 Finance Deposit Contribution**
+£3,000 Finance Deposit Contribution
 £3000 deposit contribution available when purchasing outright and with finance. 
 Available on selected New Stock Holiday Homes & Lodges across all of our Park Holiday UK Limited parks and Park Leisure Resorts.
 
 Offer available to New and Existing Customers from 24th November  until 14 January 2026. The £3,000* Finance Deposit Contribution is in addition to our standard deposit criteria of a minimum 10% or £3,000 and is subject to a successful finance application and purchase with one of our chosen lenders or a £3,000 cash equivalent discount when funding the purchase yourself and cannot be combined, one contribution payment offer per purchase and customer. Park Holidays UK Limited reserve the right to deduct the deposit contribution from any refund in the event the sale is cancelled. Finance is subject to status. Full T&Cs on our website. We retain the right to remove or amend this promotion at any point. 
 Park Holidays UK Limited and associated Park Leisure trading names are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 669336 & 717823 and are not a lender. We can introduce you to a limited number of lenders who may be able to provide funding for your Holiday Home and we do not receive a commission or other benefits for doing so. Your holiday home cannot be used as your main residence.
+
+
+**Pick Your Deal**
+
+Free Pitch Fees until 2027
+Pitch fees are free for 2026 season on selected holiday homes only. Fees for the 2027 season are billed in advance in September 2026. A pitch reservation fee is payable in October 2026 at applicable parks - this forms part of your 2027 pitch fees.
+
+
+£500 towards your gas & electricity
+£500 electricity & gas credit will be placed on owner account.
+£500 rewards card credit
+£500 will be placed on owner account.
+
+General terms:
+Offers available to new customers from 12 January to 30 June 2026. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+
+
+£1,000 loyalty card credit
+£1,000 credit will be added to the owner’s account.
+
+£3,000 towards this model
+£3,000 Finance Deposit Contribution available when purchasing with finance. £3,000 discount available when purchasing outright. Terms and conditions apply.
+Available on selected New Stock Holiday Homes & Lodges across all of our Park Holiday UK Limited parks and Park Leisure Resorts.
+Offer available to New and Existing Customers from 12 January 2026 until 30 June 2026. The £3,000 Finance Deposit Contribution is subject to a successful finance application and purchase with one of our associated finance lenders or a £3,000 cash equivalent discount when funding the purchase yourself and cannot be combined, one contribution payment offer per purchase and customer. Park Holidays UK Limited reserves the right to deduct the deposit contribution from any refund in the event the sale is cancelled. Finance is subject to status. Full T&Cs on our website. We retain the right to remove or amend this promotion at any point. Park Holidays UK Limited and associated Park Leisure trading names are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking and general insurance & introduction activities under registration numbers 669336 & 717823 and are not a lender. We can introduce you to a limited number of lenders who may be able to provide funding for your holiday home and we do not receive a commission or other benefits for doing so. Your holiday home cannot be used as your main residence.
+
+Spin the Wheel
+Spin the Wheel is open to new customers aged 25 or over who purchase a holiday home, with one spin awarded per purchase. Customers may spin the wheel after agreeing their holiday home purchase, and prizes can only be redeemed once the holiday home has been paid for in full. Prizes include £100 owners’ account credit, a bottle of champagne (brands may vary), a park goodie bag, or a mystery prize, all of which may vary by park and are subject to availability. Prizes are non-transferable, have no cash alternative, and cannot be exchanged. This offer applies at Park Holidays and Park Leisure parks. Park Leisure is part of Park Holidays UK, which reserves the right to amend or withdraw this promotion at any time.
+
+
 
