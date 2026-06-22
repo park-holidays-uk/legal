@@ -13,10 +13,10 @@ By emailing: <a href="mailto:dpo@parkholidays.com">dpo@parkholidays.com</a>
 
 To help us investigate your complaint as efficiently as possible, please provide:
 
-•	Your full name and contact details
-•	The name of the park, if any, connected to your complaint
-•	Any relevant reference numbers (e.g. customer number beginning CUS, deal number beginning D0, holiday booking reference number, or, employee number)
-•	A clear description of your complaint
+ - Your full name and contact details
+ - The name of the park, if any, connected to your complaint
+ - Any relevant reference numbers (e.g. customer number beginning CUS, deal number beginning D0, holiday booking reference number, or, employee number)
+ - A clear description of your complaint
 
 **4. How we will handle your complaint**
 
@@ -30,5 +30,6 @@ If you are unhappy with the outcome of your data protection complaint, you also 
 
  
 ----------
+
 Last updated: June 2026
 
