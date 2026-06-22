@@ -1,0 +1,34 @@
+**1. Scope**
+
+This procedure applies to all individuals whose personal data we process (referred to as data subjects), and to all processing activities involving personal data.
+
+**2. How to raise a complaint**
+
+If you believe that we have: mishandled your personal data, failed to uphold your data protection rights, or not responded appropriately to a data protection request - you may submit a complaint using one of the following methods:
+
+In writing to: Data Protection Officer, Glovers House, Glovers End, Bexhill, TN39 5ES
+By emailing: <a href="mailto:dpo@parkholidays.com">dpo@parkholidays.com</a>
+
+**3. Information to include**
+
+To help us investigate your complaint as efficiently as possible, please provide:
+
+•	Your full name and contact details
+•	The name of the park, if any, connected to your complaint
+•	Any relevant reference numbers (e.g. customer number beginning CUS, deal number beginning D0, holiday booking reference number, or, employee number)
+•	A clear description of your complaint
+
+**4. How we will handle your complaint**
+
+We will acknowledge receipt of your complaint without undue delay and within 30 days of receipt. We will investigate your complaint and provide a written response without undue delay, following a thorough review of the issues raised. Where necessary, we may contact you to request further information to support our investigation.
+
+**5. Escalation**
+
+If you are dissatisfied with the customer service provided in how your complaint was handled by the Data Protection Team, you may raise these concerns with the Chief Operating Officer via <a href="mailto:ROLE_Chief-Operating-Officer@ParkHolidays.com">ROLE_Chief-Operating-Officer@ParkHolidays.com</a>
+
+If you are unhappy with the outcome of your data protection complaint, you also have the right to lodge a complaint with the Information Commissioner’s Office (ICO).  You can contact the ICO via their website:  <a href="http:www.ico.org.uk">www.ico.org.uk</a>  The ICO will normally expect that you have given us the opportunity to investigate and respond to your complaint before contacting them. You do not need to raise concerns with the Chief Operating Officer before contacting the ICO. 
+
+ 
+----------
+Last updated: June 2026
+
