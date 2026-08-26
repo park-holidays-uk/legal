@@ -327,7 +327,53 @@ Offers may be withdrawn at any time without prior notice. E&OE. Price excludes r
    
 An additional £1,000 will be added to the current trade in value of your tourer. Free pitch fees available on selected models. Free pitch fees will apply for the 2026 season only. 2027 pitch fees will be billed in September 2026 at the published rate for the forthcoming season. A pitch reservation fee is payable on applicable parks in October 2026 - this forms part of your 2027 pitch fee. No cash alternative is available. Can not be combined with any other offer. Offer ends 30/09/2026. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
 
-**Bring your caravan on-park**
+**BRING-ONs from existing Park Holidays/Park Leisure owners**
 
-This offer is available for new customers to relocate their holiday home from their current holiday park to participating parks. You must have owned your holiday home for a minimum of 6 months to qualify. Transportation costs covered up to the value of £1,000 excl. VAT. We will cover transport from the entrance of your current park, but not disconnection and transportation costs from within your current park to the entrance of your park. Terms and conditions of the transportation provider will apply and Park Holidays UK Limited is not responsible for any damage or losses caused during transportation. Pitch fee offers will only be available to those who decide to part exchange. You can ask for a written no obligation quote. Proof of ownership of the holiday home will be required prior to relocation. Valid holiday home insurance must be in place prior to relocation and evidence will be required. Any outstanding finance secured against the holiday home must be settled in full before the holiday home can be accepted. Evidence of settlement may be required. 
+This offer is open to existing Park Holidays customers relocating their holiday home from their current Park Holidays Holiday Park onto an alternative Park Holidays UK owned park. 
+
+You must have owned yovur holiday home for a minimum of 3 months to qualify.
+The holiday home must have been manufactured on or after 1 January 2011 for Park Holidays parks and 1 January 2018 for Park Leisure parks. Subject to final approval.
+
+Free siting and connection for holiday homes up to 12ft wide.
+All decking will need to be removed and refitted at the customer’s own expense through an approved Park Holidays UK supplier. Wooden deckings are not transferrable.
+
+This offer is subject to pitch availability and may be withdrawn or amended at any time.
+Transportation costs will be covered up to the value of £1,000 excl. VAT. 
+We will cover transport from the entrance of your current park plus disconnection costs. Transportation will only cover the movement of the holiday home. 
+
+Secure packing down of the holiday home is the responsibility of the owner.
+Terms and conditions of the transportation provider will apply and Park Holidays UK Limited is not responsible for any damage or losses caused during transportation.
+
+Any existing finance arrangements will be transferred over to your new chosen park.
+
+Your existing Pitch Fee agreement will be transferred and updated to reflect your new Park.
+Pitch fees are at the published rate for the 2026 season. If the new pitch fee is lower at your chosen park any overpayment for the remaining season will be credited to your Owner account and additional costs must be paid by the customer prior to the transportation of the Holiday Home.  Any fixed offers for future years pitch fees will be honoured.
+
+Your owner account must be in good credit and all outstanding costs settled prior to relocation. This excludes outstanding active direct debit payments.
+
+†Internet is provided by a third-party supplier. The included “Standard Superfast” package refers to download speeds of up to 30Mbps and a download limit of 100GB per month. You can upgrade for an additional charge per month. The supplier’s “Park Max” package includes download speeds of up to 50Mbps and unlimited data (subject to acceptable use terms). Installation charges have an RRP of £149 at the time of publishing.
+
+**BRING-ONs from external parties**
+
+This offer is available for new customers wanting to relocate their holiday home from their current holiday park to participating parks. 
+The holiday home must have been manufactured on or after 1 January 2011 for Park Holidays parks and 1 January 2018 for Park Leisure parks. Subject to final approval.
+
+You must have owned your holiday home for a minimum of 6 months to qualify. Transportation costs covered up to the value of £1,000 excl. VAT. We will cover transport from the entrance of your current park, but not disconnection and transportation costs from within your current park to the entrance of your park up to £1,000 excl. VAT. 
+
+This offer is subject to pitch availability and may be withdrawn or amended at any time.
+Terms and conditions of the transportation provider will apply and Park Holidays UK Limited is not responsible for any damage or losses caused during transportation. 
+
+Pitch fees are at the published rate for the 2026 season. Payment for the remainder of 2026 season will be applicable on agreement of move. Payment for 2027 season must either be paid in full or set up through our direct debit scheme.
+
+Pitch fee offers will only be available to those who decide to part exchange. You can ask for a written no obligation quote. 
+Proof of ownership of the holiday home and photographs of the exterior of the unit will be required for approval prior to relocation.
+Valid holiday home insurance must be in place prior to relocation and evidence will be required. 
+
+Any outstanding finance secured against the holiday home must be settled in full before the holiday home can be accepted. Evidence of settlement may be required.
+
+Additional proof of identification may be required.
+
+†Internet is provided by a third-party supplier. The included “Standard Superfast” package refers to download speeds of up to 30Mbps and a download limit of 100GB per month. You can upgrade for an additional charge per month. The supplier’s “Park Max” package includes download speeds of up to 50Mbps and unlimited data (subject to acceptable use terms). Installation charges have an RRP of £149 at the time of publishing. Free siting and connection for holiday homes up to 15ft wide.
+
+
 
