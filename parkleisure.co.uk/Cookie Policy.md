@@ -4,7 +4,7 @@ This Cookie Notice forms part of our [Privacy Notice](https://www.parkholidays.c
 
 **SCOPE**
 
-This Notice applies to all websites and apps owned and operated by Park Holidays UK Ltd (a trading subsidiary of Sun Communities, Intermediate Capital Group.)
+This Notice applies to all websites and apps owned and operated by Park Holidays UK Ltd.
 
 **WHAT ARE COOKIES?**
 
