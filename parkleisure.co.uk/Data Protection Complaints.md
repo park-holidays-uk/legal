@@ -31,5 +31,5 @@ If you are unhappy with the outcome of your data protection complaint, you also 
  
 ----------
 
-Last updated: June 2026
+Last updated: Sep 2026
 
