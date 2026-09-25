@@ -43,7 +43,7 @@ If you have any questions about this Privacy Notice or our privacy practices, pl
 <br>
 **INTRODUCTION**
 
-Park Holidays UK Ltd. (“we, “our” or “us”) and our parent company (SUN Communities) are committed to protecting the privacy and security of your personal information. We take care to protect the privacy of our customers and anyone that communicates (online or offline) with us either in person, over the phone or through our mobile applications, websites, and social media platforms. We will handle your personal information fairly and legally and are dedicated to being transparent about the information we collect about you and how we use it.
+Park Holidays UK Ltd. (“we, “our” or “us”) is committed to protecting the privacy and security of your personal information. We take care to protect the privacy of our customers and anyone that communicates (online or offline) with us either in person, over the phone or through our mobile applications, websites, and social media platforms. We will handle your personal information fairly and legally and are dedicated to being transparent about the information we collect about you and how we use it.
 
 The purpose of this Privacy Notice is to inform you of the information we collect, what we do with it, what we do to keep it secure as well as the rights and choices you have over your personal information.
 
