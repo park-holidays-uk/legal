@@ -302,6 +302,10 @@ Offers available to new customers from 6 July to 30 October 2026. Subject to fur
 
 Pitch fees are free for 2026 & 2027 season on selected holiday homes only. Fees for the 2028 season are billed in advance in September 2027. A pitch reservation fee is payable in October 2027 at applicable parks - this forms part of your 2028 pitch fees.
 
+**Free Pitch Fees until 2029**
+
+Pitch fees are free for 2027 & 2028 seasons on selected holiday homes only. Fees for the 2029 season are billed in advance in September 2028. A pitch reservation fee is payable in October 2028 at applicable parks - this forms part of your 2029 pitch fees. 
+
 **8.9% Finance Rate**
 
 8.9% APR representative is available for the purchasing of new and pre-owned holiday homes available at all Park Leisure parks.
