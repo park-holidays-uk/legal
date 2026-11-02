@@ -297,19 +297,25 @@ Pitch fees are free for the 2026 and 2027 season only, unless otherwise stated. 
 --
 
 **Make Next Season Yours**
+
 **General terms**
+
 Offers available to new customers from 2 November 2026 to 1 March 2027. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
  
 **Free pitch fees until 2028**
+
 Pitch fees are free for 2026 & 2027 season on selected holiday homes only. Fees for the 2028 season are billed in advance in September 2027. A pitch reservation fee is payable in October 2027 at applicable parks - this forms part of your 2028 pitch fees.
  
 **Free gas & electricity**
+
 This offer is available to new customers only and is valid on selected models for qualifying purchases made between 2 November 2026 and 1 March 2027. Gas and electricity costs will be covered up to the value of £750 for Park Leisure customers with the credit being placed on the owner’s account on completion of the purchase. This offer is non-transferrable and has no cash value.
  
 **8.9% finance rate**
+
 8.9% APR representative is available for the purchasing of new and pre-owned holiday homes available at all Park Holidays and Park Leisure Parks. This offer is available to new and existing customers. This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. Park Holidays UK Limited retain the right to withdraw or amend this promotion at any time. Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336. We can introduce you to a limited number of lenders who may be able to provide funding for your holiday home and we do not receive commission or other benefits for doing so. Obtaining funding is subject to status, terms, and deposit criteria. Written details are available on request. A Holiday home cannot be used as your only or main residence.
  
 **3 year warranty**
+
 A 3 year manufacturer warranty is included on selected models only. This warranty is non-transferrable and void if the customer moves parks. Customers must register their white goods/appliances as instructed. A warranty period of 12 months is applicable to used holiday homes and is applied to the following items which must pass stringent safety tests before purchase: Oven and hob, water heater, central heating system (where applicable) and manufacturer-fitted gas or electric fire.
 
 --
