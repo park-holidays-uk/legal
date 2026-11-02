@@ -294,28 +294,25 @@ Pitch fees are free for the 2026 and 2027 seasons only, unless otherwise stated.
 
 Pitch fees are free for the 2026 and 2027 season only, unless otherwise stated. 2028 to 2031 pitch fees are fixed at a discounted rate. 2028 pitch fees will be billed in September 2027 with a pitch reservation fee payable at applicable parks in October 2027 – this forms part of your 2028 pitch fee. 2029 pitch fees will be billed in September 2028, with a pitch reservation fee payable in October 2028 – this forms part of your 2029 pitch fee. 2030 pitch fees will be billed in September 2029, with a pitch reservation fee payable in October 2029 – this forms part of your 2030 pitch fee. 2031 pitch fees will be billed in September 2030, with a pitch reservation fee payable in October 2030 – this forms part of your 2031 pitch fee. Early payment discount will not be applicable for those seasons. Park Holidays UK reserves the right to amend or withdraw this offer at any time without notice. Available on selected models and pitches only at participating holiday parks operated by Park Leisure. Minimum purchase price applies. Offer excludes running costs and any add-ons requested at the point of sale. Subject to status and availability. Offer cannot be used in conjunction with any other promotion. Offer available to new customers who complete the purchase of a holiday home at participating parks within the offer period.
 
-**Your All-Inclusive Summer**
+--
 
-Offers available to new customers from 6 July to 30 October 2026. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
-
-**Free Pitch Fees until 2028**
-
+**Make Next Season Yours**
+**General terms**
+Offers available to new customers from 2 November 2026 to 1 March 2027. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+ 
+**Free pitch fees until 2028**
 Pitch fees are free for 2026 & 2027 season on selected holiday homes only. Fees for the 2028 season are billed in advance in September 2027. A pitch reservation fee is payable in October 2027 at applicable parks - this forms part of your 2028 pitch fees.
+ 
+**Free gas & electricity**
+This offer is available to new customers only and is valid on selected models for qualifying purchases made between 2 November 2026 and 1 March 2027. Gas and electricity costs will be covered up to the value of £750 for Park Leisure customers with the credit being placed on the owner’s account on completion of the purchase. This offer is non-transferrable and has no cash value.
+ 
+**8.9% finance rate**
+8.9% APR representative is available for the purchasing of new and pre-owned holiday homes available at all Park Holidays and Park Leisure Parks. This offer is available to new and existing customers. This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. Park Holidays UK Limited retain the right to withdraw or amend this promotion at any time. Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336. We can introduce you to a limited number of lenders who may be able to provide funding for your holiday home and we do not receive commission or other benefits for doing so. Obtaining funding is subject to status, terms, and deposit criteria. Written details are available on request. A Holiday home cannot be used as your only or main residence.
+ 
+**3 year warranty**
+A 3 year manufacturer warranty is included on selected models only. This warranty is non-transferrable and void if the customer moves parks. Customers must register their white goods/appliances as instructed. A warranty period of 12 months is applicable to used holiday homes and is applied to the following items which must pass stringent safety tests before purchase: Oven and hob, water heater, central heating system (where applicable) and manufacturer-fitted gas or electric fire.
 
-**Free Pitch Fees until 2029**
-
-Pitch fees are free for 2027 & 2028 seasons on selected holiday homes only. Fees for the 2029 season are billed in advance in September 2028. A pitch reservation fee is payable in October 2028 at applicable parks - this forms part of your 2029 pitch fees. 
-
-**8.9% Finance Rate**
-
-8.9% APR representative is available for the purchasing of new and pre-owned holiday homes available at all Park Leisure parks.
-This offer is available to new and existing customers. This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. We retain the right to withdraw or amend this promotion at any time.
-
-Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336. We can introduce you to a limited number of lenders who may be able to provide funding for your holiday home and we do not receive commission or other benefits for doing so. Obtaining funding is subject to status, terms, and deposit criteria. Written details are available on request. A Holiday home cannot be used as your only or main residence
-
-**£3,000 Outdoor Living Pack**
-
-This offer is for new customers only and is valid on selected models for qualifying purchases made between 6 July 2026 and 30 October 2026. One voucher per holiday home purchase in partnership with Bridgman. This offer is non-transferable and cannot be combined with other Bridgman offers. Each qualifying customer receives a unique code worth up to £3,000 (inc. VAT) redeemable in a single transaction against the Kensington, Mayfair, Monaco or Bordeaux collections, including Bridgeman accessories. Codes are single-use and must not be shared. Vouchers must be quoted at time of order and expire 31/12/2026. Unused balance will be forfeited: orders exceeding £3,000 require the customer to pay the difference. No cash alternative offered. 
+--
 
 **Fixed Lettings Programme**
 
