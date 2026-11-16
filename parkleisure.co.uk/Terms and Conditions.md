@@ -296,11 +296,13 @@ Pitch fees are free for the 2026 and 2027 season only, unless otherwise stated. 
 
 --
 
-**Make Next Season Yours**
+**Black Friday Offers**
 
-**General terms**
+Offer based on price reductions across selected holiday homes at Park Holidays and Park Leisure parks. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
 
-Offers available to new customers from 2 November 2026 to 1 March 2027. Subject to further terms and conditions available on request. Offers are valid on selected models. Minimum purchase price applies. This offer cannot be used in conjunction with any other offer. Offer excludes running costs and add-ons requested at point of sale. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+**Amazon voucher**
+
+This offer is for new customers only and is valid on selected models in qualifying purchases made between 16 November 2026 and 1st December 2026. Completion of holiday home purchase must take place before 31st December 2026. This offer is non-transferrable and no cash alternative is available. Please refer to Amazon website for more details on gift card usage. Gift card issued in December 2026 upon completion of your purchase of selected holiday homes. Upon purchase, you will be entering into an agreement with Park Holidays UK and Park Leisure Limited.
 
 **Free pitch fees until 2028**
 
@@ -313,10 +315,6 @@ This offer is available to new customers only and is valid on selected models fo
 **8.9% finance rate**
 
 8.9% APR representative is available for the purchasing of new and pre-owned holiday homes available at all Park Holidays and Park Leisure Parks. This offer is available to new and existing customers. This promotional offer is subject to holiday home and pitch availability, and finance is subject to status. Park Holidays UK Limited retain the right to withdraw or amend this promotion at any time. Park Holidays UK Limited and associated Park Leisure trading names are registered in England (Reg. No. 02434151) who are authorised and regulated by the Financial Conduct Authority (FCA) for consumer credit broking activities under registration numbers 669336. We can introduce you to a limited number of lenders who may be able to provide funding for your holiday home and we do not receive commission or other benefits for doing so. Obtaining funding is subject to status, terms, and deposit criteria. Written details are available on request. A Holiday home cannot be used as your only or main residence.
-
-**3 year warranty**
-
-A 3 year manufacturer warranty is included on selected models only. This warranty is non-transferrable and void if the customer moves parks. Customers must register their white goods/appliances as instructed. A warranty period of 12 months is applicable to used holiday homes and is applied to the following items which must pass stringent safety tests before purchase: Oven and hob, water heater, central heating system (where applicable) and manufacturer-fitted gas or electric fire.
 
 --
 
