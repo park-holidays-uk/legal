@@ -298,7 +298,7 @@ Pitch fees are free for the 2026 and 2027 season only, unless otherwise stated. 
 
 **Black Friday Offers**
 
-Offer based on price reductions across selected holiday homes at Park Holidays and Park Leisure parks. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence.
+Offer based on price reductions across selected holiday homes at Park Holidays and Park Leisure parks. We reserve the right to withdraw this offer at any time without notice. A holiday home cannot be used as your only or main residence. Offer to end at 11:59 Monday 30 November 2026. 
 
 **Amazon voucher**
 
