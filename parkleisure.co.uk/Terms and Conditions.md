@@ -302,7 +302,7 @@ Offer based on price reductions across selected holiday homes at Park Holidays a
 
 **Amazon voucher**
 
-This offer is for new customers only and is valid on selected models in qualifying purchases made between 16 November 2026 and 1st December 2026. Completion of holiday home purchase must take place before 31st December 2026. This offer is non-transferrable and no cash alternative is available. Please refer to Amazon website for more details on gift card usage. Gift card issued in December 2026 upon completion of your purchase of selected holiday homes. Upon purchase, you will be entering into an agreement with Park Holidays UK and Park Leisure Limited.
+This offer is for new customers only and is valid on selected models in qualifying purchases made between 16 November 2026 and 11:59 Monday 30 November 2026. Completion of holiday home purchase must take place before 31 December 2026. This offer is non-transferrable and no cash alternative is available. Please refer to Amazon website for more details on gift card usage. Gift card issued in December 2026 upon completion of your purchase of selected holiday homes. Upon purchase, you will be entering into an agreement with Park Holidays UK and Park Leisure Limited.
 
 **Free pitch fees until 2028**
 
